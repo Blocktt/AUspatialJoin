@@ -1,0 +1,7 @@
+Results Log from KDHEtools Shiny App
+2024-04-16 13:59:23.329376
+file = MonLoc_WQP_20240415.csv
+There ARE 272 lake monitoring locations missing AU data.
+There ARE 801 stream monitoring locations missing AU data.
+
+

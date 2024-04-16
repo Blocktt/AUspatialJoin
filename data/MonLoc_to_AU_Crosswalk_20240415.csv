@@ -1,0 +1,1262 @@
+Dist_m,MonitoringLocationIdentifier,State,MonitoringLocationName,MonitoringLocationTypeName,LatitudeMeasure,LongitudeMeasure,AU_ID,AU_NAME
+0,USGS-12300110,Montana,Lake Koocanusa at international boundary,Lake,48.98963056,-115.1809694,MT76D003_010,Lake Koocanusa
+0,USGS-12301600,Montana,Lake Koocanusa bl Pinkham Cr nr Rexford MT,Lake,48.8269061,-115.2671173,MT76D003_010,Lake Koocanusa
+0,USGS-12301830,Montana,Lake Koocanusa at Tenmile Cr nr Libby MT,Lake,48.58495918,-115.2321101,MT76D003_010,Lake Koocanusa
+0,USGS-12301919,Montana,"Lake Koocanusa at forebay, nr Libby, MT",Lake,48.4140833,-115.3083056,MT76D003_010,Lake Koocanusa
+0,USGS-450104108151501,Montana,"Bighorn Lake above Devil Canyon, near Warren, MT",Lake,45.01777778,-108.2541667,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+1175.624039,USGS-450112108135801,Montana,"Bighorn Lake in Devil Canyon, near Warren, MT",Lake,45.02,-108.2327778,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+14.63118346,MTVOLWQM_WQX-HAB-CFYESHR,Montana,Canyon Ferry Lake near East Shore Drive,Lake,46.6316,-111.6804,MT41I003_010,Canyon Ferry Reservoir
+0,USGS-450311108133601,Montana,"Bighorn Lake above Layout Creek, near Warren, MT",Lake,45.05305556,-108.2266667,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+0,USGS-450416108140101,Montana,"Bighorn Lake at Layout Creek mouth, nr Warren, MT",Lake,45.0711111,-108.2336111,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+14.84502786,MTVOLWQM_WQX-HAB-HSRYRKBRDG,Montana,Hauser Lake at York Road Bridge,Lake,46.7124,-111.8042,MT41I007_040,Hauser Lake
+18.02693298,MTVOLWQM_WQX-HAB-HLTRMANN,Montana,Holter Lake downstream of Mann Gulch,Lake,46.8807,-111.9185,MT41I007_020,Holter Lake
+19.0077866,MTVOLWQM_WQX-HAB-CFYDUCKCK,Montana,Canyon Ferry Reservoir near Duck Creek confluence,Lake,46.460103,-111.502546,MT41I003_010,Canyon Ferry Reservoir
+20.87756826,USGS-450903108101001,Montana,"Bighorn Lake below Deadman Creek, nr Ft Smith, MT",Lake,45.1508333,-108.1694444,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+0,USGS-451248108074201,Montana,"Bighorn Lake bl Dry Head Canyon, nr Ft Smith, MT",Lake,45.2133333,-108.1283333,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+0,USGS-451310108062301,Montana,"Bighorn Lake ab Big Bull Elk Cyn, nr Ft Smith, MT",Lake,45.2194444,-108.1063889,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+2287.528759,USGS-451407108044001,Montana,"Bighorn Lk at Big Bull Elk Cyn mouth, nr Ft Smith",Lake,45.23527778,-108.0777778,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+4705.993199,USGS-451519108035001,Montana,"Bighorn Lake bl Big Bull Elk Cyn, nr Ft Smith, MT",Lake,45.25527778,-108.0638889,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+10690.56897,USGS-451529107582201,Montana,"Bighorn Lk 2.5mi up Black Canyon, nr Ft Smith, MT",Lake,45.25805556,-107.9727778,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+7260.734048,USGS-451536108012801,Montana,"Bighorn Lake above Corral Creek, near Ft Smith, MT",Lake,45.26,-108.0244444,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+10504.8847,USGS-451553107584801,Montana,"Bighorn Lk 1.5mi up Black Cyn, nr Ft Smith BL-19",Lake,45.26477778,-107.9799167,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+9693.771783,USGS-451640108001801,Montana,"Bighorn Lake bl Black Canyon, nr Ft Smith, MT",Lake,45.27777778,-108.005,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+13775.99894,USGS-451803107575201,Montana,"Bighorn Lake bl Box Canyon, nr Fort Smith, MT BL-2",Lake,45.3008611,-107.9645278,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+25.43712154,MTVOLWQM_WQX-SELINDY_ECOLI,Montana,SELINDYECOLI,Lake,47.174,-113.48,MT76F007_010,Seeley Lake
+29.91225046,MTVOLWQM_WQX-HAB-HRSTERMITZ,Montana,Hauser Reservoir at Stermitz Road,Lake,46.668905,-111.82034,MT41I007_040,Hauser Lake
+46.69766606,MTVOLWQM_WQX-HAB-SLYTMRCK,Montana,Seeley Lake at Tamarck Resort,Lake,47.201958,-113.510337,MT76F007_010,Seeley Lake
+47.60583856,USGS-451007108090601,Montana,"Bighorn Lake bl Templeton Creek, nr Ft Smith, MT",Lake,45.1686111,-108.1516667,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+0,USGS-482734115172401,Montana,"Lake Koocanusa nr Yarnell Island, nr Libby, MT",Lake,48.4593833,-115.2900972,MT76D003_010,Lake Koocanusa
+0,USGS-483829115173601,Montana,"Lake Koocanusa ab Allen Gulch, nr Rexford, MT",Lake,48.6414472,-115.2933306,MT76D003_010,Lake Koocanusa
+0,USGS-484619115180401,Montana,"Lake Koocanusa ab Sutton Cr, nr Rexford, MT",Lake,48.77193889,-115.3010167,MT76D003_010,Lake Koocanusa
+0,USGS-485704115110301,Montana,"Lake Koocanusa bl Young Cr, nr Rexford, MT",Lake,48.9510583,-115.1842972,MT76D003_010,Lake Koocanusa
+0,USGS-485944115095701,Montana,"Lake Koocanusa nr Gateway CG, nr Rexford, MT",Lake,48.99547778,-115.1657194,MT76D003_010,Lake Koocanusa
+18811.98359,USGS-445015108105901,Wyoming,"Bighorn Lake below Willow Creek, near Kane, WY",Lake,44.8375,-108.1830556,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+15819.88401,USGS-445146108114701,Wyoming,"Bighorn Lake below Hwy 14A, near Kane, WY",Lake,44.86277778,-108.1963889,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+14731.53639,USGS-445220108120001,Wyoming,"Bighorn Lake at Shoshone River mouth, nr Kane, WY",Lake,44.8722222,-108.2,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+12845.03642,USGS-445341108105701,Wyoming,"Bighorn Lake above Mormon Point, near Kane, WY",Lake,44.8947222,-108.1825,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+8561.250753,USGS-445538108125201,Wyoming,"Bighorn Lake below John Blue Canyon, nr Lovell, WY",Lake,44.9271111,-108.2144167,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+7463.777946,USGS-445604108134201,Wyoming,"Bighorn Lake above The Narrows, near Lovell, WY",Lake,44.93452778,-108.2283056,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+5311.325691,USGS-445711108155201,Wyoming,"Bighorn Lake at Horseshoe Bend, near Lovell, WY",Lake,44.9530833,-108.2643889,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+4298.872828,USGS-445742108143001,Wyoming,"Bighorn Lake below Horseshoe Bend, near Lovell, WY",Lake,44.96166667,-108.2416667,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+3523.465474,USGS-445806108144501,Wyoming,"Bighorn Lake above Crooked Creek, near Lovell, WY",Lake,44.9683333,-108.2458333,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+3167.485049,USGS-445817108150601,Wyoming,"Bighorn Lake in Crooked Creek arm, near Lovell, WY",Lake,44.97138889,-108.2516667,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+56.26276642,MTVOLWQM_WQX-HAB-HLTRBNDS,Montana,Holter Lake near s-shaped bend near dam,Lake,46.9365,-111.9763,MT41I007_020,Holter Lake
+57.76422378,USGS-450629108111401,Montana,"Bighorn Lk at Twentymile Cyn mouth, nr Ft Smith MT",Lake,45.10805556,-108.1872222,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+74.32206878,MTVOLWQM_WQX-SA_ECOLI,Montana,SAECOLI,Lake,47.066,-113.39,MT76F007_030,Salmon Lake
+76.93634872,MTVOLWQM_WQX-HAB-C03NVDRS01,Montana,Nevada Lake at mid-lake (Reservoir),Lake,46.8,-112.796389,MT76F007_020,Nevada Lake
+97.69098867,MTVOLWQM_WQX-HAB-MARYRONAN,Montana,"Lake Mary Ronan, north shore",Lake,47.94379,-114.39639,MT76O004_020,Lake Mary Ronan
+120.1274168,USGS-450538108125501,Montana,"Bighorn Lake at Barrys Landing, near Warren, MT",Lake,45.09388889,-108.2152778,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+121.4373516,MTVOLWQM_WQX-HAB-NOXVERM,Montana,Noxon Reservoir near the mouth of the Vermillion River,Lake,47.826055,-115.546031,MT76N002_010,Noxon Reservoir
+129.9059079,MTVOLWQM_WQX-HAB-ENNIS,Montana,Ennis Reservoir near dam,Lake,45.45159,-111.65785,MT41F005_030,Ennis Lake
+165.3359039,USGS-450248108140501,Montana,"Bighorn Lake below Booz Canyon, near Warren, MT",Lake,45.04666667,-108.2347222,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+228.9851989,MTWTRSHD_WQX-FH-WOODS,Montana,Flathead Lake at Woods Bay,Lake,48.00066,-114.06081,MT76O003_010,Flathead Lake
+485.981693,MTWTRSHD_WQX-FOYS,Montana,Foys Lake at deep site,Lake,48.16738,-114.36279,MT76O003_030,Middle Foy Lake
+843.8201568,NALMS-F798985,Montana,"Foy Lake, Flathead County, MT, USA",Lake,48.165,-114.359,MT76O003_030,Middle Foy Lake
+879.4878433,COEOMAHA_WQX-FTPPP1,Montana,FTPPP1,Lake,48.01261,-106.4108,MT40E004_010,Fort Peck Reservoir
+0,COEOMAHA_WQX-FTPLK1772A,Montana,FTPLK1772A,Lake,47.99533,-106.4239,MT40E004_010,Fort Peck Reservoir
+0,COEOMAHA_WQX-FTPLK1805DW,Montana,FTPLK1805DW,Lake,47.67997,-106.8796,MT40E004_010,Fort Peck Reservoir
+1139.377875,MTVOLWQM_WQX-FLBS,Montana,Flathead Lake Bio Station,Lake,47.874449,-114.035472,MT76O003_010,Flathead Lake
+0,MDEQ_WQ_WQX-C11FLATL07,Montana,Flathead Lake 0.75 mi. NE of Point Caroline,Lake,48.0429,-114.20098,MT76O003_010,Flathead Lake
+0,MDEQ_WQ_WQX-M09CYNFL12,Montana,Canyon Ferry Lake at Chinaman Cove,Lake,46.6505,-111.71136,MT41I003_010,Canyon Ferry Reservoir
+0,MDEQ_WQ_WQX-M09LHLNC01,Montana,Lake Helena center deep,Lake,46.696722,-111.92855,MT41I007_010,Lake Helena
+0,MDEQ_WQ_WQX-M09LHLNO01,Montana,Lake Helena outlet,Lake,46.701972,-111.90111,MT41I007_010,Lake Helena
+0,MDEQ_WQ_WQX-M31FTPKL30,Montana,Fort Peck Lake lower Dry Arm,Lake,47.812,-106.34369,MT40E004_010,Fort Peck Reservoir
+0,MDEQ_WQ_WQX-Y05CNYRS04,Montana,Cooney Reservoir at deepest point on Red Lodge Arm,Lake,45.44566,-109.231539,MT43D003_010,Cooney Reservoir
+0,MDEQ_WQ_WQX-Y05CNYRS05,Montana,Cooney Reservoir at Marshall Cove,Lake,45.44493,-109.20413,MT43D003_010,Cooney Reservoir
+0,MDEQ_WQ_WQX-Y05CNYRS06,Montana,Cooney Reservoir at Fisherman's Point,Lake,45.43577,-109.22643,MT43D003_010,Cooney Reservoir
+0.489697285,MDEQ_WQ_WQX-Y05CNYRS07,Montana,Cooney Reservoir at Red Lodge Arm campground,Lake,45.44128,-109.22963,MT43D003_010,Cooney Reservoir
+0,MDEQ_WQ_WQX-Y05CNYRS08,Montana,Cooney Reservoir at North Shore boat ramp,Lake,45.44939,-109.21222,MT43D003_010,Cooney Reservoir
+0,MTVOLWQM_WQX-ALVA_3,Montana,Lake Alva at Campground Boat Launch,Lake,47.323087,-113.584782,MT76F007_040,Lake Alva
+13834.09807,MTVOLWQM_WQX-BHRA_BHL1,Montana,"Bighorn Lake 0.35 km above dam, near Ft Smith, MT",Lake,45.301372,-107.964172,MT43P001_011,Bighorn Lake (Yellowtail Reservoir)
+0,MDEQ_WQ_WQX-Y05CNYRS01,Montana,Cooney Reservoir near dam,Lake,45.4475,-109.203056,MT43D003_010,Cooney Reservoir
+0,MTVOLWQM_WQX-HAB-ACKLEYLK,Montana,"Ackley Lake near Hobson, MT",Lake,46.953071,-109.939309,MT41S005_020,Ackley Lake
+0,MTVOLWQM_WQX-HAB-CFYHELLGTE,Montana,Canyon Ferry Reservoir at Hellgate campground,Lake,46.608827,-111.665657,MT41I003_010,Canyon Ferry Reservoir
+0,MTVOLWQM_WQX-HAB-CFYMAYHOOD,Montana,"Canyon Ferry Reservoir at Mayhood Way, near inlet",Lake,46.384729,-111.561314,MT41I003_010,Canyon Ferry Reservoir
+0,MTVOLWQM_WQX-HAB-CFYSILOS,Montana,Canyon Ferry Reservoir near Silos Campground,Lake,46.41328,-111.57085,MT41I003_010,Canyon Ferry Reservoir
+0,MTVOLWQM_WQX-HAB-CFYWHTERTH,Montana,Canyon Ferry Reservoir near White Earth Campground,Lake,46.52217,-111.58689,MT41I003_010,Canyon Ferry Reservoir
+0,MTVOLWQM_WQX-HAB-CLRKCNYNRS,Montana,Clark Canyon Reservoir,Lake,44.97086,-112.87869,MT41A002_010,Clark Canyon Reservoir
+0,MTVOLWQM_WQX-HAB-CLRKCYNDAM,Montana,Boat launch near dam on Clarks Canyon Reservoir,Lake,44.9958,-112.86761,MT41A002_010,Clark Canyon Reservoir
+0,MTVOLWQM_WQX-HAB-COONEY,Montana,Cooney Reservoir,Lake,45.44348,-109.21967,MT43D003_010,Cooney Reservoir
+0,MTVOLWQM_WQX-HAB-ENNISJORDN,Montana,Southwest Lake Ennis near Jordan Lane,Lake,45.424714,-111.709246,MT41F005_030,Ennis Lake
+0,MTVOLWQM_WQX-HAB-HAUSDSSOUP,Montana,Hauser Reservoir downstream of Soup Creek,Lake,46.721446,-111.823953,MT41I007_040,Hauser Lake
+0,MTVOLWQM_WQX-HAB-HBGNCRYSPG,Montana,"Hebgen Reservoir, Gralying Arm, near Corey Springs",Lake,44.802089,-111.173047,MT41F005_010,Hebgen Lake
+3.942203467,MTVOLWQM_WQX-HAB-HBGNE,Montana,"Hebgen Reservoir, east side, Grayling Arm",Lake,44.77971,-111.1679,MT41F005_010,Hebgen Lake
+0,MTVOLWQM_WQX-HAB-HBGNW,Montana,Hebgen Lake on west side arm near dam,Lake,44.8289,-111.295,MT41F005_010,Hebgen Lake
+0,MTVOLWQM_WQX-HAB-HLTR,Montana,Holter Lake,Lake,46.9844,-111.9865,MT41I007_020,Holter Lake
+0,MTVOLWQM_WQX-HAB-HOLTER,Montana,"Holter Reservoir d/s Willow cr, at Ming Bar",Lake,46.890002,-111.952404,MT41I007_020,Holter Lake
+0,MTVOLWQM_WQX-HAB-HOLTERLOG,Montana,Holter Reservoir at Log Gulch,Lake,46.960664,-111.945618,MT41I007_020,Holter Lake
+0,MTVOLWQM_WQX-HAB-HSRCSWY,Montana,Hauser Reservoir at the causeway,Lake,46.702636,-111.901666,MT41I007_040,Hauser Lake
+0,MTVOLWQM_WQX-HAB-HSRDAM,Montana,Hauser Reservoir near the dam,Lake,46.755393,-111.886277,MT41I007_040,Hauser Lake
+0,MTVOLWQM_WQX-HAB-HSRDVLELBW,Montana,Hauser Reservoir near Devil's Elbow boat launch,Lake,46.6995,-111.80296,MT41I007_040,Hauser Lake
+0,MTVOLWQM_WQX-HAB-HSRRES_HR03,Montana,Hauser Lake lower Causeway Arm,Lake,46.73539,-111.89065,MT41I007_040,Hauser Lake
+0,MTVOLWQM_WQX-HAB-HSRRNBW,Montana,Hauser Lake near Rainbow Drive,Lake,46.7094,-111.8912,MT41I007_040,Hauser Lake
+0,MTVOLWQM_WQX-HAB-HSRSOUP,Montana,"Hauser Lake downstream of York Bridge, near Soup Creek",Lake,46.7247,-111.813,MT41I007_040,Hauser Lake
+0,MTVOLWQM_WQX-HAB-HYLT,Montana,Hyalite Reservoir,Lake,45.4869,-110.9767,MT41H006_010,Hyalite Reservoir
+0,MTVOLWQM_WQX-HAB-KOBAYASHI,Montana,Kobayashi Beach on Ennis Lake,Lake,45.448365,-111.672291,MT41F005_030,Ennis Lake
+3.792187597,MTVOLWQM_WQX-HAB-LKHLNWMA,Montana,Lake Helena at Wildlife Management Area,Lake,46.701897,-111.957516,MT41I007_010,Lake Helena
+0,MTVOLWQM_WQX-HAB-M01CCYNR11,Montana,"Clark Canyon Reservior, east shore",Lake,44.989778,-112.854771,MT41A002_010,Clark Canyon Reservoir
+0,MTVOLWQM_WQX-HAB-M06ENISL05,Montana,Ennis Lake near North Meadow Creek inflow,Lake,45.4412,-111.7072,MT41F005_030,Ennis Lake
+0,MTVOLWQM_WQX-HAB-M09LHLNC01,Montana,Lake Helena,Lake,46.693927,-111.931233,MT41I007_010,Lake Helena
+0,MTVOLWQM_WQX-HAB-M13WILRS01,Montana,Willow Creek Reservoir,Lake,47.5524,-112.4377,MT41K004_020,Willow Creek Reservoir
+0,MTVOLWQM_WQX-HAB-M50MEDL01,Montana,Medicine Lake,Lake,48.4692,-104.4357,MT40R003_010,Medicine Lake
+0,MTVOLWQM_WQX-HAB-MARTINSDLE,Montana,Martinsdale Reservoir,Lake,46.440731,-110.261231,MT40A005_030,Martinsdale Reservoir
+0,MTVOLWQM_WQX-HAB-NELR-01,Montana,Nelson Reservoir lower site,Lake,48.5149,-107.53551,MT40M003_020,Nelson Reservoir
+0,MTVOLWQM_WQX-HAB-NELR-03,Montana,Nelson Reservoir upper site,Lake,48.4894,-107.55555,MT40M003_020,Nelson Reservoir
+0,MTVOLWQM_WQX-HAB-NOXKIRBY,Montana,Noxon Reservoir near Kirby boat ramp,Lake,47.813727,-115.52454,MT76N002_010,Noxon Reservoir
+0,MTVOLWQM_WQX-HAB-NVDAM,Montana,Nevada Reservoir near the dam,Lake,46.80276,-112.81026,MT76F007_020,Nevada Lake
+0,MTVOLWQM_WQX-HAB-NXNLKSDLN,Montana,Noxon Reservoir near Lake Side Lane,Lake,47.8457,-115.5862,MT76N002_010,Noxon Reservoir
+0.48679566,MTVOLWQM_WQX-HAB-PKLYPRCK,Montana,Lake Helena Outlet at causeway,Lake,46.70271,-111.90189,MT41I007_040,Hauser Lake
+0,MTVOLWQM_WQX-HAB-RUBYRES,Montana,Ruby Reservoir,Lake,45.22452,-112.12349,MT41C004_010,Ruby River Reservoir
+0,MTVOLWQM_WQX-HAB-SALMON,Montana,Salmon Lake near State Park Boat launch,Lake,47.08797,-113.39593,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-HAB-SLYBIGLRCH,Montana,Seeley Lake near Big Larch Campground,Lake,47.192983,-113.505795,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SA2,Montana,SALMON2,Lake,47.097,-113.405,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-LMR-COR,Montana,Lake Mary Ronan-Cormorants,Lake,47.9245,-114.422183,MT76O004_020,Lake Mary Ronan
+0,MTVOLWQM_WQX-LMR-EAST,Montana,Lake Mary Ronan East Location,Lake,47.93625,-114.39285,MT76O004_020,Lake Mary Ronan
+0,MTVOLWQM_WQX-LMR-WEST,Montana,Lake Mary Ronan West Location,Lake,47.92133,-114.40815,MT76O004_020,Lake Mary Ronan
+0,MTVOLWQM_WQX-SE1_DEEP,Montana,SEELEY1_Deep,Lake,47.175,-113.489,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SE2,Montana,SEELEY2,Lake,47.186,-113.504,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-AL1,Montana,ALVA,Lake,47.316,-113.583,MT76F007_040,Lake Alva
+0,MTVOLWQM_WQX-ALVA_1,Montana,Lake Alva Mid-Lake Deep,Lake,47.31611,-113.58336,MT76F007_040,Lake Alva
+0,MTVOLWQM_WQX-SA1,Montana,SALMON1,Lake,47.069,-113.386,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SA5,Montana,SALMON5,Lake,47.105,-113.41,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMON_1,Montana,Salmon Lake at Salmon Cove Rd,Lake,47.06901,-113.386039,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMON_2,Montana,Salmon Lake at South Bay,Lake,47.07597,-113.388008,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMON_3,Montana,Salmon Lake 800 ft N of Woodworth Rd,Lake,47.1001,-113.402991,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMON_4,Montana,Salmon Lake at Sourdough Island,Lake,47.104779,-113.410201,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMON_5,Montana,"Salmon Lake near Hwy 83, N Boat Launch",Lake,47.108858,-113.423881,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMON_6,Montana,Salmon Lake at upper State Park Campground,Lake,47.094443,-113.400204,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMON_7,Montana,Salmon Lake at lower State Park Campground,Lake,47.086361,-113.39436,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMON_8,Montana,Salmon Lake at southern pulloff of Hwy 83,Lake,47.071654,-113.384687,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMONLKMN,Montana,Salmon Lake mid-north basin,Lake,47.09658,-113.4048,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMONLKMS,Montana,Salmon Lake mid-south basin,Lake,47.08842,-113.39993,MT76F007_030,Salmon Lake
+0,MTVOLWQM_WQX-SALMONLKN,Montana,Salmon Lake north basin,Lake,47.10328,-113.41338,MT76F007_030,Salmon Lake
+0.252848746,MTVOLWQM_WQX-SE8,Montana,SEELEY8,Lake,47.213,-113.522,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_1,Montana,Seeley Lake at south bay,Lake,47.173675,-113.481566,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_10,Montana,Seeley Lake at Deer Creek Inlet,Lake,47.208598,-113.529745,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_11,Montana,Seeley Lake near Forest Service Cabins,Lake,47.197047,-113.519591,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_12,Montana,Seeley Lake at Seeley Creek Inlet,Lake,47.179844,-113.489499,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_13,Montana,Seeley Lake at S Bay near Dock,Lake,47.174026,-113.480546,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_2,Montana,Seeley Lake at SW bay off C St,Lake,47.173334,-113.492424,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_3,Montana,Seeley Lake at Montana Pines,Lake,47.193367,-113.507714,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_4,Montana,Seeley Lake at SL Campground near river outlet,Lake,47.189861,-113.515167,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_5,Montana,Seeley Lake at Tamarack's Resort,Lake,47.203581,-113.512364,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_6,Montana,Seeley Lake at Ranger Station (Rice Creek),Lake,47.212854,-113.521901,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_7,Montana,Seeley Lake at N end of River Point Campground,Lake,47.188128,-113.514231,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_8,Montana,Seeley Lake at S end of Big Larch Campground,Lake,47.181081,-113.490904,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEY_9,Montana,Seeley Lake at Clearwater River Inlet,Lake,47.211833,-113.526833,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEYLKM,Montana,Seeley Lake middle basin,Lake,47.18636,-113.50449,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEYLKN,Montana,Seeley Lake north basin,Lake,47.20462,-113.51986,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SEELEYLKS,Montana,Seeley Lake south basin,Lake,47.17493,-113.48854,MT76F007_010,Seeley Lake
+0,MTVOLWQM_WQX-SM,Montana,Somers,Lake,48.077402,-114.232724,MT76O003_010,Flathead Lake
+0,MTVOLWQM_WQX-VP,Montana,Volunteer Park,Lake,48.019749,-114.222695,MT76O003_010,Flathead Lake
+0,MTVOLWQM_WQX-WF,Montana,Wayfarers State Park,Lake,48.054638,-114.08343,MT76O003_010,Flathead Lake
+0.970629907,MTVOLWQM_WQX-WSH,Montana,West Shore State Park,Lake,47.948115,-114.184269,MT76O003_010,Flathead Lake
+0,MTWTRSHD_WQX-ASHLEY-E,Montana,Ashley Lake at east deep site,Lake,48.21303,-114.59737,MT76O004_010,Ashley Lake
+0,MTWTRSHD_WQX-ASHLEY-W,Montana,Ashley Lake at west deep site,Lake,48.20261,-114.62091,MT76O004_010,Ashley Lake
+0,MTVOLWQM_WQX-WOODSBAY,Montana,Woods Bay,Lake,47.994408,-114.062506,MT76O003_010,Flathead Lake
+0,MTWTRSHD_WQX-FH-CONRAD,Montana,Flathead Lake at Conrad Point,Lake,48.0072,-114.19223,MT76O003_010,Flathead Lake
+0,MTWTRSHD_WQX-FH-SOMERS,Montana,Flathead Lake at Somers,Lake,48.03989,-114.13678,MT76O003_010,Flathead Lake
+0,MTWTRSHD_WQX-HOLLAND,Montana,Holland Lake at deep site,Lake,47.44784,-113.59959,MT76K004_020,Holland Lake
+0,MTWTRSHD_WQX-LINDBERGH,Montana,Lindbergh Lake at deep site,Lake,47.38825,-113.73553,MT76K004_010,Lindbergh Lake
+0,MTWTRSHD_WQX-MARYRON-E,Montana,Mary Ronan Lake East,Lake,47.936712,-114.396049,MT76O004_020,Lake Mary Ronan
+0,MTWTRSHD_WQX-MARYRON-W,Montana,Mary Ronan Lake West,Lake,47.9259,-114.40219,MT76O004_020,Lake Mary Ronan
+0,MTWTRSHD_WQX-SWAN-N,Montana,Swan Lake North End,Lake,47.942975,-113.878581,MT76K002_010,Swan Lake
+0,MTWTRSHD_WQX-SWAN-S,Montana,Swan Lake South End,Lake,47.925127,-113.859575,MT76K002_010,Swan Lake
+0,MTWTRSHD_WQX-WF-LK-IP1,Montana,Whitefish Lake at IP1,Lake,48.47135,-114.39284,MT76P004_010,Whitefish Lake
+0,MTWTRSHD_WQX-WF-LK-IP2,Montana,Whitefish Lake at IP2,Lake,48.42109,-114.35722,MT76P004_010,Whitefish Lake
+0,NALMS-F772475,Montana,"Holland Lake, Missoula County, MT, USA",Lake,47.448,-113.599,MT76K004_020,Holland Lake
+0,NALMS-F779175,Montana,"Ashley Lake, Flathead County, MT, USA, 48.2044038, -114.6165276",Lake,48.204,-114.617,MT76O004_010,Ashley Lake
+0,NALMS-F786171,Montana,"Lindbergh Lake, Missoula County, MT, USA",Lake,47.393,-113.73,MT76K004_010,Lindbergh Lake
+0,NALMS-F786905,Montana,"Lake Mary Ronan, Lake County, MT, USA",Lake,47.926,-114.401,MT76O004_020,Lake Mary Ronan
+0,NALMS-F791785,Montana,"Swan Lake, Lake County, MT, USA",Lake,47.969,-113.912,MT76K002_010,Swan Lake
+0,NALMS-F793220,Montana,"Whitefish Lake, Flathead County, MT, USA",Lake,48.451,-114.382,MT76P004_010,Whitefish Lake
+0,TECK_AMERICAN-REXFORD,Montana,Lake Koocanusa near REXFORD,Lake,48.9085,-115.185,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-RFBL,Montana,South Black Lake,Lake,48.876499,-115.21067,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-RFDO,Montana,North Point Dodge Creek,Lake,48.93093,-115.189303,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-RFMSO,Montana,Middle Sophie,Lake,48.976639,-115.139546,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-RFMU,Montana,North Point Murray,Lake,48.950222,-115.1542,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-RFNSO,Montana,North Sophie,Lake,48.989971,-115.159167,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-RFTO,Montana,North Point Tobacco,Lake,48.918713,-115.177661,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-RFTON,Montana,North of North Point Tobacco,Lake,48.932197,-115.156301,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-RFYO,Montana,North Point Young Creek,Lake,48.969808,-115.179847,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-TMBA,Montana,North Point Barron,Lake,48.50465,-115.2878,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-TMBB,Montana,Big Bend,Lake,48.56417,-115.20703,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-TMCA,Montana,South Point Canyon,Lake,48.4242,-115.30032,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-TMJA,Montana,North Point Jackson,Lake,48.4678,-115.30907,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-TMNB,Montana,North Point Bristow,Lake,48.54681,-115.2448403,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-TMSB,Montana,South Point Brsitow,Lake,48.53826,-115.26468,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-TMSP,Montana,South Point Ten Mile,Lake,48.5903,-115.21507,MT76D003_010,Lake Koocanusa
+0,TECK_AMERICAN-TMWA,Montana,South Point Warland,Lake,48.499751,-115.266774,MT76D003_010,Lake Koocanusa
+0,USACENWS_WQX-LIBFB,Montana,Forebay,Lake,48.411106,-115.312348,MT76D003_010,Lake Koocanusa
+0,USACENWS_WQX-LIBTMC,Montana,Ten Mile Creek,Lake,48.587128,-115.232889,MT76D003_010,Lake Koocanusa
+0,USACENWS_WQX-LIBBOR,Montana,Border,Lake,48.995982,-115.182805,MT76D003_010,Lake Koocanusa
+0,WYDEQ_WATERSHED-WYDEQ_RES_106,Wyoming,"Brooks Lake, Outlet Quad",Lake,43.752975,-109.998512,WYBH100800010104_01,Brooks Lake
+0,WYDEQ_WATERSHED-WYDEQ_RES_256,Wyoming,OCEAN LAKE - LPD,Lake,43.18811667,-108.6163017,WYBH100800050202_01,Ocean Lake
+0,WYDEQ_WATERSHED-WYDEQ_RES_257,Wyoming,OCEAN LAKE - RTPD,Lake,43.20666333,-108.6193267,WYBH100800050202_01,Ocean Lake
+366.263564,WYDEQ_WATERSHED-WYDEQ_RES_277,Wyoming,"Brooks Lake, Lodge WWTF",Lake,43.749118,-110.008487,WYBH100800010104_01,Brooks Lake
+0,WYDEQ_WATERSHED-WYDEQ_RES_298,Wyoming,"Brooks Lake, Deepest",Lake,43.75561,-110.002625,WYBH100800010104_01,Brooks Lake
+0,WYDEQ_WATERSHED-WYDEQ_RES_300,Wyoming,"Brooks Lake, SW Quad",Lake,43.7545,-110.00615,WYBH100800010104_01,Brooks Lake
+0,WYDEQ_WATERSHED-WYDEQ_RES_301,Wyoming,"Brooks Lake, NW Quad",Lake,43.75939,-110.005941,WYBH100800010104_01,Brooks Lake
+0,WYDEQ_WATERSHED-WYDEQ_RES_302,Wyoming,"Brooks Lake, NE Quad",Lake,43.758686,-109.999698,WYBH100800010104_01,Brooks Lake
+22.36339833,USGS-06364705,Wyoming,"Antelope Creek below Beckwith Cr, near Teckla, WY",Stream,43.4534222,-105.1403694,WYCR101201010000_01,Antelope Creek
+8.989537359,USGS-06031450,Montana,Boulder River ab Kleinsmith Gulch nr Basin MT,Stream,46.269651,-112.2794548,MT41E001_010,Boulder River
+11.77593994,MDEQ_WQ_WQX-Y17AREFC50,Montana,Armells Creek East Fork downstream of golf course,Stream,45.91932,-106.64246,MT42K002_110,East Fork Armells Creek
+6.063932176,USGS-06031960,Montana,Cataract Creek at Basin MT,Stream,46.27131769,-112.2419524,MT41E002_020,Cataract Creek
+4.114073676,USGS-06032400,Montana,Boulder River bl Little Galena Gulch nr Boulder MT,Stream,46.2493727,-112.1750037,MT41E001_021,Boulder River
+13.64060791,MDEQ_WQ_WQX-Y17AREFC65,Montana,Armells Creek East Fork near Colstrip WWTP ponds,Stream,45.89012,-106.62317,MT42K002_110,East Fork Armells Creek
+2.847974748,USGS-06076550,Montana,Newlan C at Mouth nr White Sulpher Springs MT,Stream,46.59188755,-111.0491093,MT41J002_081,Newlan Creek
+6.3351091,USGS-06076560,Montana,Smith River bl Newlan Cr nr White Sulphur Springs,Stream,46.59105,-111.0576861,MT41J001_010,Smith River
+12.22551139,MDEQ_WQ_WQX-Y17AREFC04,Montana,Armells Creek East Fork on mine property,Stream,45.87028,-106.63474,MT42K002_110,East Fork Armells Creek
+13.73313573,MTVOLWQM_WQX-ASHCR1,Montana,Ashley Creek 1,Stream,48.174897,-114.309089,MT76O002_030,Ashley Creek
+12.15000104,USGS-06031600,Montana,Basin Creek at Basin MT,Stream,46.2710399,-112.2625093,MT41E002_030,Basin Creek
+0.187297397,USGS-06094500,Montana,Birch Cr at Swift Dam nr Dupuyer MT,Stream,48.1654833,-112.869025,MT41M002_081,Birch Creek
+12.01631701,MDEQ_WQ_WQX-Y05BEARC15,Montana,Bear Creek 0.6 mi above Belfry,Stream,45.1415,-109.034513,MT43D002_020,Bear Creek
+14.47408653,MDEQ_WQ_WQX-Y05BEARC03,Montana,Bear Creek above the town of Bear Creek,Stream,45.156545,-109.18365,MT43D002_020,Bear Creek
+7.235828883,USGS-06098120,Montana,"Birch Creek at Bullhead Bridge, nr Valier, MT",Stream,48.39110278,-112.319661,MT41M002_080,Birch Creek
+3.37769286,USGS-06110020,Montana,Judith River above Carr Creek near Utica MT,Stream,46.9177222,-110.1889444,MT41S001_040,Judith River
+0.044236639,USGS-06142400,Montana,Clear Creek near Chinook MT,Stream,48.5788694,-109.3911306,MT40J002_040,Clear Creek
+6.839020657,USGS-06191820,Montana,Big Cr at Kendall Bridge nr Emigrant MT,Stream,45.3057681,-110.848273,MT43B004_111,Big Creek
+56.52881109,MDEQ_WQ_WQX-Y01BEARC04,Montana,Bear Creek near mouth,Stream,45.03194,-110.66556,MT43B002_021,Bear Creek
+20.24118294,USGS-10016900,Wyoming,"BEAR RIVER AT EVANSTON, WY",Stream,41.2698611,-110.9636944,WYBR160101010303_01,Bear River
+29.15212988,USGS-464430111130201,Montana,"Beaver Cr at Clear Range Rd, nr Ft Logan, MT",Stream,46.74175,-111.2170833,MT41J002_040,Beaver Creek
+4.066389282,USGS-06329500,Montana,Yellowstone River near Sidney MT,Stream,47.67741389,-104.1554111,MT42M001_011,Yellowstone River
+12.19441683,NARS_WQX-NRS_MT-10287,Montana,Beaver Creek,Stream,48.34597873,-107.5838055,MT40M001_020,Beaver Creek
+29.67437415,MDEQ_WQ_WQX-M10BEVRC14,Montana,Beaver Creek at Clear Range Rd crossing,Stream,46.74175,-111.21706,MT41J002_040,Beaver Creek
+0.051488216,USGS-12303500,Montana,Lake Creek at Troy MT,Stream,48.4468611,-115.877136,MT76D002_070,Lake Creek
+8.680860497,USGS-12304500,Montana,Yaak River near Troy MT,Stream,48.5617222,-115.9701583,MT76B001_010,Yaak River
+5.368291645,USGS-12323242,Montana,"Silver Bow Creek at Montana Street, at Butte, MT",Stream,45.99572778,-112.538761,MT76G003_020,Silver Bow Creek
+12.7934086,MTVOLWQM_WQX-MO_BEAVER,Montana,"Beaver Creek, DEQ ID MT41I002_030",Stream,46.48798,-111.67168,MT41I002_030,Beaver Creek
+11.73338529,MTVOLWQM_WQX-HB-1,Montana,Beaverhead River near CC Dam,Stream,45.01794,-112.8391,MT41B001_010,Beaverhead River
+7.78894601,USGS-12323670,Montana,"Mill Creek nr Anaconda, MT",Stream,46.0829722,-112.9171889,MT76G002_052,Mill Creek
+13.21633026,MTVOLWQM_WQX-PD-2,Montana,Beaverhead River near Dillon,Stream,45.18261,-112.68961,MT41B001_020,Beaverhead River
+5.978026998,USGS-12323710,Montana,"Willow Creek nr Anaconda, MT",Stream,46.0645111,-112.8935306,MT76G002_061,Willow Creek
+5.995808957,USGS-12323720,Montana,"Willow Creek at Opportunity, MT",Stream,46.10716389,-112.810611,MT76G002_062,Willow Creek
+18.67820134,USGS-06426500,Wyoming,"BELLE FOURCHE RIVER BELOW MOORCROFT, WY",Stream,44.32192645,-104.9405313,WYBF101202010504_00,Belle Fourche River
+14.61781359,MDEQ_WQ_WQX-M10BENTG01,Montana,Benton Gulch at mouth and upstream confluence with Smith,Stream,46.70551,-111.19429,MT41J002_050,Benton Gulch
+7.289726023,USGS-12323770,Montana,Warm Springs Creek at Warm Springs MT,Stream,46.180375,-112.7850778,MT76G002_012,Warm Springs Creek
+4.423564901,USGS-12323840,Montana,Lost Creek near Anaconda MT,Stream,46.161325,-112.8937972,MT76G002_072,Lost Creek
+1.288017716,USGS-12323850,Montana,"Lost Creek near Galen, MT",Stream,46.2185722,-112.7741667,MT76G002_072,Lost Creek
+12.23011725,MDEQ_WQ_WQX-Y03BIGC01,Montana,Big Creek,Stream,45.3037,-110.94,MT43B004_112,Big Creek
+6.04449524,USGS-12324680,Montana,Clark Fork at Goldcreek MT,Stream,46.58998889,-112.9287139,MT76G001_010,Clark Fork River
+7.937059613,USGS-12331800,Montana,Clark Fork near Drummond MT,Stream,46.71191389,-113.3307806,MT76E001_010,Clark Fork River
+0.673854802,USGS-12334550,Montana,Clark Fork at Turah Bridge nr Bonner MT,Stream,46.8259111,-113.8140306,MT76E001_010,Clark Fork River
+80.3262423,MDEQ_WQ_WQX-C06BIGC07,Montana,Big Creek at Big Creek campground,Stream,48.60242,-114.16391,MT76Q002_050,Big Creek
+8.681663096,USGS-12340000,Montana,Blackfoot River near Bonner MT,Stream,46.8994111,-113.7563194,MT76F001_033,Blackfoot River
+20.48093505,MTVOLWQM_WQX-BHKA,Montana,Big Hole - at Kalsta Bridge,Stream,45.525341,-112.701475,MT41D001_010,Big Hole River
+17.14881471,MTVOLWQM_WQX-BHMEL,Montana,Big Hole - at Melrose,Stream,45.62572,-112.68745,MT41D001_010,Big Hole River
+29.88890026,MTVOLWQM_WQX-BHW,Montana,Big Hole - at Wisdom,Stream,45.62071,-113.454946,MT41D001_030,Big Hole River
+10.31381643,MTVOLWQM_WQX-BHMELBR,Montana,Big Hole - Middle River,Stream,45.58417,-112.68718,MT41D001_010,Big Hole River
+8.521453204,USGS-463138110580001,Montana,NF Smith R ab conf nr White Sulphur Springs,Stream,46.52708889,-110.9666306,MT41J002_011,North Fork Smith River
+36.39477236,MTVOLWQM_WQX-BHTW,Montana,Big Hole - near Twin Bridges at High Road Bridge,Stream,45.549705,-112.36064,MT41D001_010,Big Hole River
+36.44682894,MDEQ_WQ_WQX-M03BGHLR30,Montana,Big Hole River at Fishtrap Creek FAS,Stream,45.86998,-113.2247,MT41D001_020,Big Hole River
+81.60923828,MDEQ_WQ_WQX-M03BGHLR15,Montana,Big Hole River at Kalsta Bridge,Stream,45.52667,-112.70083,MT41D001_010,Big Hole River
+7.515244205,USGS-464508111100301,Montana,"Smith R ab Whitetail Deer Cr, nr Ft Logan, MT",Stream,46.75230556,-111.1675278,MT41J001_010,Smith River
+4.216689935,USGS-464753110542301,Montana,"Sheep Cr ab Moose Cr, nr White Sulphur Springs, MT",Stream,46.79805556,-110.9063889,MT41J002_030,Sheep Creek
+33.15140911,MDEQ_WQ_WQX-M03BGHLR38,Montana,Big Hole River at Maiden Rock FAS,Stream,45.663165,-112.698275,MT41D001_010,Big Hole River
+4.235858582,USGS-481402112435401,Montana,"Birch Cr at Heart Butte Road, nr Heart Butte, MT",Stream,48.23377778,-112.73175,MT41M002_081,Birch Creek
+75.91871959,MTVOLWQM_WQX-HAB-BIGHOLEDVD,Montana,Big Hole River below Divide,Stream,45.74042,-112.75527,MT41D001_020,Big Hole River
+2.995775441,USGS-481812112200601,Montana,"Dupuyer Creek at highway 44, near Valier, MT",Stream,48.30327778,-112.334861,MT41M002_110,Dupuyer Creek
+15.28021399,NARS_WQX-NRS_MT-10548,Montana,Big Muddy Creek,Stream,48.87949882,-104.922924,MT40R001_020,Big Muddy Creek
+2.91704572,USGS-481819112345001,Montana,"Birch Cr bl Kingsbury Canal, nr Dupuyer, MT",Stream,48.30527778,-112.5804722,MT41M002_081,Birch Creek
+6.893024438,USGS-481855112233101,Montana,"Birch Creek at Kuka Road, near Valier, MT",Stream,48.31516667,-112.3918333,MT41M002_080,Birch Creek
+9.541314806,USGS-482049112291401,Montana,"Birch Creek at Stoltz Road, near Valier, MT",Stream,48.34705556,-112.4873333,MT41M002_080,Birch Creek
+2.544831522,USGS-10020100,Wyoming,"BEAR RIVER ABOVE RESERVOIR, NEAR WOODRUFF, UT",Stream,41.4343899,-111.0176863,WYBR160101010303_01,Bear River
+43.14528454,FORTPECK-BM-S-BM-015,Montana,Big Muddy Creek - Middle,Stream,48.339722,-104.58888,MT40R001_010,Big Muddy Creek
+24.07581267,FORTPECK-BM-S-BM-014,Montana,Big Muddy Creek - South,Stream,48.215556,-104.68944,MT40R001_010,Big Muddy Creek
+57.76127196,FORTPECK-BP-S-BP-002,Montana,Big Porcupine Creek - Middle,Stream,48.319722,-106.39777,MT40O003_010,Porcupine Creek
+37.67480817,FORTPECK-BP-S-BP-003,Montana,Big Porcupine Creek - North,Stream,48.448889,-106.47444,MT40O003_010,Porcupine Creek
+41.15017366,FORTPECK-BP-S-BP-001,Montana,Big Porcupine Creek - South,Stream,48.206667,-106.3825,MT40O003_010,Porcupine Creek
+13.60395997,USGS-09215550,Wyoming,"BIG SANDY RIVER BELOW FARSON, WY",Stream,42.0732887,-109.4792976,WYGR140401040407_01,Big Sandy River 
+8.670692309,USGS-06299980,Wyoming,"TONGUE RIVER AT MONARCH, WY",Stream,44.9002493,-107.020905,WYTR100901010111_02,Tongue River
+8.462345494,USGS-06306000,Wyoming,"Tongue River near Acme, WY",Stream,44.9446111,-106.942275,WYTR100901010301_01,Tongue River 
+31.62783647,MDEQ_WQ_WQX-M22BSPRC08,Montana,Big Spring Creek upstream of Hruska Fishing access,Stream,47.1119,-109.5016,MT41S004_020,Big Spring Creek
+56.61111162,USGS-06274300,Wyoming,"BIGHORN RIVER AT BASIN, WY",Stream,44.3832907,-108.0362117,WYBH100800071000_02,Bighorn River 
+4.270862463,USGS-06324970,Wyoming,"LITTLE POWDER RIVER AB DRY CREEK, NEAR WESTON, WY",Stream,44.9269288,-105.3533268,WYPR100902080500_01,Little Powder River
+333.1232147,MDEQ_WQ_WQX-Y11BIGH01,Montana,Bighorn River at Bighorn at Manuel Lisa FA below interstate,Stream,46.142222,-107.467222,MT43R001_010,Bighorn River
+48.87357101,MTVOLWQM_WQX-BHRA_Y11BIGH01,Montana,Bighorn River at Manual Lisa FAS downstream of I-94 Bridge,Stream,46.144517,-107.464533,MT43R001_010,Bighorn River
+35.93258776,MDEQ_WQ_WQX-Y11BGHNR02,Montana,Bighorn River at Manuel Lisa FAS,Stream,46.14575,-107.46502,MT43R001_010,Bighorn River
+14.93237627,USGS-06268600,Wyoming,"BIGHORN RIVER AT WORLAND, WY",Stream,44.01467908,-107.9695392,WYBH100800071000_01,Bighorn River
+11.02776698,USGS-481034112510101,Montana,"Birch Ck below Eagle Creek, nr Heart Butte, MT",Stream,48.1762222,-112.8503056,MT41M002_081,Birch Creek
+2.525740452,USGS-06755960,Wyoming,"CROW CREEK AT 19TH STREET, AT CHEYENNE, WY",Stream,41.13109269,-104.8285796,WYSP101900090107_04,Crow Creek
+32.52488498,USGS-481814112350301,Montana,"Birch Cr ab Kingsbury Canal, nr Dupuyer, MT",Stream,48.30377778,-112.584111,MT41M002_081,Birch Creek
+16.88793275,USGS-06094900,Montana,"Birch Cr bl Heart Butte Road, nr Heart Butte, MT",Stream,48.24466667,-112.6979167,MT41M002_081,Birch Creek
+67.62755903,USGS-481506112373201,Montana,"Birch Cr Main Canal at diversion, nr Dupuyer, MT",Stream,48.25175,-112.6254444,MT41M002_081,Birch Creek
+13.61925473,BLCKFEET-00000021,Montana,Birch Creek #2,Stream,48.23249167,-112.7346167,MT41M002_081,Birch Creek
+11.21650607,BLCKFEET-00000022,Montana,Birch Creek #3,Stream,48.32213611,-112.5509056,MT41M002_081,Birch Creek
+0.728751821,USGS-09258980,Wyoming,"MUDDY CREEK BELOW YOUNG DRAW, NEAR BAGGS, WY",Stream,41.06815856,-107.6315964,WYLS140500040308_01,Muddy Creek
+24.52140863,USGS-06096000,Montana,"Birch Creek below B Canal, near Dupuyer, MT",Stream,48.2494444,-112.62725,MT41M002_081,Birch Creek
+8.247639632,USGS-13018350,Wyoming,"FLAT CREEK BELOW CACHE CREEK, NEAR JACKSON, WY",Stream,43.4583611,-110.7970278,WYSR170401030205_01,Flat Creek
+49.85046077,USGS-06098100,Montana,Birch Creek near Valier MT,Stream,48.3582444,-112.3383333,MT41M002_080,Birch Creek
+0.92796874,USGS-411805110233101,Wyoming,"Blacks Fork at County Rd 217, near Ft Bridger, WY",Stream,41.30135,-110.3920694,WYGR140401070106_01,Blacks Fork
+114.1340838,MTWTRSHD_WQX-BITR-C05BITTR03,Montana,Bitteroot River at Main St Hamilton Bridge,Stream,46.24693,-114.176,MT76H001_020,Bitterroot River
+102.6422951,MDEQ_WQ_WQX-C05BITRR34,Montana,Bitterroot River above Lolo Creek,Stream,46.755586,-114.063614,MT76H001_030,Bitterroot River
+157.9057162,MTWTRSHD_WQX-BITR-C05BITRR24,Montana,Bitterroot River at Bell Crossing,Stream,46.4436,-114.1263,MT76H001_020,Bitterroot River
+20.58569625,MDEQ_WQ_WQX-C05BITRR74,Montana,Bitterroot River at Bitterroot River FAS,Stream,46.52357,-114.10639,MT76H001_020,Bitterroot River
+3.154855478,USGS-431541110010501,Wyoming,"Green River at Union Pass Bridge, nr Cora, WY",Stream,43.2615083,-110.0179972,WYGR140401010200_01,Green River
+3.069946251,USGS-443448108572701,Wyoming,"Rough Gulch at mouth, near Cody, WY",Stream,44.57998056,-108.9574583,WYBH100800140107_01,Dry Gulch
+17.9824071,MDEQ_WQ_WQX-C05BITRR02,Montana,Bitterroot River at Buckhouse Bridge,Stream,46.83012,-114.05406,MT76H001_030,Bitterroot River
+100.9210561,MTWTRSHD_WQX-COMBITR02,Montana,Bitterroot River at Buckhouse Bridge,Stream,46.83194,-114.05306,MT76H001_030,Bitterroot River
+6.643787848,11NPSWRD_WQX-BICA_SHR1,Wyoming,Shoshone River at Kane,Stream,44.8585649,-108.3317818,WYBH100800140504_00,Shoshone River
+1.320577899,11NPSWRD_WQX-ROMN_GLAC_013,Montana,North Fork Flathead River Glacier Rim,Stream,48.4845,-114.102,MT76Q001_010,North Fork Flathead River
+17.78508197,MDEQ_WQ_WQX-C05BITRR35,Montana,Bitterroot River at Florence Bridge,Stream,46.63309,-114.05096,MT76H001_020,Bitterroot River
+2.865208731,11NPSWRD_WQX-ROMN_GLAC_S05,Montana,Ole Creek,Stream,48.307,-113.484,MT76I002_030,Ole Creek
+134.2823875,MTWTRSHD_WQX-COMBITR03,Montana,Bitterroot River at Florence bridge,Stream,46.633056,-114.049167,MT76H001_020,Bitterroot River
+5.558691053,11NPSWRD_WQX-ROMN_GRKO_S01,Montana,Clark Fork River,Stream,46.4087,-112.746,MT76G001_030,Clark Fork River
+0.720598449,11NPSWRD_WQX-YELL_YS549.7M,Montana,Yellowstone River at Corwin Springs,Stream,45.11177425,-110.793318,MT43B003_010,Yellowstone River
+31.76054965,MTWTRSHD_WQX-BITR-C05BITTR06,Montana,Bitterroot River at Hannon Fishing Access,Stream,45.9735,-114.14096,MT76H001_010,Bitterroot River
+44.84691785,MDEQ_WQ_WQX-C05BITRR28,Montana,Bitterroot River at Stevensville,Stream,46.51808,-114.11061,MT76H001_020,Bitterroot River
+19.11565085,MTWTRSHD_WQX-COMBITR04,Montana,Bitterroot River at Veterans Bridge in Hamilton,Stream,46.2792,-114.1606,MT76H001_020,Bitterroot River
+21.46954679,MDEQ_WQ_WQX-C05BITRR13,Montana,Bitterroot River below two channel section,Stream,46.6906,-114.0456,MT76H001_030,Bitterroot River
+13.09581164,MDEQ_WQ_WQX-C05BITER40,Montana,Bitterroot River East Fork 1 mi. d/s Sula on Hwy 93,Stream,45.84356,-113.99968,MT76H002_010,East Fork Bitterroot River
+29.06132181,MDEQ_WQ_WQX-C05BITER60,Montana,Bitterroot River East Fork 300 ftd/s Jennings campground,Stream,45.89515,-113.82223,MT76H002_010,East Fork Bitterroot River
+18.03570726,MDEQ_WQ_WQX-C05BITWR50,Montana,Bitterroot River West Fork just u/s of Bonnie Blue Creek,Stream,45.75046,-114.29353,MT76H003_010,West Fork Bitterroot River
+18.00637564,MDEQ_WQ_WQX-C05BITWR06,Montana,Bitterroot River WF at WF boating access,Stream,45.81498,-114.25351,MT76H003_010,West Fork Bitterroot River
+24.97508212,MDEQ_WQ_WQX-C03BLACR01,Montana,"Blackfoot River 5.8 miles north of Bonner, past Angivin Park",Stream,46.900278,-113.755,MT76F001_033,Blackfoot River
+72.22433286,MDEQ_WQ_WQX-C03BLACR05,Montana,Blackfoot River at Angivin FAS,Stream,46.89654,-113.763449,MT76F001_033,Blackfoot River
+24.74350442,MDEQ_WQ_WQX-C03BKFNF10,Montana,Blackfoot River North Fork at Harry Morgan FAS,Stream,46.97973,-113.09974,MT76F004_030,North Fork Blackfoot River
+8.716893302,ADVENTURESCIENTISTS-48.62.114.14,Montana,North Fork Flathead River (Flathead Wild and Scenic River)-48.62.114.14,Stream,48.6203064,-114.1384137,MT76Q001_010,North Fork Flathead River
+1.51649677,ADVENTURESCIENTISTS-48.78.114.28,Montana,North Fork Flathead River (Flathead Wild and Scenic River)-48.78.114.28,Stream,48.78256498,-114.2817179,MT76Q001_010,North Fork Flathead River
+1.588292556,ADVENTURESCIENTISTS-49.00.114.48,Montana,North Fork Flathead River (Flathead Wild and Scenic River)-49.00.114.48,Stream,49.00105152,-114.4755691,MT76Q001_010,North Fork Flathead River
+10.34094473,USGS-411926110240401,Wyoming,"Blacks Fork ab I-80 BL drain, near Ft Bridger, WY",Stream,41.32395278,-110.4011083,WYGR140401070106_01,Blacks Fork
+17.75560603,USGS-09219200,Wyoming,"Blacks Fork above Smiths Fork, near Lyman, WY",Stream,41.39415,-110.2059583,WYGR140401070106_01,Blacks Fork
+24.77575732,USGS-412140110175701,Wyoming,"Blacks Fork at Highway 413, near Lyman, WY",Stream,41.36115,-110.2991,WYGR140401070106_01,Blacks Fork
+2.182904918,BLCKFEET-00000020,Montana,Birch Creek #1,Stream,48.16636667,-112.8678722,MT41M002_081,Birch Creek
+12.80009381,USGS-09219000,Wyoming,"BLACKS FORK NEAR URIE, WY",Stream,41.35078398,-110.33599,WYGR140401070106_01,Blacks Fork
+10.80226031,MDEQ_WQ_WQX-M01BDYDC06,Montana,Bloody Dick Creek,Stream,45.0427,-113.4087,MT41A003_100,Bloody Dick Creek
+33.56199892,MDEQ_WQ_WQX-Y05BLUWC01,Montana,Blue Water Creek 200 yards above mouth,Stream,45.38507,-108.90203,MT43D002_031,Bluewater Creek
+13.18264167,MDEQ_WQ_WQX-Y05BLUWC25,Montana,Blue Water Creek at Blue Water Rd xing,Stream,45.365177,-108.867033,MT43D002_031,Bluewater Creek
+4.522180173,BLCKFEET-00000063,Montana,Birch Creek #6,Stream,48.35739444,-112.3429417,MT41M002_080,Birch Creek
+7.874117363,BLCKFEET-00000064,Montana,Birch Creek #5,Stream,48.25188889,-112.6242806,MT41M002_081,Birch Creek
+10.17180251,MDEQ_WQ_WQX-Y05BLUWC45,Montana,"Blue Water Creek d/s of hatchery, u/s Orchard ditch",Stream,45.33406,-108.83085,MT43D002_032,Bluewater Creek
+0.487742991,BLCKFEET-00000102,Montana,Birch Two Medicine #10,Stream,48.44460278,-112.2602611,MT41M001_010,Two Medicine River
+14.85397568,MTVOLWQM_WQX-RIBOBT,Montana,Bobtail Creek,Stream,48.427648,-115.603687,MT76D002_080,Bobtail Creek
+2.507923655,MTVOLWQM_WQX-WF-CAMP,Montana,West Fork Madison at Campground,Stream,44.883302,-111.580413,MT41F004_100,West Fork Madison River
+16.36859594,NARS_WQX-NRS_MT-10299,Montana,Box Elder Creek,Stream,47.01519088,-108.1650041,MT40B002_001,Box Elder Creek
+44.19994944,MTWTRSHD_WQX-BH-1,Montana,BROADWATER_HYDROELECTRIC_1,Stream,46.10653,-111.41659,MT41I001_011,Missouri River
+75.63001548,MTWTRSHD_WQX-BH-2,Montana,BROADWATER_HYDROELECTRIC_2,Stream,46.12117,-111.40901,MT41I001_011,Missouri River
+36.83100137,MTWTRSHD_WQX-BH-3,Montana,BROADWATER_HYDROELECTRIC_3,Stream,46.11973,-111.40662,MT41I001_012,Missouri River
+47.61282297,MTWTRSHD_WQX-BH-4,Montana,BROADWATER_HYDROELECTRIC_4,Stream,46.12128,-111.39877,MT41I001_012,Missouri River
+13.59124803,MDEQ_WQ_WQX-C13BULLR24,Montana,Bull River 900 ft below Bear Claw Lane,Stream,48.13648,-115.86666,MT76N003_040,Bull River
+348.7185419,MDEQ_WQ_WQX-C13BLEFR04,Montana,Bull River East Fork d/s of weir,Stream,48.11061,-115.77955,MT76N003_040,Bull River
+5.07865691,FORTPECK-MoRiv_RK 143.1,Montana,Missouri River,Stream,48.073402,-105.222216,MT40S001_012,Missouri River
+15.93327428,USGS-06076590,Montana,Camas C nr Mouth nr White Sulphur Springs MT,Stream,46.6784861,-111.1939194,MT41J002_110,Camas Creek
+10.822228,USGS-06076600,Montana,"Camas Cr at mouth, nr White Sulphur Springs, MT",Stream,46.7033611,-111.192225,MT41J002_110,Camas Creek
+11.18426625,USGS-463605111120501,Montana,"Camas Cr bl Garden Cr nr White Sulphur Springs, MT",Stream,46.6014194,-111.2012667,MT41J002_110,Camas Creek
+5.433322996,FORTPECK-MoRiv_RK210.6,Montana,Missouri River,Stream,48.027172,-105.882289,MT40S001_012,Missouri River
+10.45559274,MTVOLWQM_WQX-CC-HWY,Montana,Cherry Creek at Highway,Stream,45.62215,-111.54866,MT41F002_010,Cherry Creek
+27.45436376,NARS_WQX-NRS_WY-10631,Wyoming,Cheyenne River,Stream,43.35868535,-104.3094053,WYCR101201030000_01,Cheyenne River
+7.909924604,FTBLKNAP-MM-MRV-01,Montana,Milk River,Stream,48.5244,-108.8553,MT40J001_011,Milk River
+8.435733703,FTBLKNAP-MM-MRV-04,Montana,Milk River,Stream,48.4025,-108.2938,MT40J001_012,Milk River
+50.3252145,MDEQ_WQ_WQX-C09CIKNC01,Montana,Chicken Creek above upper Whitefish road crossing,Stream,48.6251,-114.5291,MT76P003_050,Chicken Creek
+12.78199726,MDEQ_WQ_WQX-M09CLNCC07,Montana,"Clancy Creek near Clancy school, near track",Stream,46.466699,-111.991161,MT41I006_120,Clancy Creek
+366.775361,NARS_WQX-NRS_MT-10563,Montana,Clark Fork,Stream,46.87209897,-114.08173,MT76M001_020,Clark Fork River
+8.614538425,KOOTENAI_TRIBE_OF_IDAHO_WQX-KR10,Montana,Yaak River confluence,Stream,48.564541,-115.980478,MT76A001_010,Kootenai River
+19.56690375,USGS-12324400,Montana,Clark Fork ab Little Blackfoot R nr Garrison MT,Stream,46.5109111,-112.789686,MT76G001_030,Clark Fork River
+49.64820005,USGS-12340500,Montana,Clark Fork above Missoula MT,Stream,46.87676389,-113.9321194,MT76M001_030,Clark Fork River
+8.949282143,MTVOLWQM_WQX-ASHCR2,Montana,Ashley Creek 2,Stream,48.1726,-114.30505,MT76O002_030,Ashley Creek
+8.525968759,MDEQ_WQ_WQX-M05SAGEC01,Montana,Sage Creek at mouth,Stream,45.067745,-111.188216,MT41H001_021,Gallatin River
+6.542346078,MDEQ_REM_WQX-CFR-03A,Montana,Clark Fork River near Galen,Stream,46.20877,-112.7674,MT76G001_040,Clark Fork River
+4.545039147,MDEQ_REM_WQX-CFR-07D,Montana,Clark Fork River at Galen Road,Stream,46.23725,-112.75302,MT76G001_040,Clark Fork River
+10.92008688,USGS-12324200,Montana,Clark Fork at Deer Lodge MT,Stream,46.39765,-112.7425389,MT76G001_040,Clark Fork River
+17.82740054,USGS-12323800,Montana,Clark Fork near Galen MT,Stream,46.20824167,-112.76735,MT76G001_040,Clark Fork River
+11.61513326,MDEQ_WQ_WQX-C04CKFKR30,Montana,Clark Fork River 1 mi u/s St. Regis River,Stream,47.27951,-115.08506,MT76M001_010,Clark Fork River
+86.6281149,TSWQC_WQX-CFRPO-25,Montana,Clark Fork River above Flathead,Stream,47.3559,-114.7826,MT76M001_010,Clark Fork River
+32.15223087,TSWQC_WQX-CFRPO-10,Montana,Clark Fork River above Little Blackfoot,Stream,46.5052,-112.7642,MT76G001_030,Clark Fork River
+0.293983455,MDEQ_REM_WQX-CML-01,Montana,South Fork Lower Willow Creek d/s BPM site at northern USFS border,Stream,46.48382,-113.390457,MT76E003_050,South Fork Lower Willow Creek
+3.056685494,MDEQ_REM_WQX-CML-02,Montana,South Fork Lower Willow Creek d/s Trust Property,Stream,46.464187,-113.391676,MT76E003_050,South Fork Lower Willow Creek
+70.95492935,TSWQC_WQX-CFRPO-15.5,Montana,Clark Fork River above Missoula,Stream,46.8643,-113.9757,MT76M001_030,Clark Fork River
+276.3742316,MTVOLWQM_WQX-HAB-CFRB-12,Montana,Clark Fork River at Bonita,Stream,46.72166,-113.57643,MT76E001_010,Clark Fork River
+7.3245224,MDEQ_REM_WQX-CML-04,Montana,South Fork Lower Willow Creek upstream end Combination Mill,Stream,46.455838,-113.392784,MT76E003_050,South Fork Lower Willow Creek
+7.430201581,MDEQ_REM_WQX-CML-10,Montana,South Fork Lower Willow Creek d/s Trust Property,Stream,46.471464,-113.392475,MT76E003_050,South Fork Lower Willow Creek
+2.687837773,MDEQ_REM_WQX-CML-13,Montana,South Fork Lower Willow Creek downstream Tim Smith drainage confluence,Stream,46.447184,-113.393619,MT76E003_050,South Fork Lower Willow Creek
+2.963178524,MDEQ_REM_WQX-CML-15,Montana,South Fork Lower Willow Creek next to S. Combination Mill tailings,Stream,46.458568,-113.39268,MT76E003_050,South Fork Lower Willow Creek
+36.78566362,TSWQC_WQX-CFRPO-12,Montana,Clark Fork River at Bonita,Stream,46.7177,-113.5886,MT76E001_010,Clark Fork River
+16.75295932,MDEQ_REM_WQX-CFR-27H,Montana,Clark Fork River at Deer Lodge,Stream,46.39796,-112.74283,MT76G001_040,Clark Fork River
+55.96228474,TSWQC_WQX-CFRPO-9,Montana,Clark Fork River at Deer Lodge,Stream,46.382,-112.736,MT76G001_040,Clark Fork River
+25.80634132,MDEQ_REM_WQX-CFR-11F,Montana,Clark Fork River at Gem Back Road,Stream,46.2652,-112.7443,MT76G001_040,Clark Fork River
+8.831779849,MDEQ_REM_WQX-LBR-CFR-02,Montana,Little Blackfoot River at Beck Hill Road,Stream,46.5371,-112.72443,MT76G004_010,Little Blackfoot River
+7.697860663,MDEQ_REM_WQX-LC-7.5,Montana,Lost Creek near mouth,Stream,46.21862,-112.77384,MT76G002_072,Lost Creek
+4.335268318,MDEQ_REM_WQX-MCWC-MWB,Montana,Mill-Willow Creek at Frontage Road,Stream,46.12649,-112.79876,MT76G002_120,Mill-Willow Bypass
+12.22507599,MDEQ_WQ_WQX-C01CKFKR09,Montana,Clark Fork River at Gold Creek transfer station,Stream,46.59054,-112.93063,MT76G001_010,Clark Fork River
+37.12384618,TSWQC_WQX-CFRPO-22,Montana,Clark Fork River at Huson,Stream,47.0333,-114.3429,MT76M001_020,Clark Fork River
+7.485250657,MDEQ_REM_WQX-NT-07.5,Montana,South Fork Lower Willow Creek between Copper Cr and unnamed tributary,Stream,46.503484,-113.378135,MT76E003_050,South Fork Lower Willow Creek
+172.6261904,TSWQC_WQX-CFRPO-22B,Montana,Clark Fork River at Huson,Stream,47.0106,-114.28742,MT76M001_020,Clark Fork River
+9.020713736,MDEQ_REM_WQX-NT-09,Montana,South Fork Lower Willow Creek d/s USFS land and unnamed tributary to east,Stream,46.521357,-113.353384,MT76E003_050,South Fork Lower Willow Creek
+8.771331689,MDEQ_REM_WQX-NT-09.5,Montana,South Fork Lower Willow Creek downstream USFS land,Stream,46.524203,-113.348833,MT76E003_050,South Fork Lower Willow Creek
+3.373249183,MDEQ_REM_WQX-NT-12.3,Montana,South Fork Lower Willow Creek downstream USFS land,Stream,46.534144,-113.340423,MT76E003_050,South Fork Lower Willow Creek
+79.1639916,MDEQ_WQ_WQX-C13CKFKR05,Montana,Clark Fork River at Hwy 200 bridge near Paradise,Stream,47.3834,-114.79917,MT76N001_010,Clark Fork River
+12.29508409,MDEQ_WQ_WQX-C01CKFKR03,Montana,Clark Fork River at Kohrs Bend fishing access,Stream,46.4989,-112.7418,MT76G001_030,Clark Fork River
+65.74407599,MDEQ_WQ_WQX-C04CKFKR05,Montana,Clark Fork River at Kona Bridge fishing access,Stream,46.8989,-114.1513,MT76M001_020,Clark Fork River
+5.617403379,MDEQ_REM_WQX-RTC-1.5,Montana,Racetrack Creek near mouth,Stream,46.28395,-112.74921,MT76G002_090,Racetrack Creek
+130.3375805,TSWQC_WQX-CFRPO-29,Montana,Clark Fork River at Noxon,Stream,47.9964,-115.7632,MT76N001_020,Clark Fork River
+4.38579371,MDEQ_REM_WQX-SLAG-01,Montana,Silver Bow Creek in Slag Canyon,Stream,45.99675,-112.54143,MT76G003_020,Silver Bow Creek
+46.38396206,MDEQ_REM_WQX-CFR-116A,Montana,Clark Fork River at Turah,Stream,46.82646,-113.81424,MT76E001_010,Clark Fork River
+0.521688323,MDEQ_REM_WQX-SS-05A,Montana,Silver Bow Creek above Butte Reduction Works,Stream,45.99653,-112.54343,MT76G003_020,Silver Bow Creek
+1.252087259,MT305B_SECONDARYDATA-ASHCR3,Montana,Ashley Creek 3,Stream,48.146921,-114.286169,MT76O002_030,Ashley Creek
+17.524161,MDEQ_REM_WQX-CFR-34,Montana,Clark Fork River below Grant-Kohrs Ranch,Stream,46.47119,-112.72492,MT76G001_030,Clark Fork River
+1.557883319,MDEQ_REM_WQX-SS-07-0.5,Montana,SBC 0.5 mi d/s from SS-07,Stream,45.9986,-112.57447,MT76G003_020,Silver Bow Creek
+7.111301259,MDEQ_REM_WQX-SS-07-1.0,Montana,SBC 1.0 mi d/s from SS-07,Stream,46.00017,-112.58304,MT76G003_020,Silver Bow Creek
+21.35715882,TSWQC_WQX-CFRPO-18,Montana,Clark Fork River below Missoula,Stream,46.8745,-114.062,MT76M001_020,Clark Fork River
+60.03508651,TSWQC_WQX-CFRPO-7,Montana,Clark Fork River below Warm Springs,Stream,46.188,-112.7674,MT76G001_040,Clark Fork River
+9.019624669,MDEQ_REM_WQX-SS-07-2.5,Montana,SBC 2.5 mi d/s from SS-07,Stream,46.00357,-112.61056,MT76G003_020,Silver Bow Creek
+10.13020549,MTVOLWQM_WQX-HAB-CFRBRMTH,Montana,Clark Fork River near Bearmouth,Stream,46.71698,-113.32163,MT76E001_010,Clark Fork River
+26.40036892,MDEQ_REM_WQX-CFR-84F,Montana,Clark Fork River near Drummond,Stream,46.71204,-113.33137,MT76E001_010,Clark Fork River
+35.02590308,MTVOLWQM_WQX-HAB-C04CKFKR12,Montana,Clark Fork River upstream Grant Creek confluence,Stream,46.87286,-114.10024,MT76M002_130,Grant Creek
+19.351808,MDEQ_WQ_WQX-Y05CFYLR06,Montana,Clarks Fork of the Yellowstone River about 2/3 mile upstream of mouth,Stream,45.64413,-108.72067,MT43D001_011,Clarks Fork Yellowstone River
+9.533753592,MDEQ_REM_WQX-SS-07-3.4,Montana,SBC 3.4 mi d/s from SS-07,Stream,46.00225,-112.62631,MT76G003_020,Silver Bow Creek
+54.53296731,MDEQ_WQ_WQX-Y05CFYLR10,Montana,Clarks Fork of Yellowstone River,Stream,45.578016,-108.807097,MT43D001_011,Clarks Fork Yellowstone River
+42.91934467,MDEQ_WQ_WQX-Y05CFYLR25,Montana,Clarks Fork of Yellowstone River,Stream,45.43341,-108.86611,MT43D001_011,Clarks Fork Yellowstone River
+6.709527635,MDEQ_REM_WQX-SS-07-4.5,Montana,SBC 4.5 mi d/s from Site SS-07,Stream,46.00435,-112.64649,MT76G003_020,Silver Bow Creek
+10.74311443,MDEQ_WQ_WQX-Y05CLFYR01,Montana,Clarks Fork of Yellowstone River at Edgar 50 yds from bridge,Stream,45.464444,-108.840833,MT43D001_011,Clarks Fork Yellowstone River
+40.16393829,MDEQ_WQ_WQX-Y05CFYR999,Montana,Clarks Fork of Yellowstone River near the mouth,Stream,45.65,-108.714722,MT43D001_011,Clarks Fork Yellowstone River
+28.58854269,MDEQ_WQ_WQX-Y05CFYLR28,Montana,Clarks Fork Yellowstone at FAS above Hwy 310,Stream,45.25631,-108.92178,MT43D001_012,Clarks Fork Yellowstone River
+28.74395591,NARS_WQX-NRS_MT-10560,Montana,Clarks Fork Yellowstone River,Stream,45.08548593,-109.0271572,MT43D001_012,Clarks Fork Yellowstone River
+12.75796948,MTVOLWQM_WQX-CLARKSFK-CARLSON,Montana,Clarks Fork Yellowstone River at Carlson Bridge,Stream,45.189667,-108.984417,MT43D001_012,Clarks Fork Yellowstone River
+1.821329094,MDEQ_REM_WQX-SS-11D,Montana,Silver Bow Creek below Browns Gulch,Stream,46.00342,-112.70304,MT76G003_020,Silver Bow Creek
+10.17515143,MDEQ_WQ_WQX-Y05CFYLR73,Montana,Clarks Fork Yellowstone River at Chance Road xing,Stream,45.01151,-109.06221,MT43D001_012,Clarks Fork Yellowstone River
+20.43190214,MTVOLWQM_WQX-CLARKSFK-SILESIA,Montana,Clarks Fork Yellowstone River at Cottonwood Road Bridge,Stream,45.556875,-108.825331,MT43D001_011,Clarks Fork Yellowstone River
+29.51176634,MTVOLWQM_WQX-CLARKSFK-EDGAR,Montana,Clarks Fork Yellowstone River at East Pryor Bridge,Stream,45.464303,-108.84145,MT43D001_011,Clarks Fork Yellowstone River
+10.98558444,MDEQ_WQ_WQX-Y05CFYLR55,Montana,Clarks Fork Yellowstone River at Hwy 72 crossing,Stream,45.189802,-108.984179,MT43D001_012,Clarks Fork Yellowstone River
+6.676014488,MDEQ_REM_WQX-SS-15G,Montana,German Gulch near confluence,Stream,46.0217,-112.79029,MT76G003_030,German Gulch
+54.33093744,MDEQ_WQ_WQX-Y05CFYLR38,Montana,Clarks Fork Yellowstone River at Peters Rd,Stream,45.278793,-108.903501,MT43D001_011,Clarks Fork Yellowstone River
+6.50998,MDEQ_REM_WQX-SS-17D,Montana,Silver Bow Creek below Stewart Street at Opportunity,Stream,46.10787,-112.80553,MT76G003_020,Silver Bow Creek
+4.883446843,MDEQ_REM_WQX-SS-19,Montana,Silver Bow Creek at Frontage Road,Stream,46.12247,-112.80032,MT76G003_020,Silver Bow Creek
+2.098481912,MDEQ_REM_WQX-SS-25,Montana,Silver Bow Creek at Warms Springs,Stream,46.18123,-112.77917,MT76G003_020,Silver Bow Creek
+0.189030439,MDEQ_REM_WQX-WSC-SBC,Montana,Warm Springs Creek near mouth,Stream,46.18041,-112.78592,MT76G002_012,Warm Springs Creek
+2.42127338,MDEQ_WQ_WQX-BKK129,Montana,Smith River 100 yards upstream of Fort Logan bridge,Stream,46.6758,-111.1444,MT41J001_010,Smith River
+0.475722109,MDEQ_WQ_WQX-BKK130,Montana,Smith River below Devil's bridge,Stream,46.828,-111.1924,MT41J001_010,Smith River
+4.033493356,MDEQ_WQ_WQX-BKK133,Montana,Smith River upstream Hound Creek confluence,Stream,47.2154,-111.3866,MT41J001_010,Smith River
+8.755865824,MDEQ_WQ_WQX-C01CABLC06,Montana,Cable Creek,Stream,46.16906,-113.16719,MT76G002_030,Cable Creek
+15.42275713,MDEQ_WQ_WQX-Y05CFYLR07,Montana,Clarks Fork Yellowstone River at Thiel Rd,Stream,45.648417,-108.716887,MT43D001_011,Clarks Fork Yellowstone River
+3.179069146,MDEQ_WQ_WQX-C01CKFKR04,Montana,Clark Fork River downstream Warm Springs Creek confluence,Stream,46.18745,-112.7706,MT76G001_040,Clark Fork River
+104.3056992,MDEQ_WQ_WQX-Y05CFYLR14,Montana,Clarks Fork Yellowstone River d/s Glenwood ditch,Stream,45.543055,-108.827031,MT43D001_011,Clarks Fork Yellowstone River
+39.08043474,MDEQ_WQ_WQX-Y05CFYLR60,Montana,Clarks Fork Yellowstone River off Bear Cr Lane,Stream,45.144655,-108.990045,MT43D001_012,Clarks Fork Yellowstone River
+6.149811967,MDEQ_WQ_WQX-C01LTBLR13,Montana,Little Blackfoot River 1/6 mile above Homestead Gulch,Stream,46.5695,-112.6659,MT76G004_010,Little Blackfoot River
+32.286216,MDEQ_WQ_WQX-Y05CFYLR65,Montana,Clarks ForkYellowstone River at Bridger Bend,Stream,45.10607,-109.02478,MT43D001_012,Clarks Fork Yellowstone River
+7.429304413,MDEQ_WQ_WQX-C02ROCKC60,Montana,Rock Creek 0.2 mi u/s Big Spring Creek,Stream,46.41035,-113.70605,MT76E002_010,Rock Creek
+12.01216686,MDEQ_WQ_WQX-C03CLRWR20,Montana,Clearwater River at Harpers Lake Campground,Stream,47.01955,-113.38455,MT76F005_010,Clearwater River
+20.59280261,MTVOLWQM_WQX-CLEARWATERR_1,Montana,Clearwater River at mouth at Hwy 200 E,Stream,47,-113.382,MT76F005_010,Clearwater River
+19.99582721,MDEQ_WQ_WQX-M09CONFG80,Montana,"Confederate Gulch Creek, d/s of Blacktail Road (USFS 4171)",Stream,46.608353,-111.391186,MT41I002_041,Confederate Gulch
+38.06626764,MDEQ_WQ_WQX-M09CONFG70,Montana,"Confederate Gulch Creek, u/s of USFS Boundary",Stream,46.596896,-111.424605,MT41I002_041,Confederate Gulch
+11.83080994,MDEQ_WQ_WQX-M09CONFG50,Montana,"Confederate Gulch on BLM, upstream of Hunter Gulch",Stream,46.572301,-111.457633,MT41I002_041,Confederate Gulch
+4.008362092,MDEQ_WQ_WQX-C04CACHC01,Montana,Cache Creek,Stream,46.7979,-114.6558,MT76M002_080,Cache Creek
+33.3086292,MTVOLWQM_WQX-RSCRHS,Montana,Cripple Horse Creek,Stream,48.478831,-115.260144,MT76D002_100,Cripple Horse Creek
+18.9693118,MDEQ_WQ_WQX-M09CROWC03,Montana,Crow Creek at mouth (Missouri River),Stream,46.1937,-111.488,MT41I002_050,Crow Creek
+15.76128647,USGS-13025500,Wyoming,"CROW CREEK NEAR FAIRVIEW, WY",Stream,42.6749287,-111.0077044,WYSR170401050102_01,Crow Creek
+16.06132285,MDEQ_WQ_WQX-M09CROWC50,Montana,"Crow Creek, d/s of BLM Campground",Stream,46.245834,-111.665883,MT41I002_050,Crow Creek
+6.193254909,MDEQ_WQ_WQX-C04KNDYC03,Montana,Kennedy Creek 2.5 mi u/s of mouth,Stream,47.14003,-114.46709,MT76M004_070,Kennedy Creek
+32.09175699,MDEQ_WQ_WQX-M09CROWC85,Montana,"Crow Creek, d/s of Hall Creek",Stream,46.322257,-111.761431,MT41I002_060,Crow Creek
+11.81909654,BLCKFEET-00000010,Montana,Cut Bank Creek #4,Stream,48.63519167,-112.3464333,MT41L001_040,Cut Bank Creek
+34.10399468,BLCKFEET-00000011,Montana,Cut Bank Creek #5,Stream,48.48660833,-112.2287833,MT41L001_040,Cut Bank Creek
+287.6834567,BLCKFEET-00000062,Montana,Cut Bank Creek #7,Stream,48.664545,-112.371673,MT41L001_040,Cut Bank Creek
+0.574992197,MT305B_SECONDARYDATA-ASHCR4,Montana,Ashley Creek 4,Stream,48.13536,-114.245275,MT76O002_030,Ashley Creek
+56.50064502,MDEQ_WQ_WQX-M16CBNKC06,Montana,Cut Bank Creek at mouth (Sullivan bridge),Stream,48.4865,-112.22905,MT41L001_040,Cut Bank Creek
+21.02418828,MDEQ_WQ_WQX-M12DRBNR01,Montana,Dearborn River at Hwy 287,Stream,47.198611,-112.093056,MT41Q003_010,Dearborn River
+0.195059707,MDEQ_WQ_WQX-C05BASSC01,Montana,Bass Creek below bridge,Stream,46.5745,-114.1344,MT76H004_010,Bass Creek
+3.348451721,MDEQ_WQ_WQX-C05BITER04,Montana,Bitterroot River East Fork by tallest Ponderosa,Stream,45.8464,-114.0068,MT76H002_010,East Fork Bitterroot River
+10.67744159,MDEQ_WQ_WQX-M12DBRMF04,Montana,Dearborn River Middle Fork downhill from Hwy 200,Stream,47.0914,-112.3618,MT41Q003_020,Middle Fork Dearborn River
+76.53442752,MDEQ_WQ_WQX-M10DEEPC01,Montana,Deep Creek near mouth,Stream,47.10623,-111.27337,MT41J001_010,Smith River
+10.0314066,MDEQ_WQ_WQX-M09DEEPC06,Montana,Deep Creek on state land,Stream,46.3133,-111.4229,MT41I002_070,Deep Creek
+16.86994061,MDEQ_WQ_WQX-M09DEEPC04,Montana,Deep Creek upper ML Bar Ranch,Stream,46.32285,-111.2963,MT41I002_070,Deep Creek
+18.72197758,BLCKFEET-00000034,Montana,Divide Creek #1,Stream,48.74015278,-113.4284944,MT40T002_010,Divide Creek
+14.81650685,MTVOLWQM_WQX-RSDODG,Montana,Dodge Creek,Stream,48.933683,-115.202869,MT76D002_141,Dodge Creek
+7.840268265,MDEQ_WQ_WQX-C05BITRR76,Montana,Bitterroot River at Whitetail Golf Course,Stream,46.522317,-114.107056,MT76H001_020,Bitterroot River
+33.3544846,MTNWE-MM-B-7,Montana,Downstream from Hauser Dam,Stream,46.76657,-111.89092,MT41I004_020,Missouri River
+14.42401926,MTWTRSHD_WQX-DRYCM,Montana,Dry Creek at mouth (East Gallatin River),Stream,45.868898,-111.219897,MT41H003_100,Dry Creek
+3.84249493,MDEQ_WQ_WQX-C05BLDGC01,Montana,Blodgett Creek below Blodgett Creek Campground on FS land,Stream,46.2692,-114.2417,MT76H004_050,Blodgett Creek
+24.81335961,MDEQ_WQ_WQX-M09DRYC01,Montana,Dry Creek just above the lower USFS boundary,Stream,46.24891,-111.28307,MT41I002_080,Dry Creek
+8.498288759,MDEQ_WQ_WQX-C05LOEFC05,Montana,Lolo Creek East Fork u/s Lost Park Creek,Stream,46.68406,-114.47525,MT76H005_040,East Fork Lolo Creek
+7.298000946,MDEQ_WQ_WQX-C05LOWFC03,Montana,Lolo Creek WF 900 ft below W Lee Creek Rd,Stream,46.68958,-114.55295,MT76H005_050,West Fork Lolo Creek
+8.326893445,MDEQ_WQ_WQX-C05OVWHC01,Montana,Overwhich Creek 100 yards below bridge on FS Rd 5703,Stream,45.653333,-114.219444,MT76H003_050,Overwhich Creek
+1.843639231,MDEQ_WQ_WQX-C05OVWHC02,Montana,Overwhich Creek above West Fork Road Bridge,Stream,45.671389,-114.3025,MT76H003_050,Overwhich Creek
+41.10371459,MDEQ_WQ_WQX-Y05DRYNF01,Montana,"Dry Creek North Fork, near mouth",Stream,45.214193,-109.020084,MT43D002_190,Dry Creek
+9.018581361,MDEQ_WQ_WQX-C05REMLC03,Montana,Reimel Creek u/s of Reimel Creek Ranch,Stream,45.83387,-113.94559,MT76H002_020,Reimel Creek
+7.870661839,MDEQ_WQ_WQX-C05RORLC10,Montana,Roaring Lion Creek Upper at Roaring Lion trailhead,Stream,46.1929,-114.24294,MT76H004_060,Roaring Lion Creek
+38.77823552,MDEQ_WQ_WQX-Y05DRYSF01,Montana,"Dry Creek South Fork, near mouth",Stream,45.213621,-109.019716,MT43D002_190,Dry Creek
+12.25453442,MDEQ_WQ_WQX-Y05DRYC98,Montana,"Dry Creek, d/s confluence of NF and SF",Stream,45.214294,-109.01917,MT43D002_190,Dry Creek
+7.71284267,MDEQ_WQ_WQX-C05TINCC02,Montana,Tin Cup Creek 200 yards upstream of Tin Cup Creek trailhead,Stream,46.01404,-114.22561,MT76H004_080,Tin Cup Creek
+12.26083766,MONT_PPL_WQX-AR-2SF,Montana,East Fork Armells Creek,Stream,45.890118,-106.623144,MT42K002_110,East Fork Armells Creek
+30.86327295,MONT_PPL_WQX-AR-4,Montana,East Fork Armells Creek,Stream,45.883106,-106.620121,MT42K002_110,East Fork Armells Creek
+13.37972668,MONT_PPL_WQX-AR-6,Montana,East Fork Armells Creek,Stream,45.912603,-106.6396,MT42K002_110,East Fork Armells Creek
+18.16525733,MT305B_SECONDARYDATA-T11SW,Montana,East Gallatin above Ben Hart Creek,Stream,45.854861,-111.189797,MT41H003_020,East Gallatin River
+2.175798822,MT305B_SECONDARYDATA-ASHCR5,Montana,Ashley Creek 5,Stream,48.146313,-114.215151,MT76O002_030,Ashley Creek
+17.41316379,MT305B_SECONDARYDATA-T12SW,Montana,East Gallatin below Ben Hart Creek,Stream,45.852936,-111.192281,MT41H003_020,East Gallatin River
+12.38651607,MTWTRSHD_WQX-EGALGRR,Montana,East Gallatin River at Gallatin River Ranch,Stream,45.892002,-111.331781,MT41H003_030,East Gallatin River
+14.21301114,MTWTRSHD_WQX-EGRF1,Montana,East Gallatin River at the mouth,Stream,45.8923,-111.3286,MT41H003_030,East Gallatin River
+10.58726819,MDEQ_WQ_WQX-M05EGALR05,Montana,East Gallatin River at USGS gaging station and WWTP facility,Stream,45.72529,-111.06943,MT41H003_020,East Gallatin River
+17.1413105,MDEQ_WQ_WQX-M05EGALR85,Montana,East Gallatin River d/s of 319 project,Stream,45.66621,-110.95947,MT41H003_010,East Gallatin River
+22.62087048,MTWTRSHD_WQX-EGALRH,Montana,East Gallatin River u/s Dry Creek irrigation withdrawal,Stream,45.826039,-111.142167,MT41H003_020,East Gallatin River
+9.460879657,MDEQ_WQ_WQX-C10GOATC07,Montana,Goat Creek,Stream,47.7736,-113.70471,MT76K003_031,Goat Creek
+1.444039215,MDEQ_WQ_WQX-C10GOATC08,Montana,Goat Creek,Stream,47.755191,-113.790552,MT76K003_031,Goat Creek
+0.704474197,MDEQ_WQ_WQX-C10LIONC13,Montana,Lion Creek,Stream,47.671866,-113.742009,MT76K003_050,Lion Creek
+29.50160594,MTVOLWQM_WQX-ERBC-419,Montana,East Rosebud Cr at Highway 419,Stream,45.480487,-109.45364,MT43C002_061,East Rosebud Creek
+21.29108506,MTVOLWQM_WQX-ERBC-R,Montana,"East Rosebud Cr at Roscoe, from East Rosebud Rd just east of Roscoe",Stream,45.349469,-109.495924,MT43C002_061,East Rosebud Creek
+32.13489876,ADVENTURESCIENTISTS-45.23.109.6,Montana,East Rosebud Creek Wild and Scenic River-45.23.109.6,Stream,45.22911383,-109.6031833,MT43C002_062,East Rosebud Creek
+13.86128356,MDEQ_WQ_WQX-Y05ELBWC40,Montana,Elbow Creek at first Lower Elbow Creek rd xing,Stream,45.42418,-109.00085,MT43D002_010,Elbow Creek
+11.02285621,MDEQ_WQ_WQX-M06ELKC03,Montana,Elk Creek downstream Norris Road crossing,Stream,45.64416,-111.45741,MT41F002_020,Elk Creek
+24.25307661,MTVOLWQM_WQX-ELKMM_EKCON,Montana,ELKHORN CREEK - AT JACOBSON CONFLUENCE,Stream,45.526983,-113.062295,MT41D003_220,Elkhorn Creek
+11.10542113,MTVOLWQM_WQX-ELKMM_EK05,Montana,ELKHORN CREEK - LODGEPOLE STAND,Stream,45.50709,-113.04869,MT41D003_220,Elkhorn Creek
+15.74639844,MTVOLWQM_WQX-ELKMM_EK19,Montana,ELKHORN CREEK-ABOVE MILL,Stream,45.49487,-113.04061,MT41D003_220,Elkhorn Creek
+12.49705514,MTVOLWQM_WQX-ELKMM_EK21,Montana,ELKHORN CREEK-TOP OF RESTORED FLOODPLAIN,Stream,45.49383,-113.03991,MT41D003_220,Elkhorn Creek
+5.678513944,MDEQ_WQ_WQX-C13THMSR04,Montana,Thompson River 1500 ft past Riverside Lane,Stream,47.62208,-115.18718,MT76N004_010,Thompson River
+1.336849042,MDEQ_WQ_WQX-C13TPRWF05,Montana,Thompson River West Fork off of Thompson River Rd,Stream,47.65021,-115.17432,MT76N005_050,West Fork Thompson River
+15.01546435,MT305B_SECONDARYDATA-FC-1,Montana,Fairway Creek 01,Stream,48.28088,-115.89543,MT76D002_011,Fairway Creek
+10.32435451,USGS-12302055,Montana,Fisher River near Libby MT,Stream,48.35560278,-115.31465,MT76C001_010,Fisher River
+6.834891799,MDEQ_WQ_WQX-K01BRISC01,Montana,Bristow Creek at road crossing,Stream,48.5444,-115.2931,MT76D002_110,Bristow Creek
+0.071714036,MDEQ_WQ_WQX-K01CHRSC01,Montana,Cripple Horse Creek near mouth (Lake Koocanusa),Stream,48.47739,-115.25556,MT76D002_100,Cripple Horse Creek
+4.726703404,MDEQ_WQ_WQX-K01DODGC01,Montana,Dodge Creek at mouth (Lake Koocanusa),Stream,48.9319,-115.19468,MT76D002_141,Dodge Creek
+317.1027188,USGS-13018250,Wyoming,"Flat Creek above Cache Creek, at Jackson, WY",Stream,43.4873833,-110.7632806,WYSR170401030205_01,Flat Creek
+27.68497449,NARS_WQX-NRS_MT-10329,Montana,Flathead Creek,Stream,45.99350326,-110.7352828,MT43A002_070,Flathead Creek
+25.98724449,NARS_WQX-NRS_MT-10386,Montana,Flathead River,Stream,47.34633963,-114.7239445,MT76L001_010,Flathead River
+39.27402264,TSWQC_WQX-CFRPO-26,Montana,Flathead River,Stream,47.3443,-114.704,MT76L001_010,Flathead River
+3.862864569,MDEQ_WQ_WQX-K01YUNGC01,Montana,Young Creek near mouth (Lake Koocanusa),Stream,48.96254,-115.19665,MT76D002_131,Young Creek
+27.96435334,MDEQ_WQ_WQX-C11FLATR42,Montana,Flathead River at Blankenship Bridge,Stream,48.46515,-114.07083,MT76O001_010,Flathead River
+95.23876326,MDEQ_WQ_WQX-C12FLATR02,Montana,Flathead River at discontinued Statewide Monitoring site,Stream,47.34425,-114.70832,MT76L001_010,Flathead River
+74.76106068,MDEQ_WQ_WQX-C11FLATR03,Montana,Flathead River at Old Steel Bridge FAS,Stream,48.20908,-114.26102,MT76O001_010,Flathead River
+101.6177872,MDEQ_WQ_WQX-C11FLATR02,Montana,Flathead River just downstream Hwy 82 near the mouth,Stream,48.09238,-114.11395,MT76O001_010,Flathead River
+5.940119272,MDEQ_WQ_WQX-M01RDRKC01,Montana,Red Rock Creek near Elk Lake Rd crossing at USGS gage,Stream,44.6164,-111.6564,MT41A004_110,Red Rock Creek
+5.448695978,MDEQ_WQ_WQX-M02BDEFC01,Montana,Blacktail Deer Creek East Fork in Robb Cr Wildlife area,Stream,44.865833,-112.218611,MT41B002_040,East Fork Blacktail Deer Creek
+0.545420637,MDEQ_WQ_WQX-M02BVHDR90,Montana,Beaverhead River at Pipe Organ FAS,Stream,45.06646,-112.80031,MT41B001_010,Beaverhead River
+15.24412527,MDEQ_WQ_WQX-C06NFKFR48,Montana,Flathead River NF at Canadian border,Stream,49.00045,-114.47484,MT76Q001_010,North Fork Flathead River
+1.59681905,MDEQ_WQ_WQX-M03BGHLR13,Montana,Big Hole River at High Road Fishing Access,Stream,45.54694,-112.36722,MT41D001_010,Big Hole River
+10.51368436,MTVOLWQM_WQX-HAB-FLTHDCMS,Montana,Flathead River North Fork near Camas Creek,Stream,48.6293,-114.1419,MT76Q001_010,North Fork Flathead River
+2.162308727,MDEQ_WQ_WQX-M03BGHLR25,Montana,Big Hole River at Glen FAS,Stream,45.46809,-112.6669,MT41D001_010,Big Hole River
+185.64086,MDEQ_WQ_WQX-C08FRSFK13,Montana,Flathead River SF at Cedar Flats access,Stream,47.85444,-113.42854,MT76J001_020,South Fork Flathead River
+5.221595921,MDEQ_WQ_WQX-M03BGHLR35,Montana,Big Hole River at Salmon Fly FAS,Stream,45.6258,-112.6873,MT41D001_010,Big Hole River
+31.93980183,MDEQ_WQ_WQX-C08FRSFK01,Montana,Flathead River South Fork at Spotted Bear,Stream,47.984233,-113.563733,MT76J001_020,South Fork Flathead River
+19.83924808,MDEQ_WQ_WQX-C08FRSFK80,Montana,Flathead River South Fork at upper Twin Cr access,Stream,47.98476,-113.56445,MT76J001_020,South Fork Flathead River
+5.438816123,MDEQ_WQ_WQX-M03SYMRC01,Montana,Seymour Creek above Lower Seymour Lake campground,Stream,45.995833,-113.187222,MT41D003_140,Seymour Creek
+7.026230411,MDEQ_WQ_WQX-M03WILOC01,Montana,Willow Creek at base of Thunderhead Mountain,Stream,45.448056,-112.82777,MT41D002_110,Willow Creek
+9.941940115,MDEQ_WQ_WQX-M03WILOC02,Montana,"Willow Creek on BLM land, northwest of Apex exit",Stream,45.438056,-112.74222,MT41D002_110,Willow Creek
+38.50388726,ADVENTURESCIENTISTS-48.39.114.1,Montana,Flathead Wild and Scenic River-48.39.114.1,Stream,48.38630363,-114.1031533,MT76O001_010,Flathead River
+37.61618443,ADVENTURESCIENTISTS-48.44.114.07,Montana,Flathead Wild and Scenic River-48.44.114.07,Stream,48.44223784,-114.0672374,MT76O001_010,Flathead River
+4.154799745,MDEQ_WQ_WQX-M05BOZMC08,Montana,Bozeman Creek at Bogart Park,Stream,45.674853,-111.032115,MT41H003_040,Sourdough Creek (Bozeman Creek)
+5.653573914,MDEQ_WQ_WQX-M05BOZMC09,Montana,Bozeman Creek at E Tamarack Rd crossing,Stream,45.688305,-111.0302,MT41H003_040,Sourdough Creek (Bozeman Creek)
+35.80005374,MDEQ_REM_WQX-FC-CFR,Montana,Flint Creek near mouth,Stream,46.62891,-113.15151,MT76E003_012,Flint Creek
+4.279625261,MDEQ_WQ_WQX-M05CACHC02,Montana,Cache Creek,Stream,45.0789,-111.3582,MT41H005_030,Cache Creek
+8.962887255,MDEQ_WQ_WQX-M05CACHC04,Montana,Cache Creek,Stream,45.0825,-111.3793,MT41H005_030,Cache Creek
+6.568974126,MDEQ_WQ_WQX-M05EGALR06,Montana,East Gallatin River downstream of WWTP mixing zone,Stream,45.73048,-111.07178,MT41H003_020,East Gallatin River
+180.7694345,MTWTRSHD_WQX-UG05MFTR03,Montana,Gallatin R tributary of Middle Fk West Fk into Lake Levinsky,Stream,45.2869,-111.397,MT41H005_050,Middle Fork West Fork Gallatin River
+6.254760343,MDEQ_WQ_WQX-M05EGALR91,Montana,East Gallatin River u/s of botanical garden,Stream,45.66502,-110.95339,MT41H003_010,East Gallatin River
+76.15492206,MDEQ_WQ_WQX-M05GLTNR28,Montana,Gallatin River 0.3 mi u/s of Karst Stage Loop turnoff,Stream,45.339442,-111.172137,MT41H001_021,Gallatin River
+16.64598761,MDEQ_WQ_WQX-M05GLTNR02,Montana,Gallatin River 2/3 mile below Taylor Fork confluence,Stream,45.090556,-111.21277,MT41H001_021,Gallatin River
+19.31806175,MDEQ_WQ_WQX-M05GLTNR01,Montana,Gallatin River 3 mi above Taylor Fork confl at YNP boundary,Stream,45.054444,-111.15638,MT41H001_021,Gallatin River
+11.27450178,MDEQ_WQ_WQX-M05GLTNR35,Montana,Gallatin River 3.5 mi. d/s W Fk Gallatin River,Stream,45.297457,-111.209784,MT41H001_021,Gallatin River
+1.096977119,MDEQ_WQ_WQX-M05GALWF01,Montana,Gallatin River West Fork near mouth,Stream,45.26552,-111.25827,MT41H005_040,West Fork Gallatin River
+39.05991706,MTWTRSHD_WQX-GALLATIN_BLW_TAYLOR,Montana,Gallatin River 5 miles downstream Taylor Fork confluence,Stream,45.14156,-111.24095,MT41H001_021,Gallatin River
+13.5961831,MTWTRSHD_WQX-BWTF-GL-UP,Montana,Gallatin River about 500 ft upstream West Fork Gallatin River confluence,Stream,45.263678,-111.252998,MT41H001_021,Gallatin River
+33.08364441,MTWTRSHD_WQX-GALLATIN_ABV_TAYLOR,Montana,Gallatin River Above Taylor Fork,Stream,45.05439,-111.1561,MT41H001_021,Gallatin River
+13.86365845,MTWTRSHD_WQX-GALLATIN_ABV_WF,Montana,Gallatin River Above West Fork Confluence,Stream,45.26368,-111.253,MT41H001_021,Gallatin River
+22.47571022,MDEQ_WQ_WQX-M05GLTNR20,Montana,Gallatin River at Lava Lake trailhead,Stream,45.406339,-111.225232,MT41H001_021,Gallatin River
+24.07400038,MDEQ_WQ_WQX-M05GALLR15,Montana,Gallatin River at Logan FAS,Stream,45.887392,-111.429299,MT41H001_010,Gallatin River
+20.29295352,MDEQ_WQ_WQX-M05GLTNR26,Montana,Gallatin River at Moose Camp,Stream,45.359224,-111.17057,MT41H001_021,Gallatin River
+13.32203254,MDEQ_WQ_WQX-M05LGALR25,Montana,Gallatin River at W Dry Creek Rd,Stream,45.860166,-111.290693,MT41H001_010,Gallatin River
+10.34733242,MDEQ_WQ_WQX-M05GLTNR43,Montana,Gallatin River at WMA (Michener Cr),Stream,45.2522,-111.2497,MT41H001_021,Gallatin River
+59.09350893,MTWTRSHD_WQX-BWTF-PARK,Montana,Gallatin River at YNP Boundary (PARK),Stream,45.05467,-111.15599,MT41H001_021,Gallatin River
+1.295959915,MTVOLWQM_WQX-BC-ROAD,Montana,Bear Creek near Bear Crk Loop Rd,Stream,45.168662,-111.596552,MT41F004_021,Bear Creek
+32.79564658,MDEQ_WQ_WQX-M05LGALR06,Montana,Gallatin River below Axtell Bridge Fishing Access,Stream,45.623333,-111.205,MT41H001_010,Gallatin River
+48.35461734,MTWTRSHD_WQX-GALLATIN_BLW_BUCK,Montana,Gallatin River Below Buck Creek,Stream,45.20116,-111.23889,MT41H001_021,Gallatin River
+13.61710154,MDEQ_WQ_WQX-M05GLTNR25,Montana,Gallatin River below Swan Creek,Stream,45.376592,-111.175475,MT41H001_021,Gallatin River
+18.11338326,MDEQ_WQ_WQX-M05GLTNR60,Montana,Gallatin River below Taylor Fork Creek,Stream,45.142061,-111.241,MT41H001_021,Gallatin River
+36.2724258,MDEQ_WQ_WQX-M05GLTNR65,Montana,Gallatin River d/s Buck Creek,Stream,45.201417,-111.23889,MT41H001_021,Gallatin River
+10.40198624,MDEQ_WQ_WQX-M05GLTNR36,Montana,Gallatin River d/s WF Gallatin R,Stream,45.2976,-111.20806,MT41H001_021,Gallatin River
+20.4298295,MDEQ_WQ_WQX-M05GLTNR10,Montana,Gallatin River just d/s Storm Castle Creek,Stream,45.45873,-111.246889,MT41H001_021,Gallatin River
+6.478354289,MDEQ_WQ_WQX-M05GLTNR85,Montana,Gallatin River just u/s of Taylor Fork,Stream,45.076191,-111.20037,MT41H001_021,Gallatin River
+8.650575035,MDEQ_WQ_WQX-M05GLTNR90,Montana,Gallatin River just d/s of Sage Creek,Stream,45.068197,-111.189132,MT41H001_021,Gallatin River
+0.788722169,MDEQ_WQ_WQX-M05GLTNR92,Montana,Gallatin River 0.2 mi u/s Tepee Creek,Stream,45.05829,-111.16444,MT41H001_021,Gallatin River
+4.766092457,MDEQ_WQ_WQX-M05LGALR02,Montana,Gallatin River above Hwy 191 bridge at canyon mouth,Stream,45.519722,-111.250556,MT41H001_010,Gallatin River
+19.52821804,MDEQ_WQ_WQX-M05GLTNR75,Montana,Gallatin River just u/s of Cinnamon Creek,Stream,45.112422,-111.223196,MT41H001_021,Gallatin River
+14.3929767,MDEQ_WQ_WQX-M05GLTNR03,Montana,Gallatin River just u/s Porcupine Cr bridge,Stream,45.226111,-111.24916,MT41H001_021,Gallatin River
+12.07388938,MTWTRSHD_WQX-GALLATIN_ABV_SPANISH,Montana,Gallatin River just upstream Spanish Creek confluence,Stream,45.49132,-111.27209,MT41H001_021,Gallatin River
+8.564168245,MDEQ_WQ_WQX-M05MANDC04,Montana,Mandeville Creek wetland outlet,Stream,45.711379,-111.055712,MT41H003_021,Mandeville Creek
+7.791221682,MDEQ_WQ_WQX-M05MANDC08,Montana,Mandeville Creek d/s of confluence with Spring Cr,Stream,45.703628,-111.055503,MT41H003_021,Mandeville Creek
+3.362297436,MDEQ_WQ_WQX-M05MANDC10,Montana,Mandeville Creek u/s of confluence with Spring Cr,Stream,45.703153,-111.054881,MT41H003_021,Mandeville Creek
+7.918456126,MDEQ_WQ_WQX-M05MANDC12,Montana,Mandeville Creek at inlet to wetland,Stream,45.701212,-111.0541,MT41H003_021,Mandeville Creek
+12.82556906,MDEQ_WQ_WQX-M05GLTNR04,Montana,Gallatin River near Jack Smith bridge,Stream,45.27806,-111.22857,MT41H001_021,Gallatin River
+16.22684064,MTVOLWQM_WQX-HAB-GLLTNPRTL,Montana,Gallatin River near Portal Creek confluence,Stream,45.31888,-111.18683,MT41H001_021,Gallatin River
+48.45769453,MTWTRSHD_WQX-BWTF-GL-BK,Montana,"Gallatin River near Rainbow Ranch, downstream Twin Cabin Creek confluence",Stream,45.201159,-111.238891,MT41H001_021,Gallatin River
+16.77601614,MDEQ_WQ_WQX-M05GALLR02,Montana,Gallatin River near Three Forks,Stream,45.933117,-111.4922,MT41H001_010,Gallatin River
+317.3087683,MTWTRSHD_WQX-UPGL-GLTNR11,Montana,Gallatin River North Fork first bridge on Lone Mountain Road,Stream,45.2692,-111.3209,MT41H005_050,Middle Fork West Fork Gallatin River
+23.75372945,MDEQ_WQ_WQX-M05GALLS60,Montana,Gallatin River spring 600 ft u/s of WF Gallatin River,Stream,45.263721,-111.253118,MT41H001_021,Gallatin River
+21.97889396,MDEQ_WQ_WQX-M05GLTNR07,Montana,Gallatin River u/s Spanish Creek,Stream,45.48981,-111.271453,MT41H001_021,Gallatin River
+14.82677047,MDEQ_WQ_WQX-M05GALLR50,Montana,Gallatin River u/s W Cameron Bridge Rd,Stream,45.741694,-111.223722,MT41H001_010,Gallatin River
+5.785767277,MDEQ_WQ_WQX-M05STMCC01,Montana,Storm Castle Creek (formerly Squaw Cr M05SQAWC01) about 1/8 mile above the mouth,Stream,45.44087,-111.2251,MT41H005_010,Storm Castle Creek
+16.52804845,MDEQ_WQ_WQX-M05GLTNR40,Montana,Gallatin River u/s W Fk Gallatin River,Stream,45.261587,-111.251636,MT41H001_021,Gallatin River
+10.5048679,MTWTRSHD_WQX-UPGL-GLTNR07,Montana,Gallatin River West Fork,Stream,45.2642,-111.3108,MT41H005_040,West Fork Gallatin River
+6.911250396,MDEQ_WQ_WQX-M05TMPSC02,Montana,Thompson Spring Creek upstream of Hamilton Road,Stream,45.815833,-111.156111,MT41H003_090,Thompson Creek
+14.96278016,MDEQ_WQ_WQX-C10GOATC04,Montana,Goat Creek,Stream,47.7688,-113.7368,MT76K003_031,Goat Creek
+14.78033526,MDEQ_WQ_WQX-C10GOATC05,Montana,Goat Creek,Stream,47.75061,-113.81191,MT76K003_031,Goat Creek
+13.96438938,MDEQ_WQ_WQX-C10GOATC06,Montana,Goat Creek about 4 miles upstream of Hwy 83,Stream,47.7657,-113.7664,MT76K003_031,Goat Creek
+13.74241067,MTVOLWQM_WQX-GRA_OLD,Montana,Grant at Old Grant Cr Rd,Stream,46.947472,-114.014641,MT76M002_130,Grant Creek
+50.66902993,MDEQ_WQ_WQX-M04GHCNF01,Montana,Greenhorn Creek North Fork,Stream,45.121944,-112.039167,MT41C003_070,North Fork Greenhorn Creek
+18.04400241,USGS-06277500,Wyoming,"GREYBULL RIVER NEAR BASIN, WY",Stream,44.40662308,-108.1867719,WYBH100800090405_01,Greybull River
+0.619672022,MDEQ_WQ_WQX-M05GLTNR30,Montana,Gallatin River d/s Portal Creek,Stream,45.32198,-111.1793,MT41H001_021,Gallatin River
+0.117974747,MDEQ_WQ_WQX-M09BEAVC30,Montana,Beaver Creek at Hwy 12 Road Crossing,Stream,46.487868,-111.671908,MT41I002_030,Beaver Creek
+5.116808451,MDEQ_WQ_WQX-M09CAVEG01,Montana,Cave Gulch Creek about 1 1/4 mile above the USFS boundary,Stream,46.67149,-111.6875,MT41I002_150,Cave Gulch
+7.885886114,MDEQ_WQ_WQX-M09CONFG01,Montana,Confederate Gulch about 300 yards above the mouth,Stream,46.4873,-111.5137,MT41I002_042,Confederate Gulch
+0.883378053,MDEQ_WQ_WQX-M09CONFG30,Montana,Confederate Gulch Creek at HWY 284 Road Crossing,Stream,46.531261,-111.490249,MT41I002_042,Confederate Gulch
+12.53848246,MTVOLWQM_WQX-HS-CNF,Montana,Hot Springs Creek near mouth,Stream,45.58614,-111.59436,MT41F002_030,Hot Springs Creek
+3.176437479,MDEQ_WQ_WQX-M09CROWC15,Montana,Crow Creek at Hwy 437 crossing,Stream,46.169373,-111.567034,MT41I002_050,Crow Creek
+4.811964913,MDEQ_WQ_WQX-M09CROWC60,Montana,"Crow Creek, u/s of USFS boundary (FT 109)",Stream,46.264226,-111.688423,MT41I002_060,Crow Creek
+7.977380648,MDEQ_WQ_WQX-M09CROWC80,Montana,"Crow Creek, u/s of Eagle Creek road bridge  (USFS 405)",Stream,46.302028,-111.7364,MT41I002_060,Crow Creek
+10.2834848,MDEQ_WQ_WQX-M09INDNC50,Montana,Indian Creek at mining complex,Stream,46.328394,-111.612544,MT41I002_100,Indian Creek
+8.29089683,MDEQ_WQ_WQX-M09DEEPC01,Montana,Deep Creek at mouth (Missouri River),Stream,46.2895,-111.5212,MT41I002_070,Deep Creek
+23.33367611,MDEQ_WQ_WQX-M09INEFC90,Montana,Indian Creek East Fork headwaters u/s of NF-360 and d/s NF-405,Stream,46.366727,-111.711151,MT41I002_170,East Fork Indian Creek
+43.64901707,MTVOLWQM_WQX-JCP-SSR,Montana,Jack Creek downstream of resort development area,Stream,45.33113,-111.475842,MT41F004_050,Jack Creek
+1.746353631,MDEQ_WQ_WQX-M09DEEPC08,Montana,Deep Creek near mouth,Stream,46.2851,-111.5093,MT41I002_070,Deep Creek
+8.663405121,MDEQ_WQ_WQX-M09DRYC02,Montana,Dry Creek at Flynn Road,Stream,46.24362,-111.45163,MT41I002_080,Dry Creek
+5.578521261,MDEQ_WQ_WQX-M09DRYC04,Montana,Dry Creek just upstream of mouth (Missouri River),Stream,46.2418,-111.4691,MT41I002_080,Dry Creek
+4.723734846,MDEQ_WQ_WQX-M09DRYC90,Montana,"Dry Creek, near headwaters where Dry Creek road diverages from stream",Stream,46.2212,-111.168351,MT41I002_080,Dry Creek
+5.848718558,MDEQ_WQ_WQX-M09HLGTG40,Montana,Hellgate Gulch Creek at USFS Boundary,Stream,46.648153,-111.596102,MT41I002_090,Hellgate Gulch
+8.8240091,MDEQ_WQ_WQX-M09HLGTG50,Montana,Hellgate Gulch Creek 1 mi u/s of USFS boundary,Stream,46.659935,-111.587781,MT41I002_090,Hellgate Gulch
+7.246889643,MDEQ_WQ_WQX-M09HLGTG60,Montana,Hellgate Gulch Creek headwaters area,Stream,46.676372,-111.582054,MT41I002_090,Hellgate Gulch
+0.250443267,MDEQ_WQ_WQX-M09INDNC01,Montana,Indian Creek at mouth,Stream,46.334487,-111.534397,MT41I002_100,Indian Creek
+93.74316335,MTVOLWQM_WQX-HAB-JEFF-01,Montana,Jefferson River downstream of Hwy 2 and at USGS gage,Stream,45.89764,-111.59402,MT41G001_012,Jefferson River
+4.490834494,MDEQ_WQ_WQX-M09INDNC60,Montana,Indian Creek upstream at BLM boundary,Stream,46.319125,-111.628563,MT41I002_100,Indian Creek
+4.657988022,MDEQ_WQ_WQX-M09INEFC10,Montana,Indian Creek East Fork u/s of confluence with West Fork on BLM,Stream,46.314713,-111.667925,MT41I002_170,East Fork Indian Creek
+2.356613804,MDEQ_WQ_WQX-M09INEFC50,Montana,Indian Creek East Fork d/s of Sheps Gulch,Stream,46.340064,-111.675408,MT41I002_170,East Fork Indian Creek
+72.8638069,MDEQ_WQ_WQX-M08JEFFR42,Montana,Jefferson River just downstream frontage road bridge,Stream,45.89754,-111.59444,MT41G001_012,Jefferson River
+5.564420906,MDEQ_WQ_WQX-M09LPPRC09,Montana,Little Prickly Pear Creek at Wolf Creek,Stream,47.00526,-112.07061,MT41I005_052,Little Prickly Pear Creek
+13.05921675,MDEQ_WQ_WQX-M22JUDMF01,Montana,Judith River Middle Fork near mouth,Stream,46.8465,-110.2887,MT41S002_090,Middle Fork Judith River
+0.895155667,MDEQ_WQ_WQX-M09MAGPC04,Montana,Magpie Creek at mouth below E Shore Dr.,Stream,46.643236,-111.683582,MT41I002_110,Magpie Creek
+5.820073162,MDEQ_WQ_WQX-M09MAGPC20,Montana,Magpie Creek at Washout Gulch,Stream,46.670291,-111.65685,MT41I002_110,Magpie Creek
+25.44236211,MDEQ_WQ_WQX-C04KNDYC02,Montana,Kennedy Creek 2 miles above mouth below mining complex,Stream,47.13241,-114.478355,MT76M004_070,Kennedy Creek
+73.31233829,MDEQ_WQ_WQX-C04KNDYC04,Montana,"Kennedy Creek above mouth, upstream of Ninemile Creek Road",Stream,47.123076,-114.491134,MT76M004_070,Kennedy Creek
+11.14075408,MDEQ_WQ_WQX-C04KNDYC62,Montana,Kennedy Creek downstream of Hautilla Mine,Stream,47.15102,-114.4427,MT76M004_070,Kennedy Creek
+16.82042885,MDEQ_WQ_WQX-C04KNDYC54,Montana,Kennedy Creek downstream of Nugget Mine,Stream,47.14579,-114.44627,MT76M004_070,Kennedy Creek
+13.53020116,MDEQ_WQ_WQX-C04KNDYC57,Montana,Kennedy Creek just downstream of Lost Cabin Mine,Stream,47.1474,-114.44515,MT76M004_070,Kennedy Creek
+76.05414822,MDEQ_WQ_WQX-C04KNDYC01,Montana,Kennedy Creek upstream of FR Road 5507,Stream,47.164891,-114.422368,MT76M004_070,Kennedy Creek
+491.3535131,FTBLKNAP-PC-KCR-01,Montana,King Creek,Stream,47.9289,-108.6287,MT40I001_040,King Creek
+19.3167229,USGS-4828121155315,Montana,"Kootenai R near Troy, MT",Stream,48.4701361,-115.887486,MT76D001_010,Kootenai River
+71.04396837,MTVOLWQM_WQX-RIVERPARK,Montana,Kootenai River - Riverfront Park,Stream,48.39736,-115.54971,MT76D001_010,Kootenai River
+35.91504922,MTVOLWQM_WQX-ROOSPARK,Montana,Kootenai River - Roosevelt Park,Stream,48.47022,-115.88847,MT76D001_010,Kootenai River
+33.54589688,MDEQ_WQ_WQX-K01KOOTR44,Montana,Kootenai River 1500 ft u/s Yaak River (Yaak R CG),Stream,48.56431,-115.97994,MT76A001_010,Kootenai River
+116.1750466,MDEQ_WQ_WQX-K01KOOTR08,Montana,Kootenai River at Riverside Park in Libby,Stream,48.39716,-115.55028,MT76D001_010,Kootenai River
+15.60314724,USGS-12304750,Montana,Kootenai River Below Pine Creek,Stream,48.5918,-116.003,MT76A001_010,Kootenai River
+49.28984167,USGS-12301933,Montana,Kootenai River bl Libby Dam nr Libby MT,Stream,48.40066389,-115.3187194,MT76D001_010,Kootenai River
+1.301444321,MDEQ_WQ_WQX-M09PKPRC02,Montana,Prickly Pear Creek above Tenmile Ck,Stream,46.660667,-111.97541,MT41I006_020,Prickly Pear Creek
+6.610974318,MDEQ_WQ_WQX-M09PKPRC10,Montana,Prickly Pear Creek near Jeffeson City,Stream,46.398055,-112.01805,MT41I006_050,Prickly Pear Creek
+0.199674693,MDEQ_WQ_WQX-M09PKPRC14,Montana,Prickly Pear Creek downstream from McClenllan Creek,Stream,46.56931,-111.9154,MT41I006_040,Prickly Pear Creek
+9.686988384,MDEQ_WQ_WQX-M09PKPRC15,Montana,Prickly Pear Creek just downstream Hwy 282 crossing,Stream,46.51239,-111.94829,MT41I006_040,Prickly Pear Creek
+3.500150721,MDEQ_WQ_WQX-M09PKPRC18,Montana,Prickly Pear Creek at Helena WWTP discharge ditch,Stream,46.684934,-111.96868,MT41I006_020,Prickly Pear Creek
+1.673995167,MDEQ_WQ_WQX-M09PKPRC20,Montana,Prickly Pear Ck at Canyon Ferry Rd. crossing,Stream,46.616935,-111.960595,MT41I006_030,Prickly Pear Creek
+0.994149095,MDEQ_WQ_WQX-M09PKPRC22,Montana,Prickly Pear Creek 2 mi. u/s confluence Tenmile Creek,Stream,46.647999,-111.976377,MT41I006_030,Prickly Pear Creek
+9.944396944,MDEQ_WQ_WQX-M09PKPRC30,Montana,Prickly Pear Ck 1 mile upstream of HWY 12 crossing,Stream,46.576578,-111.914918,MT41I006_040,Prickly Pear Creek
+34.08788155,MT305B_SECONDARYDATA-LC-4,Montana,Lake Creek 04,Stream,48.35521,-115.84843,MT76D002_070,Lake Creek
+72.83835323,USGS-12303498,Montana,"Lake Creek at reservoir nr Troy, MT",Stream,48.4385,-115.87,MT76D002_070,Lake Creek
+44.06698211,MDEQ_WQ_WQX-M03LMCHC01,Montana,LaMarche Creek upstream of USFS boundary,Stream,45.910833,-113.217222,MT41D003_150,La Marche Creek
+3.986685165,MDEQ_WQ_WQX-M09SLVRC03,Montana,Silver Creek at S. CK Estates Rd,Stream,46.698972,-112.10619,MT41I006_150,Silver Creek
+6.294258242,MDEQ_WQ_WQX-M09SLVRC04,Montana,Silver Creek at John G Mine Rd,Stream,46.6897,-112.052772,MT41I006_150,Silver Creek
+8.652845442,MDEQ_WQ_WQX-M09SVNMC02,Montana,Sevenmile Creek u/s of bridge 150ft N of RR tracks,Stream,46.649167,-112.121389,MT41I006_160,Sevenmile Creek
+3.139521785,MDEQ_WQ_WQX-M09SVNMC03,Montana,Sevenmile Creek at Head Lane crossing,Stream,46.636759,-112.084524,MT41I006_160,Sevenmile Creek
+7.610705361,MDEQ_WQ_WQX-M09TENMC02,Montana,Tenmile Creek u/s of Green Meadow Dr,Stream,46.631667,-112.047222,MT41I006_143,Tenmile Creek
+18.499905,USGS-06660000,Wyoming,"LARAMIE RIVER AT LARAMIE, WY",Stream,41.32777778,-105.6074167,WYNP101800100501_01,Laramie River
+4.300864651,MDEQ_WQ_WQX-M09TENMC10,Montana,"Tenmile Creek at Sierra Road crossing, above mouth",Stream,46.66074,-111.98994,MT41I006_143,Tenmile Creek
+3.201072705,MDEQ_WQ_WQX-M09TENMC15,Montana,Tenmile Creek u/s of Hwy 12 crossing,Stream,46.57683,-112.156306,MT41I006_143,Tenmile Creek
+62.91497635,KOOTENAI_TRIBE_OF_IDAHO_WQX-KR13,Montana,"Libby Dam, MT",Stream,48.369024,-115.3208,MT76D001_010,Kootenai River
+13.50530077,MDEQ_WQ_WQX-C10LIONC08,Montana,Lion Creek,Stream,47.68217,-113.772074,MT76K003_050,Lion Creek
+20.0751258,MDEQ_WQ_WQX-Y27LBVRC01,Montana,Little Beaver Creek east of Carter/Fallon county line,Stream,46.0453,-104.3728,MT39F002_010,Little Beaver Creek
+10.27633839,MDEQ_WQ_WQX-Y27LBVRC17,Montana,Little Beaver Creek just downstream Hay Creek,Stream,46.06547,-104.33593,MT39F002_010,Little Beaver Creek
+4.154540446,MDEQ_WQ_WQX-M10CMASC01,Montana,Camas Creek at mouth,Stream,46.70431,-111.19278,MT41J002_110,Camas Creek
+5.002436951,MDEQ_WQ_WQX-M10CMASC04,Montana,Camas Creek at Hwy 360,Stream,46.67824,-111.19388,MT41J002_110,Camas Creek
+4.450811607,MDEQ_WQ_WQX-M10CMASC05,Montana,Camas Creek 1 mi u/s of mouth,Stream,46.692,-111.1884,MT41J002_110,Camas Creek
+12.57465419,MDEQ_WQ_WQX-C01LTBLR65,Montana,Little Blackfoot River 0.75 mi u/s of Larabee Gulch,Stream,46.43888,-112.46151,MT76G004_020,Little Blackfoot River
+9.685889115,MDEQ_WQ_WQX-M10HONDC01,Montana,Hound Creek 1 mile upstream from mouth,Stream,47.213889,-111.409167,MT41J002_020,Hound Creek
+2.730090343,MDEQ_WQ_WQX-M10SHEPC01,Montana,Sheep Creek near mouth,Stream,46.80718,-111.16107,MT41J002_030,Sheep Creek
+3.495532431,MDEQ_WQ_WQX-M10SHEPC06,Montana,Sheep Creek about 1 mile upstream of Moose Creek,Stream,46.79281,-110.91112,MT41J002_030,Sheep Creek
+12.38390915,MTWTRSHD_WQX-LOGAN,Montana,Logan Creek at Tally campground bridge,Stream,48.415172,-114.58673,MT76P001_030,Logan Creek
+8.538994612,MDEQ_WQ_WQX-M10SMRNF01,Montana,Smith River North Fork upstream of confluence,Stream,46.52709,-110.96663,MT41J002_011,North Fork Smith River
+19.88696627,MDEQ_WQ_WQX-C05LOEFC03,Montana,Lolo Creek East Fork near mouth,Stream,46.71146,-114.53094,MT76H005_040,East Fork Lolo Creek
+12.60160239,MTVOLWQM_WQX-LOL_DNR,Montana,Lolo Creek at Highway 93S,Stream,46.749361,-114.081991,MT76H005_011,Lolo Creek
+3.80294683,MDEQ_WQ_WQX-M10SMTHR04,Montana,Smith River 200 feet above Hwy 360 bridge,Stream,46.67625,-111.14793,MT41J001_010,Smith River
+31.39670844,MDEQ_WQ_WQX-C01LOSTC08,Montana,Lost Creek,Stream,46.22112,-113.0285,MT76G002_071,Lost Creek
+10.04789517,MTVOLWQM_WQX-17MILEC,Montana,Lower 17-mile Creek,Stream,48.67825,-115.85216,MT76B002_010,Seventeen Mile Creek
+33.28884504,11NPSWRD_WQX-ROMN_GLAC_S06,Montana,Lower Middle Fork Flathead River,Stream,48.4855,-114.034,MT76I001_010,Middle Fork Flathead River
+10.15974397,MDEQ_WQ_WQX-M09LUMPG05,Montana,Lump Gulch near mouth,Stream,46.4785,-111.98383,MT41I006_130,Lump Gulch
+52.56776201,MDEQ_WQ_WQX-M06MADNR21,Montana,Madison River at Damselfly FAS,Stream,45.62394,-111.54815,MT41F001_010,Madison River
+60.45947294,MDEQ_WQ_WQX-M06MADNR50,Montana,Madison River at Eight Mile Ford FAS,Stream,45.266041,-111.749702,MT41F001_020,Madison River
+19.31443166,MDEQ_WQ_WQX-M06MADNR08,Montana,Madison River at Ennis Fishing Access,Stream,45.34518,-111.72401,MT41F001_020,Madison River
+26.23902525,MDEQ_WQ_WQX-M06MADNR10,Montana,Madison River at I-90 bridge,Stream,45.89974,-111.52424,MT41F001_010,Madison River
+30.25332079,MDEQ_WQ_WQX-M06MADNR13,Montana,Madison River at mouth at Headwaters State Park,Stream,45.9259,-111.5036,MT41F001_010,Madison River
+7.002078918,MDEQ_WQ_WQX-M10SMTHR17,Montana,Smith River at Fraunhofer Boat Camp,Stream,47.07969,-111.27503,MT41J001_010,Smith River
+11.15286534,MTNWE-MM-3,Montana,Madison River at Varney Bridge upstream from Madison Reservoir,Stream,45.23263,-111.75168,MT41F001_020,Madison River
+5.130311574,MDEQ_WQ_WQX-M10SMTHR19,Montana,Smith River downstream Bear Gulch Spring,Stream,47.03231,-111.27878,MT41J001_010,Smith River
+1.367040334,MDEQ_WQ_WQX-M10SMTHR20,Montana,Smith River at Heaven on Earth Ranch,Stream,47.03213,-111.28632,MT41J001_010,Smith River
+29.4853063,MDEQ_WQ_WQX-M06MADNR07,Montana,Madison River at Varney Road crossing,Stream,45.23219,-111.75117,MT41F001_020,Madison River
+9.604201384,MDEQ_WQ_WQX-M10SMTHR40,Montana,Smith River at Castle Bar Road,Stream,46.97724,-111.28577,MT41J001_010,Smith River
+5.776804986,MDEQ_WQ_WQX-M10SMTHR46,Montana,Smith River,Stream,46.95383,-111.283109,MT41J001_010,Smith River
+14.71346745,MTNWE-MM-4,Montana,Madison River downstream from Madison Dam,Stream,45.48891,-111.63438,MT41F001_010,Madison River
+9.294234637,MDEQ_WQ_WQX-M10SMTHR50,Montana,Smith River,Stream,46.928684,-111.278262,MT41J001_010,Smith River
+8.606370107,MDEQ_WQ_WQX-M10SMTHR53,Montana,Smith River downstream Blacktail Creek,Stream,46.904868,-111.271732,MT41J001_010,Smith River
+34.36277572,MTVOLWQM_WQX-MAD-ENNIS,Montana,Madison River mainstem,Stream,45.34536,-111.72374,MT41F001_020,Madison River
+22.98304173,MDEQ_WQ_WQX-M06MDWFR05,Montana,Madison River West Fork about 0.5 mile upstream mouth,Stream,44.88139,-111.58268,MT41F004_100,West Fork Madison River
+5.469733382,MDEQ_WQ_WQX-M10SMTHR68,Montana,Smith River above Whitetail Deer Creek,Stream,46.75132,-111.16869,MT41J001_010,Smith River
+12.28080661,MDEQ_WQ_WQX-M09MAGPC75,Montana,Magpie Creek d/s of headwaters confluence,Stream,46.735658,-111.59967,MT41I002_110,Magpie Creek
+17.11048288,MDEQ_WQ_WQX-M05MANDWELL01,Montana,Mandeville 319 project?s downgradient groundwater well,Stream,45.706522,-111.055732,MT41H003_021,Mandeville Creek
+0.932651605,MDEQ_WQ_WQX-M10SMTHR78,Montana,Smith River just upstream Camas Creek confluence,Stream,46.70513,-111.19229,MT41J001_010,Smith River
+1.570726172,MDEQ_WQ_WQX-M10SMTHR92,Montana,Smith River d/s Newlan Creek confluence,Stream,46.59152,-111.05691,MT41J001_010,Smith River
+6.885495692,MDEQ_WQ_WQX-M10SMTHR95,Montana,Smith River at Birch Creek Road,Stream,46.54844,-111.00903,MT41J001_010,Smith River
+13.40049105,MDEQ_WQ_WQX-M05MANDWELL03,Montana,Mandeville 319 project?s groundwater well d/s Farmers Canal,Stream,45.704403,-111.055652,MT41H003_021,Mandeville Creek
+46.67727858,MDEQ_WQ_WQX-M05MANDWELL05,Montana,Mandeville 319 project?s groundwater well u/s Farmers Canal,Stream,45.702657,-111.055275,MT41H003_021,Mandeville Creek
+6.362295403,MDEQ_WQ_WQX-M11BELTC03,Montana,Belt Creek u/s Salem Rd bridge 700 ft,Stream,47.582464,-111.030475,MT41U001_012,Belt Creek
+1.373088431,MDEQ_WQ_WQX-M11BELTC70,Montana,Belt Creek off Hwy 89,Stream,47.04308,-110.79143,MT41U001_011,Belt Creek
+28.1638895,MDEQ_WQ_WQX-M05MANDWELL07,Montana,Mandeville 319 project?s upgradient groundwater well,Stream,45.700955,-111.054348,MT41H003_021,Mandeville Creek
+11.95151541,MDEQ_WQ_WQX-M05MANDC02,Montana,Mandeville Creek at Bozeman High School,Stream,45.683316,-111.051793,MT41H003_021,Mandeville Creek
+3.478010947,MDEQ_WQ_WQX-M12DRBNR04,Montana,Dearborn River at HWY 287,Stream,47.19875,-112.095,MT41Q003_010,Dearborn River
+21.55451543,MDEQ_WQ_WQX-M18MARIR08,Montana,Marias River at Loma downstream of Loma Bridge,Stream,47.931389,-110.506944,MT41P001_022,Marias River
+15.20152887,MDEQ_WQ_WQX-M18MARIR14,Montana,Marias River u/s Loma Hwy 87 bridge,Stream,47.9319,-110.50805,MT41P001_022,Marias River
+21.42698802,MDEQ_WQ_WQX-M09MCCLC03,Montana,McClellan Creek 0.7 mi u/s of confluence with Prickly Pear Creek,Stream,46.550564,-111.89869,MT41I006_200,McClellan Creek
+43.14190721,ADVENTURESCIENTISTS-48.23.113.57,Montana,Middle Fork Flathead River (Flathead Wild and Scenic River)-48.23.113.57,Stream,48.23278426,-113.5673134,MT76I001_010,Middle Fork Flathead River
+74.27641622,ADVENTURESCIENTISTS-48.39.114.08,Montana,Middle Fork Flathead River (Flathead Wild and Scenic River)-48.39.114.08,Stream,48.39262402,-114.083039,MT76O001_010,Flathead River
+34.35195238,ADVENTURESCIENTISTS-48.41.114.05,Montana,Middle Fork Flathead River (Flathead Wild and Scenic River)-48.41.114.05,Stream,48.40941225,-114.0528207,MT76O001_010,Flathead River
+21.97539022,ADVENTURESCIENTISTS-48.43.113.77,Montana,Middle Fork Flathead River (Flathead Wild and Scenic River)-48.43.113.77,Stream,48.42542562,-113.7744556,MT76I001_010,Middle Fork Flathead River
+68.72421173,ADVENTURESCIENTISTS-48.46.114.07,Montana,Middle Fork Flathead River (Flathead Wild and Scenic River)-48.46.114.07,Stream,48.46082207,-114.0700185,MT76O001_010,Flathead River
+24.56310913,ADVENTURESCIENTISTS-48.47.114.07,Montana,Middle Fork Flathead River (Flathead Wild and Scenic River)-48.47.114.07,Stream,48.46702124,-114.0709479,MT76O001_010,Flathead River
+24.20664834,ADVENTURESCIENTISTS-48.50.113.96,Montana,Middle Fork Flathead River (Flathead Wild and Scenic River)-48.50.113.96,Stream,48.49851848,-113.964496,MT76I001_010,Middle Fork Flathead River
+13.26638558,MDEQ_WQ_WQX-M22JUDMF02,Montana,Middle Fork Judith River 0.3 mi u/s of Judith Station Road,Stream,46.84672,-110.2951,MT41S002_090,Middle Fork Judith River
+61.21350649,USGS-425054108423401,Wyoming,"MIDDLE POPO AGIE RIVER IN LANDER, WY",Stream,42.8486111,-108.7094444,WYBH100800030207_01,Middle Fork Popo Agie River
+18.49039665,MDEQ_WQ_WQX-M45MILKR21,Montana,Milk River S of Sullivan Park Rd near Glasgow,Stream,48.18043,-106.6211,MT40O001_010,Milk River
+12.87930689,MTVOLWQM_WQX-MIL_FOR,Montana,Mill Creek at Mill Creek Trail,Stream,47.022445,-114.206001,MT76M002_140,Mill Creek
+12.32016532,USGS-12323700,Montana,"Mill Creek at Opportunity, MT",Stream,46.11437778,-112.819775,MT76G002_052,Mill Creek
+21.92221759,MTVOLWQM_WQX-MIL1,Montana,Mill Creek upstream East River Rd crossing,Stream,45.413,-110.649,MT43B004_071,Mill Creek
+37.91066632,MTVOLWQM_WQX-MIL_SGL,Montana,Miller Creek at Single Tree Park,Stream,46.781199,-113.995683,MT76H004_130,Miller Creek
+11.57639618,MTVOLWQM_WQX-MIL_WIS,Montana,Miller Creek at Wise River Road,Stream,46.790256,-114.051689,MT76H004_130,Miller Creek
+373.0638646,FORTPECK-MoRiv_RK 113.4,Montana,Missouri River,Stream,48.069571,-105.022393,MT40S003_010,Missouri River
+124.2032652,FORTPECK-MoRiv_RK 133,Montana,Missouri River,Stream,48.0944,-105.1692,MT40S003_010,Missouri River
+141.5649169,FORTPECK-MoRiv_RK156.6,Montana,Missouri River,Stream,48.090073,-105.364855,MT40S001_012,Missouri River
+82.1329577,FORTPECK-MoRiv_RK178.2,Montana,Missouri River,Stream,48.075361,-105.608986,MT40S001_012,Missouri River
+22.67216971,FORTPECK-MoRiv_RK183.6,Montana,Missouri River,Stream,48.059764,-105.642476,MT40S001_012,Missouri River
+4.594886561,MDEQ_WQ_WQX-M17WILOC05,Montana,Willow Creek south of Galata,Stream,48.46243,-111.36624,MT41P004_010,Willow Creek
+12.50986614,FORTPECK-MoRiv_RK 232.2,Montana,Missouri River,Stream,48.013112,-106.046604,MT40S001_012,Missouri River
+10.82878517,FORTPECK-MoRiv_RK 253.8,Montana,Missouri River,Stream,48.026493,-106.219043,MT40S001_012,Missouri River
+13.08467464,FORTPECK-MoRiv_RK267.3,Montana,Missouri River,Stream,48.048845,-106.366362,MT40S001_011,Missouri River
+359.6253163,FORTPECK-MoRiv_RK 59.3,Montana,Missouri River,Stream,48.1211,-104.585,MT40S003_010,Missouri River
+29.0858436,FORTPECK-MoRiv_RK 67.5,Montana,Missouri River,Stream,48.1112,-104.6316,MT40S003_010,Missouri River
+9.923408831,MDEQ_WQ_WQX-M22JUDMF05,Montana,Middle Fork Judith River 0.5 mi d/s Lost Fork Judith River,Stream,46.84116,-110.36964,MT41S002_090,Middle Fork Judith River
+70.39534724,FORTPECK-MoRiv_RK 83.7,Montana,Missouri River,Stream,48.12425,-104.804671,MT40S003_010,Missouri River
+442.8193481,FORTPECK-PoplR_RK0,Montana,Missouri River,Stream,48.083538,-105.187289,MT40S001_012,Missouri River
+4.792792973,MDEQ_WQ_WQX-M24MUSSR10,Montana,Musselshell River at Selkirk Fishing Access,Stream,46.46463,-110.22929,MT40A001_010,Musselshell River
+29.50354863,NARS_WQX-NRS_MT-10297,Montana,Missouri River,Stream,47.4516107,-111.301288,MT41Q001_022,Missouri River
+6.701065988,MDEQ_WQ_WQX-M25MUSSR10,Montana,Musselshell River off of 4H Road,Stream,46.44142,-108.53375,MT40C001_010,Musselshell River
+2.968338479,MDEQ_WQ_WQX-M29LDRYC08,Montana,Little Dry Creek,Stream,47.30837,-106.35677,MT40D004_010,Little Dry Creek
+42.58987817,NARS_WQX-NRS_MT-10381,Montana,Missouri River,Stream,45.99139005,-111.4634049,MT41I001_011,Missouri River
+8.236311283,MDEQ_WQ_WQX-M35LODGC03,Montana,Lodge Creek East of North Chinook Reservoir,Stream,48.77344,-109.40455,MT40J003_010,Lodge Creek
+1.047780612,MDEQ_WQ_WQX-M39WHTWC34,Montana,Whitewater Creek at Hwy 191 crossing,Stream,48.89597,-107.8154,MT40K001_010,Whitewater Creek
+1.235278775,MDEQ_WQ_WQX-M40FRMNC22,Montana,Frenchman Creek 3.5 mi above Reservoir,Stream,48.7515,-107.20536,MT40L001_010,Frenchman Creek
+6.156529085,MDEQ_WQ_WQX-M41LARBC10,Montana,Larb Creek on Larb Cr Rd at Harb Trail,Stream,48.30241,-107.2865,MT40M002_020,Larb Creek
+23.06407638,NARS_WQX-NRS_MT-10512,Montana,Missouri River,Stream,47.79955099,-109.0182369,MT41T001_010,Missouri River
+42.22730628,OST_SHPD-NRS18_MT_10048,Montana,Missouri River,Stream,45.99139,-111.4634,MT41I001_011,Missouri River
+5.346204558,MDEQ_WQ_WQX-M46POWFR01,Montana,Poplar River West Fork,Stream,48.8081,-106.0206,MT40Q002_030,West Fork Poplar River
+23.09982257,OST_SHPD-NRS18_MT_10071,Montana,Missouri River,Stream,47.79955,-109.01824,MT41T001_010,Missouri River
+76.10288457,MDEQ_WQ_WQX-M12MISSR17,Montana,Missouri River at Big Bend FAS,Stream,47.38975,-111.3386,MT41Q001_022,Missouri River
+8.644686253,MDEQ_WQ_WQX-REFWFPR,Montana,West Fork Poplar River,Stream,48.696944,-105.831944,MT40Q002_030,West Fork Poplar River
+64.47986587,MTVOLWQM_WQX-MO_CASCADE,Montana,Missouri River at Cascade FAS,Stream,47.28062,-111.69113,MT41Q001_022,Missouri River
+72.97126976,MDEQ_WQ_WQX-M12MISSR75,Montana,Missouri River at Cascade Fishing Access,Stream,47.28156,-111.68991,MT41Q001_022,Missouri River
+21.22513504,MTNWE-MM-9,Montana,"Missouri River at Central Ave Bridge, upstream from Great Falls Reservoirs",Stream,47.50678,-111.31251,MT41Q001_011,Missouri River
+171.5634378,MDEQ_WQ_WQX-M12MISSR15,Montana,Missouri River at Central Avenue bridge in Great Falls,Stream,47.5083,-111.3094,MT41Q001_011,Missouri River
+82.90017722,MDEQ_WQ_WQX-M09MISSR32,Montana,Missouri River at Fairweather FAS,Stream,46.03372,-111.42169,MT41I001_011,Missouri River
+91.43581317,MDEQ_WQ_WQX-M12MISSR60,Montana,Missouri River at Fort Benton City Park,Stream,47.82005,-110.664,MT41Q001_014,Missouri River
+0.04116982,MDEQ_WQ_WQX-Y03BIGC02,Montana,Big Creek,Stream,45.2896,-110.967,MT43B004_112,Big Creek
+7.928082883,MDEQ_WQ_WQX-Y03BOULR01,Montana,Boulder River at Big Timber on Old Boulder Road,Stream,45.833889,-109.938056,MT43B004_131,Boulder River
+5.120314134,MDEQ_WQ_WQX-Y03BOULR02,Montana,Boulder River u/s Old Boulder Rd,Stream,45.83388,-109.93874,MT43B004_131,Boulder River
+99.6044086,MDEQ_WQ_WQX-M12MISSR13,Montana,"Missouri River at Fort Benton, at USGS gage",Stream,47.81744,-110.66698,MT41Q001_014,Missouri River
+8.081261831,MDEQ_WQ_WQX-Y03YELSR03,Montana,Yellowstone River at Springdale FAS,Stream,45.7442,-110.2324,MT43B003_010,Yellowstone River
+133.2634543,MDEQ_WQ_WQX-M12MISSR50,Montana,Missouri River at mid Cochrane Reservoir,Stream,47.55055,-111.158,MT41Q001_013,Missouri River
+74.41013389,MDEQ_WQ_WQX-M12MISSR06,Montana,Missouri River at Millegan Rd crossing in Ulm,Stream,47.43039,-111.50091,MT41Q001_022,Missouri River
+40.45907796,MDEQ_WQ_WQX-M12MISSR20,Montana,Missouri River at Mountain Palace FAS,Stream,47.16259,-111.823733,MT41Q001_021,Missouri River
+107.4273495,MDEQ_WQ_WQX-M12MISSR45,Montana,Missouri River at North Mid Reservoir,Stream,47.53734,-111.22177,MT41Q001_011,Missouri River
+7.774036295,MDEQ_WQ_WQX-Y04ROSWC25,Montana,West Rosebud Creek at Rosebud Isle FAS,Stream,45.45058,-109.50714,MT43C002_090,West Rosebud Creek
+1.288143579,MDEQ_WQ_WQX-Y05BEARC01,Montana,Bear Creek near mouth,Stream,45.14711,-109.00144,MT43D002_020,Bear Creek
+243.058562,MDEQ_WQ_WQX-M12MISSR11,Montana,Missouri River at Pelican Point FAS,Stream,47.19972,-111.77513,MT41Q001_022,Missouri River
+73.19473321,MDEQ_WQ_WQX-M12MISSR43,Montana,Missouri River at Rainbow Dam Tailrace,Stream,47.53405,-111.19879,MT41Q001_013,Missouri River
+141.7082905,MDEQ_WQ_WQX-M12MISSR25,Montana,"Missouri River at Rivers Edge Trail, left side",Stream,47.5216,-111.27334,MT41Q001_011,Missouri River
+2.405756118,MDEQ_WQ_WQX-Y05BLUWC03,Montana,Blue Water Creek just above private ranch,Stream,45.31483,-108.79202,MT43D002_032,Bluewater Creek
+104.822406,MDEQ_WQ_WQX-M12MISSR35,Montana,Missouri River at Ryan Dam reservoir,Stream,47.57811,-111.08309,MT41Q001_013,Missouri River
+37.93964977,MDEQ_WQ_WQX-M12MISSR38,Montana,Missouri River at Ryan Dam Tailrace,Stream,47.56662,-111.11597,MT41Q001_013,Missouri River
+9.768725313,MDEQ_WQ_WQX-Y05BRIDC02,Montana,Bridger Creek at Hwy 310 crossing,Stream,45.261395,-108.908821,MT43D002_170,Bridger Creek
+6.761730766,MDEQ_WQ_WQX-Y05BRIDC30,Montana,Bridger Ck off Pryor Mtn Rd,Stream,45.240577,-108.859175,MT43D002_170,Bridger Creek
+7.359395965,MDEQ_WQ_WQX-Y05BRIDC50,Montana,Bridger Ck u/s of SF Bridger Ck at Pryor Mtn Rd xing,Stream,45.229341,-108.843221,MT43D002_170,Bridger Creek
+0.503200232,MDEQ_WQ_WQX-Y05BRSFC03,Montana,Bridger Creek South Fork near mouth,Stream,45.228702,-108.846915,MT43D002_180,South Fork Bridger Creek
+7.059876953,MDEQ_WQ_WQX-Y05CFYLR01,Montana,Clarks Fork of Yellowstone River 1.8 mile d/s Wyoming border,Stream,45.0164,-109.05522,MT43D001_012,Clarks Fork Yellowstone River
+7.777495654,MDEQ_WQ_WQX-Y05CFYLR02,Montana,Clarks Fork of Yellowstone River 1/3 mi d/s Hwy 72 crossing,Stream,45.07797,-109.0305,MT43D001_012,Clarks Fork Yellowstone River
+16.26992552,MDEQ_WQ_WQX-M09MISSR26,Montana,Missouri River at Toston,Stream,46.17368,-111.44572,MT41I001_012,Missouri River
+26.37184261,MDEQ_WQ_WQX-M12MISSR40,Montana,Missouri River at upper reservoir (Ryan Dam),Stream,47.55513,-111.14217,MT41Q001_013,Missouri River
+40.18741441,MDEQ_WQ_WQX-M09MISSR10,Montana,Missouri River at USGS gage below Holter Dam,Stream,46.995,-112.01,MT41I004_030,Missouri River
+118.5349295,MDEQ_WQ_WQX-M12MISSR16,Montana,Missouri River at White Bear FAS,Stream,47.433842,-111.290344,MT41Q001_022,Missouri River
+31.96293122,MDEQ_WQ_WQX-M09MISSR11,Montana,Missouri River at Wolf Creek bridge,Stream,47.0176,-112.0112,MT41I004_030,Missouri River
+3.439158651,MDEQ_WQ_WQX-Y05CFYLR30,Montana,Clarks Fork Yellowstone River at E River Road xing,Stream,45.391633,-108.895101,MT43D001_011,Clarks Fork Yellowstone River
+367.0028611,MDEQ_WQ_WQX-M09MISSR70,Montana,Missouri River at York's Island Fishing Access,Stream,46.26614,-111.49271,MT41I001_012,Missouri River
+54.48923889,MDEQ_WQ_WQX-M12MISSR42,Montana,Missouri River below Whitmore Ravine,Stream,47.53991,-111.18584,MT41Q001_013,Missouri River
+44.41248204,MDEQ_WQ_WQX-M09MISSR77,Montana,Missouri River d/s Beaver Creek FAS,Stream,46.788636,-111.902631,MT41I004_020,Missouri River
+72.89342863,MDEQ_WQ_WQX-M09MISSR23,Montana,Missouri River d/s Craig Frontage Rd bridge and u/s Little Prickly Pear Cr,Stream,47.02077,-112.01475,MT41I004_030,Missouri River
+129.8522507,MDEQ_WQ_WQX-M12MISSR41,Montana,Missouri River downstream Cochrane Dam Turbine Discharge,Stream,47.55413,-111.14826,MT41Q001_013,Missouri River
+18.64938314,MTNWE-MM-10,Montana,Missouri River downstream from Great Falls Dams,Stream,47.58168,-111.06024,MT41Q001_014,Missouri River
+39.09461619,MTNWE-MM-7,Montana,Missouri River downstream from Hauser Dam,Stream,46.76507,-111.88905,MT41I004_020,Missouri River
+5.06011366,MDEQ_WQ_WQX-Y05DRYC15,Montana,"Dry Creek, 0.4 mi u/s of Clarks Fork of YR",Stream,45.195545,-108.986479,MT43D002_190,Dry Creek
+30.7253973,MTNWE-MM-8,Montana,Missouri River downstream from Holter Dam,Stream,46.99478,-112.01091,MT41I004_030,Missouri River
+35.54997572,MDEQ_WQ_WQX-M09MISSR27,Montana,Missouri River downstream Hauser Lake Dam,Stream,46.76517,-111.88947,MT41I004_020,Missouri River
+85.75079038,MDEQ_WQ_WQX-M31MISSR02,Montana,"Missouri River downstream Hwy 191 crossing, upstream from Armells Creek",Stream,47.62366,-108.67805,MT40E001_010,Missouri River
+4.010212061,MDEQ_WQ_WQX-Y05ELBWC30,Montana,Elbow Creek at lower Elbow Creek Rd Crossing,Stream,45.455249,-108.95727,MT43D002_010,Elbow Creek
+108.0132367,MDEQ_WQ_WQX-M09MISSR18,Montana,Missouri River downstream of Hwy 287 bridge,Stream,46.3519,-111.523,MT41I001_012,Missouri River
+62.37234209,MDEQ_WQ_WQX-M12MISSR47,Montana,Missouri River just downstream of Black Eagle Dam Tailrace,Stream,47.52128,-111.25749,MT41Q001_011,Missouri River
+72.85696077,MDEQ_WQ_WQX-M12MISSR97,Montana,Missouri River just upstream Lone Tree Fishing Access,Stream,47.0563,-111.96747,MT41Q001_021,Missouri River
+3.590964818,MDEQ_WQ_WQX-Y05RDLGC45,Montana,Red Lodge Creek just below Cooney Res,Stream,45.449755,-109.197284,MT43D002_060,Red Lodge Creek
+5.624832752,MDEQ_WQ_WQX-Y05RDLGC48,Montana,Red Lodge Creek just above Cooney Res,Stream,45.436341,-109.251015,MT43D002_050,Red Lodge Creek
+3.00213128,MDEQ_WQ_WQX-Y05RDLGC75,Montana,Red Lodge Creek at Election Rd crossing,Stream,45.391355,-109.320557,MT43D002_050,Red Lodge Creek
+1.07372695,MDEQ_WQ_WQX-Y05RDLWC10,Montana,Red Lodge Creek West above Luther Road bridge,Stream,45.283889,-109.430278,MT43D002_080,West Red Lodge Creek
+98.03423618,MDEQ_WQ_WQX-M12MISSR12,Montana,Missouri River just upstream of Sun River confluence,Stream,47.49238,-111.3154,MT41Q001_022,Missouri River
+7.700898813,MDEQ_WQ_WQX-Y05ROCKC02,Montana,Rock Creek below Highway 78 bridge,Stream,45.47435,-108.99567,MT43D002_120,Rock Creek
+77.47716402,MDEQ_WQ_WQX-M09MISSR21,Montana,Missouri River near Clarkston and Fairweather Fishing Access,Stream,46.0417,-111.4254,MT41I001_011,Missouri River
+59.0705512,MDEQ_WQ_WQX-M51MISSR01,Montana,Missouri River near Culbertson,Stream,48.1225,-104.475833,MT40S003_010,Missouri River
+32.25399893,MDEQ_WQ_WQX-M23MISSR60,Montana,Missouri River near Judith Landing,Stream,47.72294,-109.69292,MT41T001_010,Missouri River
+94.23911763,MDEQ_WQ_WQX-M12MISSR10,Montana,"Missouri River near Loma, MT",Stream,47.91465,-110.49796,MT41Q001_014,Missouri River
+1.250763235,MDEQ_WQ_WQX-Y05ROCKC70,Montana,Rock Creek u/s of W Fk Rock Creek,Stream,45.15263,-109.27107,MT43D002_132,Rock Creek
+91.53215911,MDEQ_WQ_WQX-M12MISSR08,Montana,Missouri River near Morony Dam,Stream,47.58581,-111.06059,MT41Q001_014,Missouri River
+100.3099891,MTVOLWQM_WQX-MO_CRAIG,Montana,Missouri River side channel upstream from Lone Tree FAS,Stream,47.05415,-111.96701,MT41Q001_021,Missouri River
+1.338849391,MDEQ_WQ_WQX-Y05SILVC01,Montana,Silvertip Creek about 1.5 miles from the mouth,Stream,45.17425,-108.98475,MT43D002_100,Silvertip Creek
+0.661945682,MDEQ_WQ_WQX-Y05SILVC10,Montana,Silvertip Creek at Dutch Lane crossing,Stream,45.159954,-108.977483,MT43D002_100,Silvertip Creek
+6.556036861,MDEQ_WQ_WQX-Y05SILVC22,Montana,Silvertip Creek 1/4 mi u/s Cub Cr off S Silvertip Rd,Stream,45.134926,-108.964014,MT43D002_100,Silvertip Creek
+1.402930882,MDEQ_WQ_WQX-Y05SILVC45,Montana,Silvertip Creek on BLM property,Stream,45.102624,-108.964559,MT43D002_100,Silvertip Creek
+7.812103324,MDEQ_WQ_WQX-Y05SILVC85,Montana,Silvertip Creek 2.5 mi d/s WY border,Stream,45.02592,-108.93838,MT43D002_100,Silvertip Creek
+3.792501739,MDEQ_WQ_WQX-Y05SILVC95,Montana,Silvertip Creek just inside the MT WY border,Stream,45.00012,-108.903015,MT43D002_100,Silvertip Creek
+18.52223961,MDEQ_WQ_WQX-M09MISSR80,Montana,Missouri River u/s Wolf Creek bridge,Stream,47.0036,-111.999,MT41I004_030,Missouri River
+42.21713726,MTVOLWQM_WQX-MO_DEAR_US,Montana,Missouri River upstream confluence with Dearborn River,Stream,47.12819,-111.91174,MT41Q001_021,Missouri River
+2.026463378,MDEQ_WQ_WQX-Y06CANYC03,Montana,Canyon Creek near mouth at end Goodman Rd,Stream,45.71714,-108.59936,MT43F002_021,Canyon Creek
+74.49431603,MDEQ_WQ_WQX-M12MISSR07,Montana,Missouri River upstream of Big Bend FAS,Stream,47.40202,-111.34716,MT41Q001_022,Missouri River
+11.23590864,MTVOLWQM_WQX-MO_HARDY,Montana,Missouri River upstream of Sheep Creek at Hardy Bridge,Stream,47.16781,-111.83366,MT41Q001_021,Missouri River
+29.50313525,MTVOLWQM_WQX-MO_SPRINGCR,Montana,MO_SPRINGCR,Stream,46.3885,-112.0306,MT41I006_080,Spring Creek
+34.26492445,MTVOLWQM_WQX-MO_TOWNSEND,Montana,MO_TOWNSEND,Stream,46.33527,-111.5325,MT41I001_012,Missouri River
+7.333069291,MDEQ_WQ_WQX-Y06YELSR06,Montana,Yellowstone River at Hwy 212 bridge near Laurel,Stream,45.65411,-108.75963,MT43F001_011,Yellowstone River
+77.49591353,MDEQ_WQ_WQX-C03MONTC10,Montana,Monture Creek 100 yards upstream of Monture Creek campground,Stream,47.126111,-113.146389,MT76F004_100,Monture Creek
+12.9286169,MTVOLWQM_WQX-MC-RST,Montana,Moore Creek downstream of restoration site on Goggins,Stream,45.361626,-111.728382,MT41F004_130,Moore Creek
+10.75657993,MTVOLWQM_WQX-MC-BRK,Montana,Moore Creek upper,Stream,45.338583,-111.737733,MT41F004_130,Moore Creek
+56.05010604,MDEQ_WQ_WQX-M10MOOSC07,Montana,Moose Creek at Moose Creek Campground,Stream,46.8339,-110.8767,MT41J002_120,Moose Creek
+355.8087042,WYDEQ_WATERSHED-MRC22,Wyoming,MRC22 - NORTH TONGUE RIVER - HIDEOUT,Stream,44.7555028,-107.6330944,WYTR100901010101_01,North Tongue River
+107.4707363,MTWTRSHD_WQX-SUN-MUDYC57,Montana,Muddy Creek at Vaughn,Stream,47.559444,-111.540278,MT41K002_010,Muddy Creek
+16.77988729,USGS-06258000,Wyoming,"MUDDY CREEK NEAR SHOSHONI, WY",Stream,43.2860692,-108.2756554,WYBH100800050607_01,Muddy Creek
+69.62161879,NARS_WQX-NRS_MT-10561,Montana,Musselshell River,Stream,46.79193003,-107.8371055,MT40C001_010,Musselshell River
+14.74782487,MDEQ_WQ_WQX-M24MUSSR09,Montana,Musselshell River about 400 yards downstream Hwy 191 bridge,Stream,46.4289,-109.8377,MT40A001_010,Musselshell River
+14.39084673,MDEQ_WQ_WQX-M25MUSSR05,Montana,"Musselshell River south of Roundup, MT",Stream,46.4393,-108.5364,MT40C001_010,Musselshell River
+19.13645986,MTWTRSHD_WQX-STORMCASTLECR_MOUTH,Montana,Near Mouth of Stormcastle Creek,Stream,45.441135,-111.228371,MT41H005_010,Storm Castle Creek
+13.76392829,MTWTRSHD_WQX-WFGR_MOUTH,Montana,Near Mouth of the West Fork of the Gallatin River,Stream,45.26589,-111.25704,MT41H005_040,West Fork Gallatin River
+56.770726,USGS-09205000,Wyoming,"NEW FORK RIVER NEAR BIG PINEY, WY",Stream,42.56716598,-109.930151,WYGR140401020203_00,New Fork River
+23.59831885,MDEQ_WQ_WQX-M10NEWLC03,Montana,Newlan Creek upstream of confluence with Smith River,Stream,46.59051,-111.04958,MT41J002_081,Newlan Creek
+1.419961404,MDEQ_WQ_WQX-Y17AREFC60,Montana,Armells Creek East Fork upstream of golf course,Stream,45.90394,-106.6328,MT42K002_110,East Fork Armells Creek
+24.30097144,MTVOLWQM_WQX-SF-NFRYECR-B,Montana,NF Rye Creek B,Stream,45.996343,-114.031624,MT76H004_160,North Fork Rye Creek
+4.058742828,MDEQ_WQ_WQX-Y17AREFC73,Montana,Armells Creek East Fork near treatment ponds,Stream,45.87956,-106.62438,MT42K002_110,East Fork Armells Creek
+5.653447525,MDEQ_WQ_WQX-Y17AREFC75,Montana,Armells Creek East Fork upstream of Hwy 39 crossing,Stream,45.8753,-106.62761,MT42K002_110,East Fork Armells Creek
+14.63638488,MTVOLWQM_WQX-SF-NBURNTFK-A,Montana,North Burnt Fork A,Stream,46.52722,-114.088,MT76H004_200,North Burnt Fork Creek
+13.22769893,MTVOLWQM_WQX-EL-EAST,Montana,North Burnt Fork Creek upstream of irrigation supply ditch on private property,Stream,46.520945,-114.073058,MT76H004_200,North Burnt Fork Creek
+13.45686773,USGS-12337900,Montana,North Fork Blackfoot River Bel Lake Cr nr Ovando,Stream,47.1032741,-112.9603279,MT76F004_030,North Fork Blackfoot River
+19.645689,ADVENTURESCIENTISTS-48.50.113.97,Montana,North Fork Flathead River (Flathead Wild and Scenic River)-48.50.113.97,Stream,48.49914828,-113.9673664,MT76I001_010,Middle Fork Flathead River
+23.30774408,11NPSWRD_WQX-ROMN_GLAC_022,Montana,North Fork Flathead River Border,Stream,48.9941,-114.466,MT76Q001_010,North Fork Flathead River
+10.03014067,MTVOLWQM_WQX-NFYAAKR,Montana,North Fork Yaak River,Stream,48.9884,-115.62891,MT76B001_020,Yaak River
+15.868941,MTVOLWQM_WQX-NM-MLL,Montana,North Meadow Creek lower,Stream,45.4461,-111.713883,MT41F004_060,North Meadow Creek
+11.99066722,USGS-06627000,Wyoming,NORTH PLATTE RIVER AT SARATOGA WYO,Stream,41.45496216,-106.8050374,WYNP101800020000_01,North Platte River
+27.760812,USGS-06645000,Wyoming,"NORTH PLATTE RIVER BELOW CASPER, WY",Stream,42.85888889,-106.2113889,WYNP101800070300_01,North Platte River
+10.88195391,MTVOLWQM_WQX-OD-VGR,Montana,O'Dell Creek lower,Stream,45.3639,-111.706967,MT41F004_020,O'Dell Spring Creek
+20.73801587,MTVOLWQM_WQX-PIN1,Montana,Pine Creek (lower) at East River Rd crossing,Stream,45.505,-110.568,MT43B004_081,Pine Creek
+8.16806634,MONT_PPL_WQX-AR-10PBR,Montana,East Fork Armells Creek,Stream,45.918163,-106.641127,MT42K002_110,East Fork Armells Creek
+2.649148679,MONT_PPL_WQX-AR-11,Montana,East Fork Armells Creek,Stream,45.916315,-106.641679,MT42K002_110,East Fork Armells Creek
+7.444501738,MONT_PPL_WQX-AR-12,Montana,East Fork Armells Creek,Stream,45.875686,-106.627504,MT42K002_110,East Fork Armells Creek
+5.740440275,MONT_PPL_WQX-AR-1NF,Montana,East Fork Armells Creek,Stream,45.900909,-106.62954,MT42K002_110,East Fork Armells Creek
+1.322541684,MONT_PPL_WQX-AR-3,Montana,East Fork Armells Creek,Stream,45.888352,-106.620423,MT42K002_110,East Fork Armells Creek
+4.597708531,MONT_PPL_WQX-AR-5,Montana,East Fork Armells Creek,Stream,45.879556,-106.624376,MT42K002_110,East Fork Armells Creek
+25.7736159,NARS_WQX-NRS_MT-10393,Montana,Powder River,Stream,46.06435155,-105.0682452,MT42J003_011,Powder River
+7.578781906,MONT_PPL_WQX-AR-7,Montana,East Fork Armells Creek,Stream,45.908882,-106.636145,MT42K002_110,East Fork Armells Creek
+1.462562996,MONT_PPL_WQX-AR-8,Montana,East Fork Armells Creek,Stream,45.906811,-106.634374,MT42K002_110,East Fork Armells Creek
+3.440681687,MONT_PPL_WQX-AR-9,Montana,East Fork Armells Creek,Stream,45.903999,-106.632626,MT42K002_110,East Fork Armells Creek
+187.7596578,NARS_WQX-NRS_MT-10505,Montana,Powder River,Stream,46.12960287,-105.1490378,MT42J003_011,Powder River
+188.0309187,OST_SHPD-NRS18_MT_10064,Montana,Powder River,Stream,46.1296,-105.14904,MT42J003_011,Powder River
+1.783447777,MTVOLWQM_WQX-HAB-YLLW9ST,Montana,Yellowstone River in Livingston near 9th Street bridge,Stream,45.65,-110.5619,MT43B003_010,Yellowstone River
+4.67811591,MDEQ_REM_WQX-SS-06G,Montana,Silver Bow Creek above WWTP,Stream,45.99648,-112.56316,MT76G003_020,Silver Bow Creek
+62.59659273,MDEQ_WQ_WQX-Y18PWDRR01,Montana,Powder River at Broadus,Stream,45.42698,-105.40447,MT42J001_010,Powder River
+3.40441952,MT305B_SECONDARYDATA-LC-1,Montana,Lake Creek 01,Stream,48.30413,-115.86556,MT76D002_070,Lake Creek
+1.184032456,MT305B_SECONDARYDATA-LC-2,Montana,Lake Creek 02,Stream,48.32901,-115.86549,MT76D002_070,Lake Creek
+15.08047388,USGS-06324500,Montana,Powder River at Moorhead MT,Stream,45.0571972,-105.8783778,MT42J001_010,Powder River
+204.0211722,MDEQ_WQ_WQX-Y21PWDRR01,Montana,Powder River at the mouth near Terry,Stream,46.74057,-105.42967,MT42J003_012,Powder River
+5.167952736,MT305B_SECONDARYDATA-SC-15B,Montana,Stanley Creek 15B,Stream,48.24307,-115.90728,MT76D002_010,Stanley Creek
+36.99083012,MDEQ_WQ_WQX-Y18PWDRR70,Montana,Powder River d/s Broadus bridge,Stream,45.42782,-105.40299,MT42J001_010,Powder River
+15.48873515,MDEQ_WQ_WQX-M01PRICC01,Montana,Price Creek at the elk/cattle enclosure fence,Stream,44.574167,-112.125,MT41A004_010,Price Creek
+11.57650452,MDEQ_WQ_WQX-M09PKPRC01,Montana,Prickly Pear Creek above Stanisfield Lk,Stream,46.633055,-111.979,MT41I006_030,Prickly Pear Creek
+13.49269398,MDEQ_WQ_WQX-M09PREPC02,Montana,Prickly Pear Creek at Montana Law Enforcement Acadamy,Stream,46.66123,-111.97619,MT41I006_020,Prickly Pear Creek
+29.75628149,MDEQ_WQ_WQX-M09PKPRC05,Montana,Prickly Pear Creek below E. Helena,Stream,46.598028,-111.93055,MT41I006_040,Prickly Pear Creek
+26.00147863,MDEQ_WQ_WQX-M09PRPEC01,Montana,Prickly Pear Creek near Clancy,Stream,46.516111,-111.947778,MT41I006_040,Prickly Pear Creek
+24.15582759,MDEQ_WQ_WQX-Y08PRYRC04,Montana,Pryor Creek near mouth on BLM land near Huntley,Stream,45.88664,-108.31393,MT43E001_010,Pryor Creek
+16.32771632,MTVOLWQM_WQX-PC_M11,Montana,Pryor Creek under Pryor Creek Road Bridge,Stream,45.822312,-108.289655,MT43E001_010,Pryor Creek
+13.77988962,MTVOLWQM_WQX-RIQTZ,Montana,Quartz Creek,Stream,48.43937,-115.635763,MT76D002_090,Quartz Creek
+24.23634589,MDEQ_WQ_WQX-M02RATSC01,Montana,Rattlesnake Creek about 1 1/2 miles above the USFS boundary,Stream,45.296111,-112.905278,MT41B002_091,Rattlesnake Creek
+3.523405758,MTNWE-MM-2,Montana,Madison River downstream Hebgan Dam,Stream,44.86653,-111.33844,MT41F001_030,Madison River
+24.24414955,MTVOLWQM_WQX-RAT-PIN,Montana,Rattlesnake Creek at Pineview Park,Stream,46.900421,-113.972939,MT76M002_121,Rattlesnake Creek
+14.12348115,MTVOLWQM_WQX-RLCR,Montana,Red Lodge Creek,Stream,45.4682,-109.0895,MT43D002_060,Red Lodge Creek
+9.723034427,MTNWE-MM-5,Montana,"Missouri River at Toston Bridge, upstream Canyon Ferry Reservoir",Stream,46.17181,-111.4435,MT41I001_012,Missouri River
+30.86510699,MDEQ_WQ_WQX-Y05RDLGC05,Montana,Red Lodge Creek off Palmer Ln,Stream,45.47064,-109.08309,MT43D002_060,Red Lodge Creek
+24.3423437,MDEQ_WQ_WQX-Y05RDLWC20,Montana,Red Lodge Creek West above lowermost bridge,Stream,45.321111,-109.319722,MT43D002_080,West Red Lodge Creek
+19.06311897,MDEQ_WQ_WQX-C05REMLC01,Montana,Reimel Creek 1/4 mile upstream of Wallace Creek,Stream,45.794444,-113.927222,MT76H002_020,Reimel Creek
+94.15933763,MTVOLWQM_WQX-RCM,Montana,Richmond Creek,Stream,47.32545,-113.57875,MT76F005_020,Richmond Creek
+13.1645692,MDEQ_WQ_WQX-Y05ROCKC08,Montana,Rock Creek 0.1 mi above mouth,Stream,45.526591,-108.824929,MT43D002_120,Rock Creek
+18.15972523,MDEQ_WQ_WQX-Y05ROCKC90,Montana,Rock Creek 0.2 mi d/s Wyoming Creek,Stream,45.060894,-109.40494,MT43D002_132,Rock Creek
+15.51304792,MDEQ_WQ_WQX-Y05ROCKC30,Montana,Rock Creek 0.3 mi u/s Red Lodge Creek confl.,Stream,45.4696,-109.07457,MT43D002_131,Rock Creek
+45.72600641,MTVOLWQM_WQX-RC-FOX,Montana,Rock Creek at Fox,Stream,45.2772,-109.2096,MT43D002_131,Rock Creek
+79.41820914,MDEQ_WQ_WQX-Y05ROCKC60,Montana,Rock Creek at Horsethief Station FAS,Stream,45.234428,-109.23146,MT43D002_131,Rock Creek
+18.95515521,MDEQ_WQ_WQX-Y05ROCKC20,Montana,Rock Creek at Hwy 212 xing,Stream,45.382693,-109.142405,MT43D002_131,Rock Creek
+7.305358916,MTVOLWQM_WQX-BLAIN-VRD,Montana,Blaine Spring Creek at Varney Rd,Stream,45.232549,-111.757164,MT41F004_010,Blaine Spring Creek
+9.211547762,MDEQ_WQ_WQX-M09BEAVC02,Montana,Beaver Creek at the mouth,Stream,46.444655,-111.712539,MT41I002_030,Beaver Creek
+21.5000703,MTVOLWQM_WQX-ROCKCK-ROCKVALE,Montana,Rock Creek at Rockvale,Stream,45.51796,-108.86273,MT43D002_120,Rock Creek
+79.80183731,MTVOLWQM_WQX-RC-FSBY,Montana,Rock Creek near F.S. Boundary,Stream,45.085512,-109.329581,MT43D002_132,Rock Creek
+31.70627787,MTVOLWQM_WQX-RC-JOL,Montana,Rock Creek near Joliet,Stream,45.483319,-108.961457,MT43D002_120,Rock Creek
+1.492560534,MTVOLWQM_WQX-BC-78,Montana,Butcher Cr at Hwy 78,Stream,45.483228,-109.451708,MT43C002_081,Butcher Creek
+0.226635095,MTVOLWQM_WQX-BCEF-78,Montana,East Fork Butcher Cr at Hwy 78,Stream,45.320447,-109.455711,MT43C002_082,Butcher Creek
+3.453844971,MTVOLWQM_WQX-BC-M,Montana,Butcher Cr at Butcher Cr midway bridge,Stream,45.394012,-109.442494,MT43C002_081,Butcher Creek
+0.243121062,MTVOLWQM_WQX-MIL-GIB,Montana,Miller Creek just d/s Little Park Creek,Stream,46.765686,-113.943077,MT76H004_130,Miller Creek
+4.522277975,MTVOLWQM_WQX-BHBRGL,Montana,Big Hole - Middle River,Stream,45.54156,-112.69621,MT41D001_010,Big Hole River
+8.15742511,MTVOLWQM_WQX-BHJ,Montana,Big Hole - at Jackson,Stream,45.361639,-113.440727,MT41D001_030,Big Hole River
+97.81722075,MDEQ_WQ_WQX-Y05ROCWF02,Montana,Rock Creek near mouth,Stream,45.156493,-109.26832,MT43D002_132,Rock Creek
+26.44259448,MDEQ_WQ_WQX-C02ROCWF09,Montana,Rock Creek West Fork downstream from Beaver Creek,Stream,46.2329,-113.5669,MT76E002_030,West Fork Rock Creek
+170.8009091,NARS_WQX-NRS_MT-10302,Montana,Rosebud Creek,Stream,46.11058949,-106.4503916,MT42A001_012,Rosebud Creek
+9.762178194,MTVOLWQM_WQX-BHMR,Montana,Big Hole - at Maiden Rock,Stream,45.702308,-112.735628,MT41D001_010,Big Hole River
+0.908670308,MTVOLWQM_WQX-BHMUD,Montana,Big Hole - at Mudd Creek bridge,Stream,45.806526,-113.310866,MT41D001_020,Big Hole River
+106.4975814,NRTHCHEY-RBC001,Montana,Rosebud Creek North Boundary,Stream,45.67711,-106.700658,MT42A001_012,Rosebud Creek
+3.964023119,MTVOLWQM_WQX-BHSK,Montana,Big Hole - at Skinner Meadows,Stream,45.18033,-113.51716,MT41D001_030,Big Hole River
+111.2058767,NRTHCHEY-USGS001,Montana,Rosebud Creek South Boundary,Stream,45.3525,-106.98998,MT42A001_013,Rosebud Creek
+43.30456364,MDEQ_WQ_WQX-M04RUBYR08,Montana,Ruby River Lower at Vigilante Fishing Access,Stream,45.263333,-112.095278,MT41C001_010,Ruby River
+2.76015537,MTVOLWQM_WQX-BIG1,Montana,"Big Creek near mouth, lower",Stream,45.299,-110.831,MT43B004_111,Big Creek
+9.867609286,USGS-06076690,Montana,Smith River near Ft Logan MT,Stream,46.7958,-111.1785556,MT41J001_010,Smith River
+16.34477136,MTVOLWQM_WQX-SF-RYECR-AA,Montana,Rye Creek AA,Stream,45.966767,-114.117009,MT76H004_190,Rye Creek
+17.03531926,1119USBR_WQX-HUN101,Montana,S F Flathead River at Gage below Dam,Stream,48.35666,-114.0377,MT76J001_010,South Fork Flathead River
+23.530604,USGS-06313400,Wyoming,"SALT CREEK NEAR SUSSEX, WY",Stream,43.62191829,-106.3683639,WYPR100902040300_01,Salt Creek 
+108.3028337,MDEQ_REM_WQX-SS-07-1.5,Montana,SBC 1.5 mi d/s from SS-07,Stream,46.00185,-112.59238,MT76G003_020,Silver Bow Creek
+58.32596137,MDEQ_REM_WQX-SS-07-2.0,Montana,SBC 2.0 mi d/s from SS-07,Stream,46.00198,-112.60226,MT76G003_020,Silver Bow Creek
+9.136670751,MTVOLWQM_WQX-CLARKSFK-CHANCE,Montana,"Clarks Fork Yellowstone River near headwaters, at Chance Rd crossing",Stream,45.028267,-109.060581,MT43D001_012,Clarks Fork Yellowstone River
+1.424665906,MTVOLWQM_WQX-CLARKSFK-EBRIDGER,Montana,Clarks Fork Yellowstone River at East Bridger Bridge,Stream,45.296034,-108.899125,MT43D001_011,Clarks Fork Yellowstone River
+50.88961147,MDEQ_REM_WQX-SS-07-3.0,Montana,SBC 3.0 mi d/s from SS-07,Stream,46.00416,-112.61982,MT76G003_020,Silver Bow Creek
+3.392485464,MTVOLWQM_WQX-CLARKSFK-FROMBERG,Montana,Clarks Fork Yellowstone River at Fromberg Bridge,Stream,45.391632,-108.895102,MT43D001_011,Clarks Fork Yellowstone River
+24.17300393,MDEQ_REM_WQX-SS-07-3.1,Montana,SBC 3.1 mi d/s from SS-07,Stream,46.00373,-112.62154,MT76G003_020,Silver Bow Creek
+2.502481624,MTVOLWQM_WQX-CLARKSFK-NBELFRY,Montana,Clarks Fork Yellowstone River at first HWY 310 bridge north of Belfry,Stream,45.15741,-109.00937,MT43D001_012,Clarks Fork Yellowstone River
+9.776775026,MTVOLWQM_WQX-CLARKSFK-SCHANCE,Montana,Clarks Fork Yellowstone River above Sand Coulee,Stream,45.01152,-109.0622,MT43D001_012,Clarks Fork Yellowstone River
+42.35536337,MDEQ_REM_WQX-SS-07-3.2,Montana,SBC 3.2 mi d/s from SS-07,Stream,46.00351,-112.62337,MT76G003_020,Silver Bow Creek
+3.670292619,MTVOLWQM_WQX-RAT_GRE,Montana,Rattlesnake at Greenough Park,Stream,46.879276,-113.974533,MT76M002_121,Rattlesnake Creek
+18.70582025,MDEQ_REM_WQX-SS-07-3.3,Montana,SBC 3.3 mi d/s from SS-07,Stream,46.00279,-112.62507,MT76G003_020,Silver Bow Creek
+16.51744173,MDEQ_REM_WQX-SS-07-3.5,Montana,SBC 3.5 mi d/s from SS-07,Stream,46.00103,-112.62755,MT76G003_020,Silver Bow Creek
+5.623121186,MTVOLWQM_WQX-DC,Montana,Deep Creek - on BLM land,Stream,45.903339,-113.110046,MT41D003_040,Deep Creek
+6.458569046,MTVOLWQM_WQX-DER,Montana,Deer Creek,Stream,47.21035,-113.54176,MT76F005_030,Deer Creek
+2.628376328,MTVOLWQM_WQX-EFYAAKR,Montana,East Fork Yaak River,Stream,48.95069,-115.61402,MT76B002_100,East Fork Yaak River
+17.72056867,MDEQ_REM_WQX-SS-07-4.0,Montana,SBC 4.0 mi d/s from SS-07,Stream,46.00303,-112.63658,MT76G003_020,Silver Bow Creek
+0.457949956,MTVOLWQM_WQX-ELKMM_EK00,Montana,ELKHORN CREEK CROSSING,Stream,45.518726,-113.056141,MT41D003_220,Elkhorn Creek
+1.773057327,MTVOLWQM_WQX-ELKMM_EK01,Montana,ELKHORN CREEK - CAMPSITE,Stream,45.51143,-113.05129,MT41D003_220,Elkhorn Creek
+16.51518248,MDEQ_REM_WQX-SS-07-5.0,Montana,SBC 5.0 mi d/s from SS-07,Stream,46.0047,-112.65595,MT76G003_020,Silver Bow Creek
+7.925580899,MTVOLWQM_WQX-ELKMM_EK10,Montana,ELKHORN CREEK - PARKING LOT,Stream,45.50134,-113.04545,MT41D003_220,Elkhorn Creek
+1.854278531,MTVOLWQM_WQX-ELKMM_EK16,Montana,ELKHORN CREEK-DOWNSTREAM LIMIT,Stream,45.49644,-113.04169,MT41D003_220,Elkhorn Creek
+1.90246022,MTVOLWQM_WQX-ELKMM_EK17,Montana,ELKHORN CREEK-LOWER FLOODPLAIN,Stream,45.49593,-113.04109,MT41D003_220,Elkhorn Creek
+5.571378444,MTVOLWQM_WQX-ELKMM_EK18,Montana,ELKHORN CREEK-BELOW MILL,Stream,45.49544,-113.04077,MT41D003_220,Elkhorn Creek
+26.82619394,MDEQ_REM_WQX-SS-07-5.2,Montana,SBC at SS-10A (5.2 mi d/s from SS-07),Stream,46.00383,-112.6606,MT76G003_020,Silver Bow Creek
+3.3400229,MTVOLWQM_WQX-ELKMM_EK20,Montana,ELKHORN CREEK-BELOW ASSAY HOUSE,Stream,45.49433,-113.04024,MT41D003_220,Elkhorn Creek
+0.165528084,MTVOLWQM_WQX-ELKMM_EK22,Montana,ELKHORN CREEK-BELOW ACCESS ROAD,Stream,45.49344,-113.0395,MT41D003_220,Elkhorn Creek
+7.606238157,MTVOLWQM_WQX-ELKMM_EK23,Montana,ELKHORN CREEK-BELOW CULVERTS,Stream,45.49293,-113.03937,MT41D003_220,Elkhorn Creek
+9.642169867,MTVOLWQM_WQX-ELKMM_EK24,Montana,ELKHORN CREEK-ABOVE DIVERSION,Stream,45.49242,-113.03898,MT41D003_220,Elkhorn Creek
+0.217262163,MTVOLWQM_WQX-ELKMM_EK25,Montana,ELKHORN CREEK-ABOVE BRIDGE,Stream,45.4919,-113.03903,MT41D003_220,Elkhorn Creek
+6.608342807,MTVOLWQM_WQX-ELKMM_EK26,Montana,ELKHORN CREEK-BELOW WASTE ROCK,Stream,45.49147,-113.0388,MT41D003_220,Elkhorn Creek
+9.350921956,MTVOLWQM_WQX-ELKMM_EK27,Montana,ELKHORN CREEK-MIDDLE WASTE ROCK,Stream,45.4909,-113.03835,MT41D003_220,Elkhorn Creek
+4.033085274,MTVOLWQM_WQX-ELKMM_EK28,Montana,ELKHORN CREEK-ABOVE WASTE ROCK,Stream,45.49034,-113.03779,MT41D003_220,Elkhorn Creek
+3.161614446,MTVOLWQM_WQX-ELKMM_EK30,Montana,ELKHORN CREEK-UPSTREAM LIMIT,Stream,45.48962,-113.03737,MT41D003_220,Elkhorn Creek
+10.06025307,NARS_WQX-NRS_MT-10284,Montana,Shields River,Stream,46.1667665,-110.5490897,MT43A001_012,Shields River
+1.583842448,MTVOLWQM_WQX-ELKMM_GHC01,Montana,GRASSHOPPER CREEK,Stream,45.492336,-113.107221,MT41B002_010,Grasshopper Creek
+24.20211862,USGS-06192980,Montana,"Shields River ab Smith Cr, nr Wilsall, MT",Stream,46.1671611,-110.5542861,MT43A001_012,Shields River
+11.53928705,USGS-12323250,Montana,"Silver Bow Cr bl Blacktail Cr, at Butte, MT",Stream,45.996575,-112.5634889,MT76G003_020,Silver Bow Creek
+4.877766902,MTVOLWQM_WQX-EL-WEST,Montana,North Burnt Fork Creek downstream of irrigation supply ditch on private property,Stream,46.521873,-114.073487,MT76H004_200,North Burnt Fork Creek
+16.18140244,MDEQ_REM_WQX-SS-15A-2,Montana,Silver Bow Creek above German Gulch,Stream,46.02096,-112.78802,MT76G003_020,Silver Bow Creek
+7.561518692,MTVOLWQM_WQX-GRA-ELK,Montana,Grant Creek at International Drive,Stream,46.904694,-114.044418,MT76M002_130,Grant Creek
+8.931810808,MTVOLWQM_WQX-GRA_HIG,Montana,Grant Creek at Highlander Brewery,Stream,46.921307,-114.031136,MT76M002_130,Grant Creek
+38.00875654,MDEQ_REM_WQX-SS-10A,Montana,Silver Bow Creek above Sand Creek,Stream,46.00375,-112.66084,MT76G003_020,Silver Bow Creek
+9.244530444,MTVOLWQM_WQX-RAT-SAW,Montana,Rattlesnake Creek at Sawmill Gulch,Stream,46.923164,-113.961014,MT76M002_122,Rattlesnake Creek
+29.69157387,MDEQ_REM_WQX-SS-14,Montana,Silver Bow Creek at Miles Crossing,Stream,46.01142,-112.7227,MT76G003_020,Silver Bow Creek
+45.72312925,TSWQC_WQX-CFRPO-2.5,Montana,Silver Bow Creek at Opportunity,Stream,46.1078,-112.8048,MT76G003_020,Silver Bow Creek
+16.2941224,USGS-12323600,Montana,Silver Bow Creek at Opportunity MT,Stream,46.1077583,-112.8052833,MT76G003_020,Silver Bow Creek
+31.02087286,MDEQ_REM_WQX-SS-08,Montana,Silver Bow Creek at Rocker,Stream,46.00167,-112.6049,MT76G003_020,Silver Bow Creek
+31.62147568,USGS-12323750,Montana,Silver Bow Creek at Warm Springs MT,Stream,46.1794972,-112.780561,MT76G003_020,Silver Bow Creek
+23.15433866,MDEQ_REM_WQX-SS-15B,Montana,Silver Bow Creek below German Gulch,Stream,46.02263,-112.79175,MT76G003_020,Silver Bow Creek
+4.276951463,MTVOLWQM_WQX-HAB-CFRDSDRUM,Montana,Clark Fork River downstream of Drummond,Stream,46.70137,-113.24187,MT76E001_010,Clark Fork River
+12.61836824,MDEQ_REM_WQX-SS-07,Montana,Silver Bow Creek below WWTP,Stream,45.99679,-112.5647,MT76G003_020,Silver Bow Creek
+69.75300266,MDEQ_REM_WQX-SS-13,Montana,Silver Bow Creek in Reach L,Stream,46.00647,-112.71394,MT76G003_020,Silver Bow Creek
+41.39041618,MDEQ_REM_WQX-SS-16B,Montana,Silver Bow Creek in Reach P near Fairmont,Stream,46.05494,-112.79611,MT76G003_020,Silver Bow Creek
+2.15743769,MTVOLWQM_WQX-HAB-JEFS-01,Montana,"Jefferson Slough upstream Boulder River, upstream Hwy 2",Stream,45.868249,-111.954054,MT41G002_170,Jefferson Slough
+6.863389356,MTVOLWQM_WQX-HAB-MADGRYCLF,Montana,Madison River near Grey Cliff Road,Stream,45.695583,-111.519374,MT41F001_010,Madison River
+124.497331,MDEQ_REM_WQX-SBC-P2,Montana,Silver Bow Creek Pond 2 outfall,Stream,46.17742,-112.78149,MT76G003_020,Silver Bow Creek
+15.67202763,NARS_WQX-NRS_MT-10504,Montana,Silver Tip Creek,Stream,45.00824922,-108.9111304,MT43D002_100,Silvertip Creek
+2.344555206,MTVOLWQM_WQX-HB-2,Montana,Beaverhead River near CC Dam,Stream,45.01971,-112.84031,MT41B001_010,Beaverhead River
+19.77755466,NARS_WQX-NRS_MT-10407,Montana,Sixmile Creek,Stream,45.99369237,-113.0349307,MT41D003_090,Sixmile Creek
+3.490533029,MTVOLWQM_WQX-IC-BDY,Montana,Indian Creek at FS Boundary,Stream,45.103041,-111.56584,MT41F004_040,Indian Creek
+3.590207338,MTVOLWQM_WQX-JCP-CY,Montana,Jack Creek directly upstream from former USGS gaging station,Stream,45.3565,-111.585372,MT41F004_050,Jack Creek
+3.90990319,MTVOLWQM_WQX-JCP-JCR,Montana,Jack Creek less than 1 mile upstream of mouth (Madison River),Stream,45.375178,-111.693816,MT41F004_050,Jack Creek
+13.11249113,MDEQ_WQ_WQX-M09SIXTC03,Montana,Sixteenmile Creek near the mouth (Missouri River),Stream,46.10832,-111.39507,MT41I002_120,Sixteenmile Creek
+8.26952048,MTVOLWQM_WQX-KOOTCG,Montana,Kootenai River - Kootenai Campground,Stream,48.55962,-115.97698,MT76D001_010,Kootenai River
+0.836438571,MTVOLWQM_WQX-LAPC,Montana,Lap Creek,Stream,48.88298,-115.66359,MT76B002_020,Lap Creek
+6.629436418,MTVOLWQM_WQX-LM1,Montana,North Burnt Fork Creek above walking path in Lee Metcalf Wildlife Refuge,Stream,46.539182,-114.094571,MT76H004_200,North Burnt Fork Creek
+20.64465662,MTVOLWQM_WQX-SF-SKALKAHOCR-A,Montana,Skalkaho Creek A,Stream,46.214281,-114.155135,MT76H004_100,Skalkaho Creek
+108.773205,MTVOLWQM_WQX-SF-SKALKAHOCR-B,Montana,Skalkaho Creek B,Stream,46.17028,-113.90916,MT76H004_100,Skalkaho Creek
+81.95039291,MTVOLWQM_WQX-SF-SKALKAHOCR-C,Montana,Skalkaho Creek C,Stream,46.169333,-113.911171,MT76H004_100,Skalkaho Creek
+11.85939627,MTVOLWQM_WQX-SF-SKALKAHOCR-D,Montana,Skalkaho Creek D,Stream,46.167881,-113.912717,MT76H004_100,Skalkaho Creek
+5.105994571,MTVOLWQM_WQX-LOWYAAKR,Montana,Yaak River Outlet,Stream,48.56174,-115.97068,MT76B001_010,Yaak River
+16.36218918,USGS-06076580,Montana,Smith R at Bodell Ranch Bridge nr WSSprings MT,Stream,46.63244447,-111.0916123,MT41J001_010,Smith River
+10.21869578,MDEQ_WQ_WQX-M10SMTHR12,Montana,Smith River,Stream,47.17833,-111.340436,MT41J001_010,Smith River
+24.52406521,MDEQ_WQ_WQX-M10SMTHR14B,Montana,Smith River,Stream,47.12872,-111.27106,MT41J001_010,Smith River
+9.26987356,MTVOLWQM_WQX-MC-HOME,Montana,Moore Creek at Homestead,Stream,45.34949,-111.72999,MT41F004_130,Moore Creek
+0.957571882,MTVOLWQM_WQX-MC-MCRD,Montana,Moore Creek upstream of Moores Creek Road crossing,Stream,45.332921,-111.747695,MT41F004_130,Moore Creek
+2.77538944,MTVOLWQM_WQX-MC-POND,Montana,Moore Creek downstream of pond,Stream,45.335506,-111.768096,MT41F004_130,Moore Creek
+18.46277359,MDEQ_WQ_WQX-M10SMTHR76,Montana,Smith River above Rock Springs Creek,Stream,46.63256,-111.09171,MT41J001_010,Smith River
+4.514726774,MTVOLWQM_WQX-MC-STATE,Montana,Moore Creek State Section,Stream,45.35294,-111.80338,MT41F004_130,Moore Creek
+6.267193335,MTVOLWQM_WQX-MEADOWC,Montana,Meadow Creek,Stream,48.78385,-115.92505,MT76B002_111,Meadow Creek
+9.479397772,MTVOLWQM_WQX-MIDYAAKR,Montana,Middle Yaak River,Stream,48.80762,-115.90176,MT76B001_010,Yaak River
+24.94083997,MDEQ_WQ_WQX-M10SMTHR14A,Montana,Smith River at Black Butte,Stream,47.1508,-111.29037,MT41J001_010,Smith River
+0.806668014,MTVOLWQM_WQX-MIL_BEC,Montana,Mill Creek at Beckwith,Stream,47.014365,-114.228465,MT76M002_140,Mill Creek
+13.8504975,MDEQ_WQ_WQX-M10SMTHR06,Montana,"Smith River at Camp Baker, upstream Sheep Creek confluence",Stream,46.80217,-111.18026,MT41J001_010,Smith River
+12.06606157,MDEQ_WQ_WQX-M10SMTHR30,Montana,Smith River at county line,Stream,47.00209,-111.29006,MT41J001_010,Smith River
+20.87364672,MDEQ_WQ_WQX-M10SMTHR18,Montana,Smith River at Crow's Foot Boat Camp,Stream,47.05803,-111.26798,MT41J001_010,Smith River
+41.68772825,MDEQ_WQ_WQX-M10SMTHR01,Montana,Smith River at Eden Bridge,Stream,47.23615,-111.3888,MT41J001_020,Smith River
+57.47172001,MDEQ_WQ_WQX-M10SMTHR74,Montana,Smith River at Fort Logan FAS,Stream,46.72802,-111.17576,MT41J001_010,Smith River
+12.4567044,USGS-464033111083501,Montana,"Smith River at Fort Logan, MT",Stream,46.67577878,-111.1438378,MT41J001_010,Smith River
+27.53547856,MDEQ_WQ_WQX-M10SMTHR14,Montana,"Smith River at Rattlesnake Boat Camp, just outside the canyon",Stream,47.15054,-111.31844,MT41J001_010,Smith River
+1.185593242,MTVOLWQM_WQX-MO_DEEP,Montana,MO_DEEP,Stream,46.28603,-111.4996,MT41I002_070,Deep Creek
+1.288552771,MTVOLWQM_WQX-MO_DRYCREEK,Montana,MO_DRYCREEK,Stream,46.2436,-111.4509,MT41I002_080,Dry Creek
+45.33150175,MDEQ_WQ_WQX-M10SMTHR09,Montana,Smith River downstream Hound Creek,Stream,47.22813,-111.39348,MT41J001_020,Smith River
+2.171283986,MTVOLWQM_WQX-MO_LPPC_DS,Montana,Missouri River downstream confluence with Little Prickly Pear Creek,Stream,47.02345,-112.01523,MT41Q001_021,Missouri River
+15.30670488,MDEQ_WQ_WQX-M10SMTHR61,Montana,Smith River downstream Indian Springs Boat Camp,Stream,46.855608,-111.248148,MT41J001_010,Smith River
+5.833742772,MTVOLWQM_WQX-MO_MAGPIE,Montana,MO_MAGPIE,Stream,46.6449,-111.6809,MT41I002_110,Magpie Creek
+3.873522316,MTVOLWQM_WQX-MO_SIXTEENMILE,Montana,MO_SIXTEENMILE,Stream,46.1066,-111.3966,MT41I002_120,Sixteenmile Creek
+11.12565712,MDEQ_WQ_WQX-M10SMTHR58,Montana,Smith River downstream Rock Creek confluence,Stream,46.87066,-111.2712,MT41J001_010,Smith River
+11.85369399,MDEQ_WQ_WQX-M10SMTHR15,Montana,Smith River just downstream Deep Creek,Stream,47.10859,-111.28004,MT41J001_010,Smith River
+24.4049963,MDEQ_WQ_WQX-M10SMTHR05B,Montana,Smith River on state land just upstream of mouth,Stream,47.39994,-111.48016,MT41J001_020,Smith River
+10.89358735,MDEQ_WQ_WQX-M10SMTHR16,Montana,Smith River upstream Deep Creek at Paradise Bend,Stream,47.10382,-111.28235,MT41J001_010,Smith River
+0.561882514,MDEQ_WQ_WQX-C04STRGR12,Montana,St Regis River above Ward Creek,Stream,47.31611,-115.24272,MT76M003_010,St. Regis River
+14.50347991,MDEQ_WQ_WQX-M10SMTHR10,Montana,Smith River upstream Hound Creek,Stream,47.20383,-111.382151,MT41J001_010,Smith River
+0.597099291,MTVOLWQM_WQX-PD-1,Montana,Beaverhead River near Dillon,Stream,45.18228,-112.68947,MT41B001_020,Beaverhead River
+16.49169395,MDEQ_WQ_WQX-M10SMTHR48,Montana,Smith River upstream Tenderfoot Creek confluence,Stream,46.94139,-111.29455,MT41J001_010,Smith River
+4.671712797,MTVOLWQM_WQX-PETEC,Montana,Pete Creek,Stream,48.88652,-115.80182,MT76B002_070,Pete Creek
+11.71319207,USGS-10032000,Wyoming,"SMITHS FORK NEAR BORDER, WY",Stream,42.2932662,-110.8724064,WYBR160101020204_01,Smiths Fork
+5.734836266,MTVOLWQM_WQX-GRA-MUL,Montana,Grant Creek at Mullan Road,Stream,46.885406,-114.084717,MT76M002_130,Grant Creek
+2.953172632,MTVOLWQM_WQX-RAT-CON,Montana,Rattlesnake Creek at the Confluence,Stream,46.867825,-113.985184,MT76M002_121,Rattlesnake Creek
+9.28468842,MTVOLWQM_WQX-INDN-BRRD,Montana,Indian Creek at Bear Crk Road,Stream,45.106751,-111.582044,MT41F004_040,Indian Creek
+8.167072156,MTVOLWQM_WQX-MIL_LOS,Montana,Miller Creek at Lost Mine Loop,Stream,46.78104,-114.002945,MT76H004_130,Miller Creek
+16.30436865,FTBLKNAP-PC-SBHCR-01,Montana,South Big Horn Creek,Stream,47.9351,-108.6248,MT40I001_030,South Big Horn Creek
+0.940086144,MTVOLWQM_WQX-RBC-N,Montana,Rosebud Cr at Niche Rd,Stream,45.486469,-109.456142,MT43C002_100,Rosebud Creek
+2.702066623,MTVOLWQM_WQX-RC-BOY,Montana,Rock Creek near Boyd,Stream,45.4578,-109.0801,MT43D002_131,Rock Creek
+20.48179287,MDEQ_REM_WQX-NT-15,Montana,South Fork Lower Willow Creek at mouth (Lower Willow Creek Reservoir),Stream,46.552787,-113.324576,MT76E003_050,South Fork Lower Willow Creek
+17.5301904,MDEQ_REM_WQX-NT-13,Montana,South Fork Lower Willow Creek d/s USFS land and unnamed tributary to west,Stream,46.545379,-113.332391,MT76E003_050,South Fork Lower Willow Creek
+2.374929219,MTVOLWQM_WQX-RC-GIB,Montana,Rock Creek Gibson Bridge,Stream,45.52079,-108.83714,MT43D002_120,Rock Creek
+18.26367515,MDEQ_REM_WQX-NT-08.5,Montana,South Fork Lower Willow Creek downstream USFS land,Stream,46.51637,-113.361288,MT76E003_050,South Fork Lower Willow Creek
+10.79235532,MDEQ_REM_WQX-NT-13.75,Montana,South Fork Lower Willow Creek u/s Lower Willow Creek Reservoir,Stream,46.551798,-113.325829,MT76E003_050,South Fork Lower Willow Creek
+2.675159699,MTVOLWQM_WQX-RC-ROB,Montana,Rock Creek near Roberts,Stream,45.384601,-109.141382,MT43D002_131,Rock Creek
+1.043484623,MTVOLWQM_WQX-RC-ROC,Montana,Rock Creek near Rockvale,Stream,45.5178,-108.8626,MT43D002_120,Rock Creek
+11.65757668,MDEQ_REM_WQX-NT-03,Montana,South Fork Lower Willow Creek u/s Trust Property and d/s unnamed tributary,Stream,46.441604,-113.396727,MT76E003_050,South Fork Lower Willow Creek
+336.3629498,NARS_WQX-NRS_MT-10293,Montana,South Fork Musselshell River,Stream,46.45775056,-110.3713055,MT40A002_100,South Fork Musselshell River
+33.86202512,MTVOLWQM_WQX-SM-HWY,Montana,South Meadow Creek at Hwy 287 crossing,Stream,45.447775,-111.73145,MT41F004_070,South Meadow Creek
+101.5516785,MTVOLWQM_WQX-SM-WEIR,Montana,South Meadow Creek at Weir,Stream,45.45085,-111.82071,MT41F004_070,South Meadow Creek
+9.103103575,MTVOLWQM_WQX-RIFISH,Montana,Fisher River,Stream,48.360707,-115.318582,MT76C001_010,Fisher River
+2.23221525,MTVOLWQM_WQX-RILAKE,Montana,Lake Creek,Stream,48.450588,-115.879262,MT76D002_070,Lake Creek
+9.322201961,MTVOLWQM_WQX-RILIBBY,Montana,Libby Creek,Stream,48.388911,-115.537905,MT76D002_062,Libby Creek
+23.0264971,MTVOLWQM_WQX-SM-LKRD,Montana,South Meadow Creek lower,Stream,45.443517,-111.718617,MT41F004_070,South Meadow Creek
+19.60428582,MDEQ_WQ_WQX-M14SPRC01,Montana,Spring Creek at Choteau Park,Stream,47.813056,-112.18,MT41O002_070,Teton Spring Creek
+19.19589235,MDEQ_WQ_WQX-Y05SPRGC02,Montana,Spring Creek at River Rd,Stream,45.647854,-108.715433,MT43D002_040,Spring Creek
+6.294029621,MTVOLWQM_WQX-RIYAAK,Montana,Yaak River,Stream,48.56185,-115.970347,MT76B001_010,Yaak River
+52.72019711,MDEQ_WQ_WQX-C04STRGR30,Montana,St Regis River near Drexel,Stream,47.32325,-115.2504,MT76M003_010,St. Regis River
+2.313618485,MTVOLWQM_WQX-RSBRIS,Montana,Bristow Creek,Stream,48.544461,-115.292924,MT76D002_110,Bristow Creek
+20.60144881,MT305B_SECONDARYDATA-SC-2,Montana,Stanley Creek 02,Stream,48.2813,-115.89307,MT76D002_010,Stanley Creek
+4.250399978,MTVOLWQM_WQX-RSTOBC,Montana,Tobacco River,Stream,48.897407,-115.122037,MT76D004_010,Tobacco River
+39.91975259,MT305B_SECONDARYDATA-SC-15A,Montana,Stanley Creek 15A,Stream,48.24323,-115.90768,MT76D002_010,Stanley Creek
+32.38728236,MT305B_SECONDARYDATA-SC-15C,Montana,Stanley Creek 15C,Stream,48.24311,-115.90659,MT76D002_010,Stanley Creek
+36.34052949,MT305B_SECONDARYDATA-SC-17A,Montana,Stanley Creek 17A,Stream,48.25097,-115.89722,MT76D002_010,Stanley Creek
+15.99476248,NARS_WQX-NRS_MT-10304,Montana,Stillwater River,Stream,45.5973204,-109.3115993,MT43C001_020,Stillwater River
+6.181226487,MTVOLWQM_WQX-SF-NBURNTFK-AA,Montana,N. Burnt Fork Creek AA,Stream,46.533834,-114.097733,MT76H004_200,North Burnt Fork Creek
+4.197909965,MTVOLWQM_WQX-SF-NFRYECR-A,Montana,North Rye Creek A,Stream,45.978431,-114.038086,MT76H004_160,North Fork Rye Creek
+24.35245508,MTVOLWQM_WQX-SRF-1,Montana,Stillwater River at Firemans Point FAS,Stream,45.62346,-109.289129,MT43C001_020,Stillwater River
+17.32452197,MTVOLWQM_WQX-SRM-1,Montana,Stillwater River at Moraine FAS,Stream,45.460932,-109.75704,MT43C001_020,Stillwater River
+43.94053259,MTVOLWQM_WQX-SR-6205000,Montana,Stillwater River at USGS Station 06205000,Stream,45.536742,-109.422056,MT43C001_020,Stillwater River
+7.83997656,MTVOLWQM_WQX-SF-SKALKAHOCR-AA,Montana,Skalkaho Creek  AA,Stream,46.197153,-114.113069,MT76H004_100,Skalkaho Creek
+12.94523881,MDEQ_WQ_WQX-M05STMCC03,Montana,Storm Castle Creek at SCC Trailhead,Stream,45.44211,-111.21751,MT41H005_010,Storm Castle Creek
+109.8435737,MTWTRSHD_WQX-SUN-SUNR56,Montana,Sun River at Augusta,Stream,47.547222,-112.362222,MT41K001_010,Sun River
+83.64838658,MTWTRSHD_WQX-SUN-SUNR50,Montana,Sun River at Great Falls,Stream,47.4925,-111.319444,MT41K001_020,Sun River
+128.2077309,MTWTRSHD_WQX-SUN-SUNR51,Montana,Sun River at Ulm bridge,Stream,47.546944,-111.528333,MT41K001_020,Sun River
+2.061955289,MTVOLWQM_WQX-SF-THREEMILECR-B,Montana,Threemile Creek B,Stream,46.60444,-113.93444,MT76H004_140,Threemile Creek
+5.129375017,MTVOLWQM_WQX-SF-THREEMILECR-C,Montana,Threemile Creek A,Stream,46.566433,-114.061229,MT76H004_140,Threemile Creek
+12.88000876,MDEQ_WQ_WQX-M13SUNR66,Montana,Sun River below Diversion Lake,Stream,47.61973,-112.69311,MT41K001_010,Sun River
+8.218778812,MTVOLWQM_WQX-SF-WILLOWCR-AA,Montana,Willow Creek AA,Stream,46.293488,-113.96538,MT76H004_110,Willow Creek
+13.28679505,MDEQ_WQ_WQX-M13SUNR64,Montana,Sun River below Pishkun Canal,Stream,47.61764,-112.69146,MT41K001_010,Sun River
+0.122685367,MTVOLWQM_WQX-SFYAAKR,Montana,South Fork Yaak River,Stream,48.82677,-115.68921,MT76B002_080,South Fork Yaak River
+2.732422819,MTVOLWQM_WQX-RC-CAMP,Montana,Ruby Creek at Campground,Stream,45.059425,-111.665258,MT41F004_080,Ruby Creek
+5.354828424,MTVOLWQM_WQX-SM-CR,Montana,South Meadow Creek upstream N Ennis Lake Road crossing,Stream,45.444024,-111.719009,MT41F004_070,South Meadow Creek
+4.102446262,MTVOLWQM_WQX-SM-EDC,Montana,South Meadow Creek middle,Stream,45.450967,-111.747217,MT41F004_070,South Meadow Creek
+25.38033211,MDEQ_WQ_WQX-M13SUNR08,Montana,Sun River just above 6th Street Bridge,Stream,47.49132,-111.32985,MT41K001_020,Sun River
+2.314116211,MTVOLWQM_WQX-SM-NMCR,Montana,South Meadow Creek at North Meadow Creek Road crossing,Stream,45.44688,-111.76228,MT41F004_070,South Meadow Creek
+25.1239775,NARS_WQX-NRS_MT-10278,Montana,Swan River,Stream,48.07746474,-114.0187178,MT76K001_010,Swan River
+2.005913719,MTVOLWQM_WQX-SPREADC,Montana,Spread Creek,Stream,48.8227,-115.85121,MT76B002_060,Spread Creek
+25.14168135,OST_SHPD-NRS18_MT_10015,Montana,Swan River,Stream,48.07746,-114.01872,MT76K001_010,Swan River
+25.03721875,MDEQ_WQ_WQX-C10SWANR21,Montana,Swan River at Blair Flats picnic area,Stream,47.86246,-113.84159,MT76K001_020,Swan River
+9.639578228,MTVOLWQM_WQX-SRJB-1,Montana,Stillwater River near Johnson Bridge,Stream,45.528543,-109.468368,MT43C001_020,Stillwater River
+22.68194594,MDEQ_WQ_WQX-Y03SWTGC07,Montana,Sweet Grass Creek on private ranch,Stream,46.1529,-110.1815,MT43B004_150,Sweet Grass Creek
+266.6663953,FTBLKNAP-PC-SGCR-02,Montana,Swift Gulch Creek,Stream,47.9318,-108.6175,MT40I002_010,Swift Gulch Creek
+3.029151247,MTVOLWQM_WQX-UPYAAKR,Montana,Upper Ford Yaak River,Stream,48.90855,-115.66201,MT76B001_010,Yaak River
+2.000662319,MTVOLWQM_WQX-WFC,Montana,"Clearwater River, West Fork",Stream,47.25227,-113.58351,MT76F005_040,West Fork Clearwater River
+110.2982248,MTWTRSHD_WQX-TAYLORFK_BLW_WAPITI,Montana,Taylor Fork 2.5 miles downstream Wapiti Creek confluence,Stream,45.06321,-111.21913,MT41H005_020,Taylor Fork
+9.979116686,MTVOLWQM_WQX-WFYAAKR,Montana,West Fork Yaak River,Stream,48.93378,-115.67415,MT76B002_090,West Fork Yaak River
+1.403387979,MTVOLWQM_WQX-WIG-GRRD,Montana,Wigwam Creek near Gravelly Rng Rd,Stream,45.208414,-111.761491,MT41F004_160,Wigwam Creek
+0.460093153,MTVOLWQM_WQX-WRBC-L,Montana,"West Rosebud Cr below Fishtail, MT, at Lanen Ranch bridge",Stream,45.466926,-109.491408,MT43C002_090,West Rosebud Creek
+69.2252257,MTWTRSHD_WQX-TAYLORFK_ABV_WAPITI,Montana,Taylor Fork above Wapiti,Stream,45.06988,-111.30992,MT41H005_020,Taylor Fork
+13.61408536,MDEQ_WQ_WQX-M05TALFK01,Montana,Taylor Fork at mouth,Stream,45.075945,-111.201863,MT41H005_020,Taylor Fork
+18.94517215,MDEQ_WQ_WQX-M09TENMC20,Montana,Tenmile Creek at Tenmile Cr Park,Stream,46.61146,-112.08045,MT41I006_143,Tenmile Creek
+19.52439706,MDEQ_WQ_WQX-M09TENMC09,Montana,Tenmile Creek at Williams Street bridge,Stream,46.60497,-112.08819,MT41I006_143,Tenmile Creek
+43.90443646,MDEQ_WQ_WQX-M09TENMC65,Montana,Tenmile Creek upstream of Tenmile Cr campground,Stream,46.53409,-112.24889,MT41I006_142,Tenmile Creek
+17.32052716,MDEQ_WQ_WQX-C13THMSR60,Montana,Thompson River d/s confluence of Big Rock Creek,Stream,47.86938,-115.00436,MT76N004_010,Thompson River
+11.20937033,MTVOLWQM_WQX-SF-THREEMILECR-A,Montana,Threemile Creek C,Stream,46.621497,-113.898419,MT76H004_140,Threemile Creek
+30.17972046,USGS-12301250,Montana,"Tobacco River at Eureka, MT",Stream,48.8779472,-115.054461,MT76D004_010,Tobacco River
+14.32304796,MDEQ_WQ_WQX-K01TOBCR01,Montana,Tobacco River below Grave and Fortine confluence,Stream,48.7997,-114.9531,MT76D004_010,Tobacco River
+26.61748033,MTVOLWQM_WQX-TOM1,Montana,Tom Miner Creek near mouth,Stream,45.199,-110.911,MT43B004_061,Tom Miner Creek
+12.95551149,NARS_WQX-NRS_MT-10401,Montana,Tongue River,Stream,46.34323659,-105.8018705,MT42C001_011,Tongue River
+33.26341202,MDEQ_WQ_WQX-Y16TONGR02,Montana,Tongue River at Interstate,Stream,46.385833,-105.845278,MT42C001_011,Tongue River
+10.84004783,MDEQ_WQ_WQX-Y17TONGR01,Montana,Tongue River at Miles City KOA 300 yards North of bridge,Stream,46.405278,-105.860833,MT42C001_011,Tongue River
+11.08659988,USGS-06306300,Montana,Tongue River at State Line nr Decker MT,Stream,45.0091361,-106.8359444,MT42B001_010,Tongue River
+11.85893967,USGS-06307500,Montana,Tongue River at Tongue R Dam nr Decker MT,Stream,45.141275,-106.7713556,MT42B001_020,Tongue River
+21.97782777,USGS-06306020,Wyoming,"Tongue River below Youngs Creek, near Acme, WY",Stream,44.99025118,-106.8917355,WYTR100901010301_01,Tongue River 
+39.06389497,NRTHCHEY-TR004,Montana,Tongue River North Boundary,Stream,45.672043,-106.286763,MT42C001_013,Tongue River
+20.31074544,NRTHCHEY-TR003,Montana,TR w/ Confluence Otter Creek,Stream,45.60077,-106.27367,MT42C001_013,Tongue River
+1.209006794,MTWTRSHD_WQX-BOZMC00,Montana,Bozeman Creek near mouth,Stream,45.693561,-111.027659,MT41H003_040,Sourdough Creek (Bozeman Creek)
+7.390737716,MTWTRSHD_WQX-BRIDC01,Montana,Bridger Creek below Story Mill Road,Stream,45.709235,-111.021478,MT41H003_110,Bridger Creek
+116.4428737,MDEQ_WQ_WQX-C04TROTC02,Montana,Trout Creek at Trout Creek Campground,Stream,47.11638,-114.8705,MT76M002_050,Trout Creek
+5.594622428,MDEQ_MPDES_WQX-ASHLEY-DS-S,Montana,Ashley Creek downstream of WWTP-South,Stream,48.174244,-114.308273,MT76O002_030,Ashley Creek
+4.656337565,MTWTRSHD_WQX-EGALRA,Montana,East Gallatin River about 1.7 miles downstream of Bridger Creek confluence,Stream,45.715,-111.04639,MT41H003_010,East Gallatin River
+6.201700037,MTWTRSHD_WQX-EGALRB,Montana,East Gallatin River about 0.3 stream miles u/s Bozeman WRF outfall,Stream,45.725662,-111.063943,MT41H003_010,East Gallatin River
+8.701145126,MTWTRSHD_WQX-EGALRC,Montana,East Gallatin River about 0.9 stream miles d/s Bozeman WRF outfall,Stream,45.728426,-111.072385,MT41H003_020,East Gallatin River
+9.031906066,MTWTRSHD_WQX-EGALRD,Montana,East Gallatin River 0.3 stream miles d/s Riverside Water & Sewer District ponds,Stream,45.73847,-111.068989,MT41H003_020,East Gallatin River
+6.955794969,MTWTRSHD_WQX-EGALRF,Montana,East Gallatin River lower third of river reach,Stream,45.768425,-111.097836,MT41H003_020,East Gallatin River
+1.444644076,MTWTRSHD_WQX-EGALRI,Montana,East Gallatin River upstream of Dry Creek irrigation system return flow,Stream,45.88921,-111.26408,MT41H003_030,East Gallatin River
+4.48417307,MTWTRSHD_WQX-EGALUSGS,Montana,East Gallatin River above Springhill Road,Stream,45.725633,-111.066526,MT41H003_010,East Gallatin River
+4.381423951,MTWTRSHD_WQX-EGRF2,Montana,East Gallatin River upstream of the Hyalite Creek confluence,Stream,45.7888,-111.1195,MT41H003_020,East Gallatin River
+3.801627107,MTWTRSHD_WQX-EGRF3,Montana,East Gallatin River along Kelly Canyon Road,Stream,45.6712,-110.9751,MT41H003_010,East Gallatin River
+6.784754447,MTWTRSHD_WQX-GALHRNGR,Montana,Gallatin River at Harringer Bridge,Stream,45.52309,-111.25025,MT41H001_010,Gallatin River
+50.04490011,MDEQ_WQ_WQX-C13VERMR03,Montana,Vermilion River 3 mi upstream from mouth,Stream,47.85587,-115.48323,MT76N003_130,Vermilion River
+17.18162786,MDEQ_WQ_WQX-C13VERMR10,Montana,Vermilion River at private bridge,Stream,47.843663,-115.528261,MT76N003_130,Vermilion River
+27.71510363,MDEQ_WQ_WQX-C13VERMR08,Montana,Vermilion River near 20 Odd Rd,Stream,47.849932,-115.514958,MT76N003_130,Vermilion River
+1.140390193,MDEQ_MPDES_WQX-ASHLEY-US-N,Montana,Ashley Creek upstream of WWTP-North,Stream,48.174395,-114.308661,MT76O002_030,Ashley Creek
+6.828991723,MTWTRSHD_WQX-GALLATIN_BLW_WF,Montana,Gallatin River 3.5 miles downstream West Fork Gallatin confluence,Stream,45.29751,-111.20941,MT41H001_021,Gallatin River
+5.035783226,MTWTRSHD_WQX-HASK-CRK-MR,Montana,Haskill Creek at Monegan Road,Stream,48.38888,-114.30968,MT76P003_070,Haskill Creek
+1.135138869,MTWTRSHD_WQX-HYLTCM,Montana,Hyalite Creek near mouth (East Gallatin River),Stream,45.793692,-111.127994,MT41H003_132,Hyalite Creek
+7.62215174,MTWTRSHD_WQX-HYLTCVCRD,Montana,Hyalite Creek at Valley Center Road,Stream,45.729384,-111.154872,MT41H003_132,Hyalite Creek
+3.917477087,MTWTRSHD_WQX-LBF-SW-03,Montana,Little Blackfoot River downstream of Blackfeet 1,Stream,46.471709,-112.426347,MT76G004_020,Little Blackfoot River
+9.085875434,MTWTRSHD_WQX-LBF-SW-04,Montana,Little Blackfoot River upstream of Blackfeet 1,Stream,46.46082,-112.419275,MT76G004_020,Little Blackfoot River
+20.41204109,MDEQ_WQ_WQX-M09WMSC01,Montana,Warm Springs Creek 1 mi N of Clancy,Stream,46.450278,-111.986111,MT41I006_110,Warm Springs Creek
+11.86918591,USGS-12323760,Montana,Warm Springs Creek near Anaconda MT,Stream,46.13366667,-112.9031528,MT76G002_012,Warm Springs Creek
+0.466792687,MTWTRSHD_WQX-MANVC01,Montana,Mandeville Creek above Red Wing Drive,Stream,45.707224,-111.055545,MT41H003_021,Mandeville Creek
+4.878900674,MTWTRSHD_WQX-MFWF_MOUTH,Montana,Near Mouth of the Middle Fork of the West Fork,Stream,45.26627,-111.32168,MT41H005_050,Middle Fork West Fork Gallatin River
+3.494462242,MTWTRSHD_WQX-OUSEL,Montana,South Fork West Fork Gallatin River at Ousel Falls Trail Bridge,Stream,45.241867,-111.334806,MT41H005_060,South Fork West Fork Gallatin River
+7.958480119,MTWTRSHD_WQX-SFWF_MOUTH,Montana,Near Mouth of South Fork of the West Fork,Stream,45.26656,-111.28001,MT41H005_060,South Fork West Fork Gallatin River
+10.82123286,MTWTRSHD_WQX-WFGR_ABV_GOLF,Montana,West Fork of the Gallatin River above the Golf Course,Stream,45.26416,-111.31082,MT41H005_040,West Fork Gallatin River
+10.34379456,MTWTRSHD_WQX-WGALMTH,Montana,West Gallatin River above Nixon Gulch Road,Stream,45.891056,-111.333872,MT41H001_010,Gallatin River
+3.68225006,MTWTRSHD_WQX-SUN-MUDYC02,Montana,Muddy Creek,Stream,47.56762,-111.5503,MT41K002_010,Muddy Creek
+48.9619934,MTWTRSHD_WQX-WF-R-SPB,Montana,Whitefish River at Skye Park Bridge,Stream,48.415199,-114.351435,MT76P003_010,Whitefish River
+30.52808944,MDEQ_WQ_WQX-C09WHTFR01,Montana,Whitefish River N of Kalispell on Tetrrault Road N of bridge,Stream,48.320556,-114.278611,MT76P003_010,Whitefish River
+5.37550212,MTWTRSHD_WQX-SWIFT-CRK-DEL,Montana,Swift Creek at Delrey,Stream,48.4852,-114.43361,MT76P003_020,Swift Creek
+6.428750543,MTWTRSHD_WQX-SWIFT-CRK-OLN,Montana,Swift Creek at Olney,Stream,48.60897,-114.51594,MT76P003_020,Swift Creek
+0.441503435,MTWTRSHD_WQX-TAYLORFK_MOUTH,Montana,Near Mouth of Taylor Fork,Stream,45.075954,-111.202045,MT41H005_020,Taylor Fork
+3.066416552,MTWTRSHD_WQX-TH01-M05TMPSC01,Montana,"Thompson Creek, at ranch rd nr confluence with East Gallatin",Stream,45.834844,-111.1615,MT41H003_090,Thompson Creek
+9.961489701,MTWTRSHD_WQX-THMPCM,Montana,Thompson Creek at mouth (East Gallatin River),Stream,45.837997,-111.160108,MT41H003_090,Thompson Creek
+14.79786235,MTVOLWQM_WQX-SF-WILLOWCR-A,Montana,Willow Creek A,Stream,46.32722,-114.135,MT76H004_110,Willow Creek
+34.64803454,MDEQ_WQ_WQX-Y05WILOC90,Montana,Willow Creek at lowermost bridge above Cooney Reservoir,Stream,45.425,-109.230556,MT43D002_070,Willow Creek
+4.117577462,MTWTRSHD_WQX-UPGL-GLTNR02,Montana,Gallatin River Middle Fork of West Fork just u/s of North Fk,Stream,45.2662,-111.3216,MT41H005_050,Middle Fork West Fork Gallatin River
+1.641033633,MTWTRSHD_WQX-UPGL-GLTNR04,Montana,Gallatin River South Fork on Two Rivers Road,Stream,45.2665,-111.2802,MT41H005_060,South Fork West Fork Gallatin River
+17.47331188,MDEQ_WQ_WQX-Y05WILOC45,Montana,Willow Creek at Taylor Hill Rd xing,Stream,45.293497,-109.261851,MT43D002_070,Willow Creek
+2.130662405,MTWTRSHD_WQX-UPGL-GLTNR10,Montana,Gallatin River West Fork upstream of Hwy 64,Stream,45.2684,-111.2747,MT41H005_040,West Fork Gallatin River
+43.87707255,MTVOLWQM_WQX-SF-WILLOWCR-B,Montana,Willow Creek B,Stream,46.29862,-114.0755,MT76H004_110,Willow Creek
+6.036711767,MTWTRSHD_WQX-UPGL-GLTNR17,Montana,Gallatin River Middle Fork of West Fork d/s Lake Lavinsky,Stream,45.2873,-111.3931,MT41H005_050,Middle Fork West Fork Gallatin River
+7.009998896,MTWTRSHD_WQX-UPGL-GLTNR36,Montana,Gallatin River West Fork downstream of Hwy 64 bridge,Stream,45.2656,-111.2577,MT41H005_040,West Fork Gallatin River
+17.66783876,MTVOLWQM_WQX-WS,Montana,Wise River - near confluence with Big Hole,Stream,45.797401,-112.949816,MT41D003_200,Wise River
+30.59774476,MDEQ_WQ_WQX-K01YAAKR01,Montana,Yaak River near Troy upstream of Hwy 2 bridge,Stream,48.56152,-115.97037,MT76B001_010,Yaak River
+5.601416035,MTWTRSHD_WQX-WFGR_BLW_GOLF,Montana,West Fork of the Gallatin River below the Golf Course,Stream,45.26827,-111.27458,MT41H005_040,West Fork Gallatin River
+13.12986832,NARS_WQX-NRS_MT-10295,Montana,Yellowstone River,Stream,46.86783617,-104.9952027,MT42M001_012,Yellowstone River
+19.0305904,NARS_WQX-NRS_MT-10385,Montana,Yellowstone River,Stream,45.12654817,-110.8041464,MT43B003_010,Yellowstone River
+5.918170189,NARS_WQX-NRS_MT-10276,Montana,Clark Fork,Stream,47.06636464,-114.7698541,MT76M001_010,Clark Fork River
+37.65316566,MDEQ_WQ_WQX-Y23YELLR03,Montana,Yellowstone River 1/4 mile above Calypso Bridge,Stream,46.7763,-105.4067,MT42M001_012,Yellowstone River
+84.96744103,MDEQ_WQ_WQX-Y12YELSR60,Montana,Yellowstone River 3 mi. d/s Hwy 87 bridge,Stream,45.82611,-108.42584,MT43F001_010,Yellowstone River
+7.221199034,NARS_WQX-NRS_MT-10285,Montana,Missouri River,Stream,47.41434672,-111.4986289,MT41Q001_022,Missouri River
+6.283931768,NARS_WQX-NRS_MT-10286,Montana,Tongue River,Stream,46.35963125,-105.8140483,MT42C001_011,Tongue River
+89.58828784,MDEQ_WQ_WQX-Y06YELSR05,Montana,Yellowstone River about 1.5 miles downstream Hwy 212 bridge,Stream,45.65,-108.73297,MT43F001_011,Yellowstone River
+93.69432846,MDEQ_WQ_WQX-Y12YELSR05,Montana,Yellowstone River across from mouth of Pryor Creek,Stream,45.88944,-108.31889,MT43Q001_011,Yellowstone River
+80.10320405,MTVOLWQM_WQX-YR_AI,Montana,Yellowstone River at Amelia Island FAS,Stream,46.314038,-107.239652,MT42K001_020,Yellowstone River
+6.041610161,NARS_WQX-NRS_MT-10296,Montana,Swan River,Stream,47.90948455,-113.8706947,MT76K001_020,Swan River
+134.3630451,MDEQ_WQ_WQX-Y06YSR470,Montana,Yellowstone River at Billings Avenue bridge,Stream,45.736111,-108.530556,MT43F001_011,Yellowstone River
+134.2375256,MDEQ_WQ_WQX-Y23YELLR60,Montana,Yellowstone River at Black Bridge FAS,Stream,47.09828,-104.73065,MT42M001_012,Yellowstone River
+25.27306956,MDEQ_WQ_WQX-Y03YELSR14,Montana,Yellowstone River at Brogan's Landing,Stream,45.10188,-110.78262,MT43B003_010,Yellowstone River
+8.139977897,NARS_WQX-NRS_MT-10312,Montana,Sun River,Stream,47.61666187,-112.6810545,MT41K001_010,Sun River
+8.713851985,NARS_WQX-NRS_MT-10313,Montana,None,Stream,48.14321127,-112.1246194,MT41P002_030,Pondera Coulee
+79.92745293,MDEQ_WQ_WQX-Y06YELSR01,Montana,Yellowstone River at Buffalo Mirage FAS,Stream,45.6103,-108.8414,MT43F001_012,Yellowstone River
+3.743147657,NARS_WQX-NRS_MT-10325,Montana,Clear Creek,Stream,48.54947096,-109.3916757,MT40J002_040,Clear Creek
+190.1539368,MTVOLWQM_WQX-YR_M387,Montana,Yellowstone River at Buffalo Mirage FAS,Stream,45.609455,-108.842394,MT43F001_012,Yellowstone River
+7.177028723,NARS_WQX-NRS_MT-10330,Montana,East Rosebud Creek,Stream,45.30787313,-109.5258197,MT43C002_062,East Rosebud Creek
+4.005922717,NARS_WQX-NRS_MT-10353,Montana,Newlan Creek,Stream,46.59422468,-111.0444186,MT41J002_081,Newlan Creek
+6.284786217,NARS_WQX-NRS_MT-10354,Montana,East Fork Blacktail Deer Creek,Stream,44.8992784,-112.2600543,MT41B002_040,East Fork Blacktail Deer Creek
+1.862199404,NARS_WQX-NRS_MT-10358,Montana,Beaver Creek,Stream,46.70854214,-104.2339646,MT39G001_010,Beaver Creek
+4.942835229,NARS_WQX-NRS_MT-10364,Montana,Jim Creek,Stream,47.57668586,-113.8351452,MT76K003_010,Jim Creek
+2.437551136,NARS_WQX-NRS_MT-10365,Montana,Cottonwood Creek,Stream,45.93953769,-110.5224726,MT43A002_031,Cottonwood Creek
+89.07418185,MTVOLWQM_WQX-YR_M328,Montana,Yellowstone River at Bundy Bridge FAS,Stream,45.9955,-108.01181,MT43Q001_011,Yellowstone River
+3.891578392,NARS_WQX-NRS_MT-10379,Montana,Milk River,Stream,48.36583596,-108.1536959,MT40J001_013,Milk River
+64.25150868,MDEQ_WQ_WQX-Y12YELSR20,Montana,Yellowstone River at Captain Clark FAS,Stream,46.0755,-107.7226,MT43Q001_011,Yellowstone River
+0.765396165,NARS_WQX-NRS_MT-10382,Montana,Clark Fork,Stream,47.53979919,-115.0797274,MT76N001_010,Clark Fork River
+0.729972253,NARS_WQX-NRS_MT-10384,Montana,Yellowstone River,Stream,46.88543585,-104.9552163,MT42M001_012,Yellowstone River
+94.14950457,MDEQ_WQ_WQX-Y03YELSR26,Montana,Yellowstone River at Carter bridge,Stream,45.597222,-110.565278,MT43B003_010,Yellowstone River
+41.13078274,MTVOLWQM_WQX-YEL9,Montana,Yellowstone River at Carter's Bridge Fishing Access,Stream,45.597,-110.566,MT43B003_010,Yellowstone River
+9.064786743,NARS_WQX-NRS_MT-10392,Montana,Blackfoot River,Stream,46.89505583,-113.8147573,MT76F001_033,Blackfoot River
+45.6873699,MDEQ_WQ_WQX-Y03YELSR13,Montana,Yellowstone River at Corwin Springs,Stream,45.111389,-110.793611,MT43B003_010,Yellowstone River
+0.406185654,NARS_WQX-NRS_MT-10398,Montana,Smith River,Stream,46.60898417,-111.0761684,MT41J001_010,Smith River
+5.057829751,NARS_WQX-NRS_MT-10399,Montana,Big Hole River,Stream,45.60842989,-113.4619921,MT41D001_030,Big Hole River
+46.88093524,MTVOLWQM_WQX-YEL2,Montana,Yellowstone River at Corwin Springs Fishing Access,Stream,45.107,-110.79,MT43B003_010,Yellowstone River
+95.97009629,MDEQ_WQ_WQX-Y06YSR520,Montana,Yellowstone River at Coulson park,Stream,45.790556,-108.473889,MT43F001_010,Yellowstone River
+7.950842501,NARS_WQX-NRS_MT-10437,Montana,Otter Creek,Stream,46.07532111,-110.0509399,MT43B004_012,Otter Creek
+3.182811171,NARS_WQX-NRS_MT-10447,Montana,South Fork Meadow Creek,Stream,48.78630519,-115.9950231,MT76B002_111,Meadow Creek
+9.889791338,NARS_WQX-NRS_MT-10503,Montana,West Fork Gallatin River,Stream,45.2646452,-111.3106917,MT41H005_040,West Fork Gallatin River
+19.55516021,MTVOLWQM_WQX-YEL6,Montana,Yellowstone River at Dan Bailey/Paradise Fishing Access,Stream,45.421,-110.637,MT43B003_010,Yellowstone River
+198.9497467,MDEQ_WQ_WQX-Y23YELLR06,Montana,Yellowstone River at Diamond Willow FAS at North Dakota border,Stream,47.75662,-104.05474,MT42M001_011,Yellowstone River
+9.104252123,NARS_WQX-NRS_MT-10506,Montana,Boulder River,Stream,45.80647911,-109.9562699,MT43B004_131,Boulder River
+9.352935847,NARS_WQX-NRS_MT-10508,Montana,Shields River,Stream,45.79139287,-110.5031308,MT43A001_011,Shields River
+6.737201145,NARS_WQX-NRS_MT-10509,Montana,West Fork Bitterroot River,Stream,45.91029157,-114.1590114,MT76H003_010,West Fork Bitterroot River
+8.676759126,NARS_WQX-NRS_MT-10511,Montana,Milk River,Stream,48.80089729,-110.1348123,MT40F003_010,Milk River
+1.14027736,NARS_WQX-NRS_MT-10513,Montana,Milk River,Stream,48.60258661,-107.6191811,MT40J001_013,Milk River
+8.619350854,NARS_WQX-NRS_MT-10514,Montana,Missouri River,Stream,47.44836547,-111.3010562,MT41Q001_022,Missouri River
+62.45474262,MDEQ_WQ_WQX-Y06YELSR20,Montana,Yellowstone River at Duck Creek Road crossing,Stream,45.69327,-108.64031,MT43F001_011,Yellowstone River
+4.854389406,NARS_WQX-NRS_MT-10544,Montana,Beaver Creek,Stream,47.06779872,-104.1518971,MT39G001_010,Beaver Creek
+17.70779996,MTVOLWQM_WQX-YR_M360,Montana,Yellowstone River at East Bridge FAS,Stream,45.797288,-108.469265,MT43F001_010,Yellowstone River
+2.250052285,NARS_WQX-NRS_MT-10558,Montana,Belt Creek,Stream,47.29045718,-110.9028238,MT41U001_011,Belt Creek
+6.739693014,NARS_WQX-NRS_MT-10559,Montana,Little Powder River,Stream,45.38505385,-105.3056374,MT42I001_010,Little Powder River
+151.4316823,MDEQ_WQ_WQX-Y12YELSR90,Montana,Yellowstone River at end of Coulsen Road,Stream,45.8519,-108.3884,MT43F001_010,Yellowstone River
+93.33235855,MDEQ_WQ_WQX-Y17YELSR08,Montana,Yellowstone River at Far West FAS,Stream,46.2774,-106.4828,MT42K001_010,Yellowstone River
+47.13544174,MDEQ_WQ_WQX-Y03YELSR21,Montana,Yellowstone River at Grey Owl FAS,Stream,45.39874,-110.70334,MT43B003_010,Yellowstone River
+4.741377527,NARS_WQX-NRS_WY-10559,Wyoming,Salt Creek,Stream,43.68237247,-106.3391975,WYPR100902040300_01,Salt Creek 
+71.29744045,MTVOLWQM_WQX-YEL5,Montana,Yellowstone River at Grey Owl Fishing Access,Stream,45.398,-110.704,MT43B003_010,Yellowstone River
+34.97839906,MTVOLWQM_WQX-YR_M349,Montana,Yellowstone River at Huntley Bridge upstream of Hwy 312,Stream,45.90367,-108.316738,MT43Q001_011,Yellowstone River
+9.938984701,NRTHCHEY-TR002,Montana,Tongue River at Birney Bridge,Stream,45.41188,-106.45733,MT42C001_013,Tongue River
+104.2616601,MTVOLWQM_WQX-CLARKSFK-LAUREL,Montana,Yellowstone River at Laurel Bridge,Stream,45.654267,-108.757217,MT43F001_011,Yellowstone River
+112.8616643,MDEQ_WQ_WQX-Y17YELSR12,Montana,Yellowstone River at low head dam in Forsyth,Stream,46.2747,-106.6792,MT42K001_020,Yellowstone River
+27.54730096,MTVOLWQM_WQX-YEL7,Montana,Yellowstone River at Mallard's Rest Fishing Access,Stream,45.483,-110.62,MT43B003_010,Yellowstone River
+111.350416,MDEQ_WQ_WQX-Y17YELSR93,Montana,Yellowstone River at Myers Bridge FAS,Stream,46.254,-107.3441,MT42K001_020,Yellowstone River
+220.8638665,MDEQ_WQ_WQX-Y06YELSR10,Montana,Yellowstone River at Mystic Park,Stream,45.76891,-108.47524,MT43F001_011,Yellowstone River
+59.28208793,MTVOLWQM_WQX-YEL8,Montana,Yellowstone River at Pine Creek Fishing Access,Stream,45.512,-110.583,MT43B003_010,Yellowstone River
+21.94731319,MDEQ_WQ_WQX-Y12YSR625,Montana,Yellowstone River at Pompey's Pillar,Stream,45.996389,-108.009722,MT43Q001_011,Yellowstone River
+49.1497935,MDEQ_WQ_WQX-Y01YELSR90,Montana,Yellowstone River at Queen of the Waters FAS,Stream,45.04474,-110.73769,MT43B001_010,Yellowstone River
+83.60416439,MTVOLWQM_WQX-YEL4,Montana,Yellowstone River at Reedfly Farm,Stream,45.328,-110.773,MT43B003_010,Yellowstone River
+25.61441703,MDEQ_WQ_WQX-Y17YELSR09,Montana,Yellowstone River at Rosebud West FAS,Stream,46.2658,-106.6924,MT42K001_020,Yellowstone River
+98.1579158,MDEQ_WQ_WQX-Y23YELLR01,Montana,Yellowstone River at Sidney,Stream,47.673611,-104.1575,MT42M001_011,Yellowstone River
+52.195229,MDEQ_WQ_WQX-Y23YELLR55,Montana,Yellowstone River at Stipek FAS,Stream,47.2052,-104.659,MT42M001_012,Yellowstone River
+28.80039448,MDEQ_WQ_WQX-Y12YELSR03,Montana,Yellowstone River at Voyagers Rest FAS,Stream,45.99749,-108.12608,MT43Q001_011,Yellowstone River
+75.099643,MTVOLWQM_WQX-YEL1,Montana,Yellowstone River by Gardiner Airport,Stream,45.045,-110.738,MT43B001_010,Yellowstone River
+103.9213597,MDEQ_WQ_WQX-Y17YELSR30,Montana,Yellowstone River downstream 1902 Bridge,Stream,46.371,-105.934,MT42K001_010,Yellowstone River
+14.73945523,MDEQ_WQ_WQX-Y23YELLR50,Montana,Yellowstone River downstream diversion dam,Stream,47.2797,-104.5256,MT42M001_011,Yellowstone River
+90.6554723,MDEQ_WQ_WQX-Y23YELLR92,Montana,Yellowstone River downstream Powder River at Terry,Stream,46.80384,-105.2957,MT42M001_012,Yellowstone River
+19.72490422,MTVOLWQM_WQX-YEL3,Montana,Yellowstone River downstream Tom Miner confluence,Stream,45.205,-110.902,MT43B003_010,Yellowstone River
+45.1296131,MDEQ_WQ_WQX-Y01YELSR01,Montana,Yellowstone River just downstream Gardner River,Stream,45.02994,-110.70121,MT43B001_010,Yellowstone River
+4.061027422,USACENWS_WQX-LIBTW,Montana,Tailwater,Stream,48.406555,-115.317283,MT76D001_010,Kootenai River
+54.87111793,MDEQ_WQ_WQX-Y12YELSR04,Montana,Yellowstone River on BLM land,Stream,46.14061,-107.58434,MT43Q001_011,Yellowstone River
+154.9018906,MTVOLWQM_WQX-YR_M298,Montana,Yellowstone River under Musselshell Trail Road Bridge,Stream,46.140582,-107.548564,MT43Q001_011,Yellowstone River
+71.83027003,MDEQ_WQ_WQX-Y12YELSR02,Montana,Yellowstone River upstream of Huntley diversion dam,Stream,45.87309,-108.3513,MT43F001_010,Yellowstone River
+6.101225567,WYDEQ_WATERSHED-SRI11,Wyoming,SRI11 - DOUGLAS CREEK - WILDERNESS,Stream,41.1313157,-106.4256477,WYNP101800020107_01,Douglas Creek
+9.518766598,WYDEQ_WATERSHED-SRI14,Wyoming,SRI14 - DOUGLAS CREEK - PELTON,Stream,41.0755951,-106.3029144,WYNP101800020105_03,Douglas Creek
+104.0731708,MDEQ_WQ_WQX-Y17YELSR10,Montana,Yellowstone River upstream of Hwy 59 bridge,Stream,46.421,-105.8619,MT42K001_010,Yellowstone River
+92.90413172,MDEQ_WQ_WQX-Y17YELSR45,Montana,YellowstoneRiver at Roche Saune FAS,Stream,46.42139,-105.85665,MT42K001_010,Yellowstone River
+12.07489056,MTVOLWQM_WQX-RSYUNG,Montana,Young Creek,Stream,48.96261,-115.196781,MT76D002_131,Young Creek
+2.858275104,WYDEQ_WATERSHED-WHP20,Wyoming,WHP20 - BEAR CREEK - BELOW LITTLE BEAR CREEK (BC7),Stream,41.6160556,-104.609575,WYNP101800120300_01,Bear Creek
