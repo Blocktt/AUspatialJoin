@@ -20,8 +20,9 @@ streams_shp <- sf::st_read(dsn = fn_shp, layer = "ATTAINS_Lines_MTWY") %>%
   sf::st_transform('+proj=longlat +datum=WGS84')
 
 ## streams simp ####
-streams_simp_shp <- sf::st_read(dsn = fn_shp, layer = "ATTAINS_Lines_MTWY_Simplify15m") %>%
-  sf::st_transform('+proj=longlat +datum=WGS84')
+streams_simp_shp <- sf::st_read(dsn = fn_shp, layer = "ATTAINS_Lines_MTWY_Simplify100m") %>%
+  sf::st_transform('+proj=longlat +datum=WGS84') %>% 
+  select(AU_ID, AU_NAME, geometry)
 
 ## lakes ####
 lakes_shp <- sf::st_read(dsn = fn_shp, layer = "ATTAINS_Areas_MTWY") %>%

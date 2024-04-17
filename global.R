@@ -1,7 +1,7 @@
 # Shiny Global File
 
 # Version ----
-pkg_version <- "v0.0.1"
+pkg_version <- "v0.1.1"
 
 # Packages----
 library(shiny)
