@@ -5,9 +5,17 @@ function() {
            , fluidRow(
              box(width = 3, status = "info", solidHeader = TRUE,
                  title = "App Control"
-            , h4("Join Monitoring Locations to AUs")
+            , p("Use the App Control to correctly assign sites to AUs."
+              , "Sites will be joined to the existing "
+              ,a("AU crosswalk table."
+                 , href = "https://raw.githubusercontent.com/Blocktt/ShinyAppDocuments/main/AUSpatialJoin/MonLoc_to_AU_Crosswalk_20240415.xlsx"
+                 , target="_blank")
+              , "Sites not included in the table will be spatially joined"
+              , "to the EPA ATTAINS spatial layers. These sites will need analyst review."
+              , "Results will be shown via the table and map below once the join is complete.")
+            , h4("1. Join Monitoring Locations to AUs")
             , actionButton("b_Calc", "Join AUs")
-            , h4("Download Results")
+            , h4("2. Download Results")
             , p("All input and output files will be available in a single zip file.")
             , shinyjs::disabled(downloadButton("b_download"
                                                , "Download Results"))

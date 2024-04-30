@@ -185,11 +185,13 @@ shiny::observeEvent(input$b_Calc, {
   
   df_Lake_Unmatched <- df_joinedMonLocAU %>%
     filter(is.na(AU_ID) & (MonitoringLocationTypeName %in% Lake_types)) %>% 
-    select(-c(AU_ID, AU_NAME))
+    select(-c(AU_ID, AU_NAME, DrinkingWater_Use, Ecological_Use
+              , FishConsumption_Use, Recreational_Use, Other_Use))
 
   df_Stream_Unmatched <- df_joinedMonLocAU %>%
     filter(is.na(AU_ID) & (MonitoringLocationTypeName %in% Stream_types)) %>% 
-    select(-c(AU_ID, AU_NAME))
+    select(-c(AU_ID, AU_NAME, DrinkingWater_Use, Ecological_Use
+              , FishConsumption_Use, Recreational_Use, Other_Use))
 
   # 4. Spatial Joins ####
   # Increment the progress bar, and update the detail text.
@@ -218,9 +220,16 @@ shiny::observeEvent(input$b_Calc, {
 
     ### spatial join
     lake_SpatJoin <- sf::st_join(lakes_pts, GISlayer_lakes_transformed
-                                 , join = st_nearest_feature) %>% # join points and AUs
-      select(MonitoringLocationIdentifier, MonitoringLocationName
-             , MonitoringLocationTypeName, State, AU_ID, AU_NAME) # trim unneccessary columns
+                                 , join = st_nearest_feature) # join points and AUs
+      # select(MonitoringLocationIdentifier, MonitoringLocationName
+      #        , MonitoringLocationTypeName, State, AU_ID, AU_NAME, cultural_u
+      #        , drinkingwa, ecological, fishconsum, recreation, other_use) %>%  # trim unneccessary columns
+      # rename(Cultural_Use = cultural_u
+      #        , DrinkingWater_Use = drinkingwa
+      #        , Ecological_Use = ecological
+      #        , FishConsumption_Use = fishconsum
+      #        , Recreational_Use = recreation
+      #        , Other_Use = other_use)
 
     ### determine distance (m) between points and nearest feature
     near_feat <- sf::st_nearest_feature(lakes_pts, GISlayer_lakes_transformed)
@@ -265,9 +274,9 @@ shiny::observeEvent(input$b_Calc, {
     
     ### spatial join
     stream_SpatJoin <- sf::st_join(streams_pts, GISlayer_streams_transformed
-                                 , join = st_nearest_feature) %>% # join points and AUs
-      select(MonitoringLocationIdentifier, MonitoringLocationName
-             , MonitoringLocationTypeName, State, AU_ID, AU_NAME) # trim unneccessary columns
+                                 , join = st_nearest_feature) # join points and AUs
+      # select(MonitoringLocationIdentifier, MonitoringLocationName
+      #        , MonitoringLocationTypeName, State, AU_ID, AU_NAME) # trim unneccessary columns
     
     ### determine distance (m) between points and nearest feature
     near_feat <- sf::st_nearest_feature(streams_pts, GISlayer_streams_transformed)
@@ -314,11 +323,15 @@ shiny::observeEvent(input$b_Calc, {
   if (is.null(df_SpatJoin_Final)){
     df_MonLocAU_4Map <- df_MonLocMatched %>% 
       mutate(MatchGroup = case_when((Dist_to_AU_m > 0) ~ "UnMatched"
-                                    , TRUE ~ "Matched"))
+                                    , TRUE ~ "Matched")) %>%
+      select(-c(DrinkingWater_Use, Ecological_Use, FishConsumption_Use
+                , Recreational_Use, Other_Use))
   } else {
     df_MonLocAU_4Map <- rbind(df_MonLocMatched, df_SpatJoin_Final)%>% 
       mutate(MatchGroup = case_when((Dist_to_AU_m > 0) ~ "UnMatched"
-                                    , TRUE ~ "Matched"))
+                                    , TRUE ~ "Matched")) %>%
+      select(-c(DrinkingWater_Use, Ecological_Use, FishConsumption_Use
+                , Recreational_Use, Other_Use))
   } # END ~ if/else
   
   ## 5. Display data ####
@@ -329,8 +342,21 @@ shiny::observeEvent(input$b_Calc, {
       return(NULL)
     }##IF~is.null~END
     
-    # datatable(df_MonLocAU_4Map, selection = "single")
-    return(df_MonLocAU_4Map)
+    # Filter df_MonLocAU_4Map based on input_site_choice
+    filtered_df <- df_MonLocAU_4Map
+    
+    if (input$input_site_choice != "") {
+      mySite <- input$input_site_choice
+      
+      filtered_df <- df_MonLocAU_4Map %>% 
+        filter(MonitoringLocationIdentifier == mySite)
+      }##IF~END
+    
+    # Return the filtered dataframe
+    return(filtered_df)
+    
+    # # datatable(df_MonLocAU_4Map, selection = "single")
+    # return(df_MonLocAU_4Map)
     
   }##expression~END
   , selection = "single"
@@ -447,6 +473,25 @@ shiny::observeEvent(input$b_Calc, {
                  , position = "bottomright")
     }) # END ~ renderLeaflet
   
+  ## Map Zoom ####
+  # Map that filters output data to a single location
+  observeEvent(input$input_site_choice, {
+    req(input$input_site_choice != "")
+    
+    mySite <- input$input_site_choice
+    
+    df_MonLocAU_select <- df_MonLocAU_4Map %>% 
+      filter(MonitoringLocationIdentifier == mySite)
+    
+    site_long <- df_MonLocAU_select$Longitude # longitude
+    site_lat <- df_MonLocAU_select$Latitude # latitude
+    
+    # modfiy map
+    leafletProxy("mymap") %>%
+      # setView(lng = site_long, lat = site_lat, zoom = 12)
+      flyTo(lng = site_long, lat = site_lat, zoom = 16)
+  })#observeEvent ~ END
+  
   # Increment the progress bar, and update the detail text.
   incProgress(1/n_inc, detail = "Process completed")
   Sys.sleep(0.25)
@@ -471,6 +516,25 @@ shiny::observeEvent(input$b_Calc, {
   
   # button, enable, download
   # shinyjs::enable("b_download")
+  
+  # Pop up ####
+  n_match <- sum(df_MonLocAU_4Map$MatchGroup == "Matched")
+  n_joinG50 <- sum(df_MonLocAU_4Map$MatchGroup == "UnMatched"
+                        & df_MonLocAU_4Map$Dist_to_AU_m >= 50)
+  n_joinL50 <- sum(df_MonLocAU_4Map$MatchGroup == "UnMatched"
+                        & df_MonLocAU_4Map$Dist_to_AU_m < 50)
+  msg <- paste0("The AU join is complete, but results take ~30 seconds to render in the app!"
+                , " Please be patient and wait for the map to render to use in QC review of spatial joins.", "\n\n"
+                , "Number of sites matched to AUs = ", n_match, "\n\n"
+                , "Number of sites spatially joined to AUs (<50m distance) = ", n_joinL50, "\n\n"
+                , "Number of sites spatially joined to AUs (>=50m distance) = ", n_joinG50, "\n\n")
+  shinyalert::shinyalert(title = "Task Complete"
+                         , text = msg
+                         , type = "success"
+                         , closeOnEsc = TRUE
+                         , closeOnClickOutside = TRUE
+                         , size = "m")
+  # validate(msg)
 
   }) #END ~ withProgress
 }) # END ~ observeEvent

@@ -1,7 +1,7 @@
 # Shiny Global File
 
 # Version ----
-pkg_version <- "v0.1.1"
+pkg_version <- "v0.1.2"
 
 # Packages----
 library(shiny)
@@ -53,18 +53,34 @@ httr::GET(url_au_table2, httr::write_disk(temp_au_table))
 df_ML2AU_orig <- as.data.frame(readxl::read_excel(temp_au_table))
 
 df_ML2AU <- df_ML2AU_orig %>% 
-  select(MonitoringLocationIdentifier, AU_ID, AU_NAME)
+  select(MonitoringLocationIdentifier, AU_ID, AU_NAME, DrinkingWater_Use
+         , Ecological_Use, FishConsumption_Use, Recreational_Use, Other_Use)
 
 ## AU Shapefiles ####
 load(file = "data/GISlayer_streams.rda")
 GISlayer_streams_transformed <- streams_shp %>% 
-  sf::st_transform(2818)
+  sf::st_transform(2818) %>%
+  select(AU_ID, AU_NAME, drinkingwa, ecological, fishconsum, recreation
+         , other_use) %>%  # trim unneccessary columns
+  rename(DrinkingWater_Use = drinkingwa
+         , Ecological_Use = ecological
+         , FishConsumption_Use = fishconsum
+         , Recreational_Use = recreation
+         , Other_Use = other_use)
+  
 
 load(file = "data/GISlayer_streams_simp.rda")
 
 load(file = "data/GISlayer_lakes.rda")
 GISlayer_lakes_transformed <- lakes_shp %>% 
-  sf::st_transform(2818)
+  sf::st_transform(2818) %>%
+  select(AU_ID, AU_NAME, drinkingwa, ecological, fishconsum, recreation
+         , other_use) %>%  # trim unneccessary columns
+  rename(DrinkingWater_Use = drinkingwa
+         , Ecological_Use = ecological
+         , FishConsumption_Use = fishconsum
+         , Recreational_Use = recreation
+         , Other_Use = other_use)
 
 ## Waterbody types ####
 Lake_types <- c("Lake, Reservoir, Impoundment", "Reservoir", "Lake")
