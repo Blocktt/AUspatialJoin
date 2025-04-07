@@ -17,6 +17,7 @@ library(httr)
 library(sf)
 library(leaflet)
 library(purrr)
+library(EPATADA) #https://github.com/USEPA/EPATADA
 
 # Source ----
 path_results <- "Results"
@@ -30,6 +31,9 @@ tab_code_import                <- source("external/tab_import.R"
                                          , local = TRUE)$value
 tab_code_tab_AUjoin            <- source("external/tab_AUjoin.R"
                                          , local = TRUE)$value
+
+# Timeout ----
+options(timeout = 600)
 
 # Console Message ----
 message(paste0("Interactive: ", interactive()))
@@ -46,15 +50,14 @@ options(shiny.maxRequestSize = mb_limit * 1024^2)
 #   select(MonitoringLocationIdentifier, AU_ID, AU_NAME)
 
 url_au_table <- "https://github.com/Blocktt/ShinyAppDocuments/raw/main/AUSpatialJoin"
-url_au_table2 <- file.path(url_au_table, "MonLoc_to_AU_Crosswalk_20240415.xlsx")
+url_au_table2 <- file.path(url_au_table, "MonLoc_to_AU_Crosswalk_20250407.xlsx")
 temp_au_table <- tempfile(fileext = ".xlsx")
 httr::GET(url_au_table2, httr::write_disk(temp_au_table))
 
 df_ML2AU_orig <- as.data.frame(readxl::read_excel(temp_au_table))
 
 df_ML2AU <- df_ML2AU_orig %>% 
-  select(MonitoringLocationIdentifier, AU_ID, AU_NAME, DrinkingWater_Use
-         , Ecological_Use, FishConsumption_Use, Recreational_Use, Other_Use)
+  select(MonitoringLocationIdentifier, AU_ID, AU_NAME)
 
 ## AU Shapefiles ####
 load(file = "data/GISlayer_streams.rda")
