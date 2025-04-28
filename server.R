@@ -167,8 +167,8 @@ shiny::observeEvent(input$b_Calc, {
   incProgress(1/n_inc, detail = "Join, crosswalk")
   Sys.sleep(0.25)
   
-  df_joinedMonLocAU <- dplyr::left_join(df_WQData, df_ML2AU
-                               , by = "MonitoringLocationIdentifier")
+  df_joinedMonLocAU <- df_WQData %>%
+    dplyr::left_join(df_ML2AU, by = "MonitoringLocationIdentifier")
 
   # 2. Filter matched MonLoc ####
   # Increment the progress bar, and update the detail text.
@@ -191,6 +191,7 @@ shiny::observeEvent(input$b_Calc, {
            , AU_Info_Source = "Regional Crosswalk Table"
            , Need_Review = "No") %>% 
     select(Need_Review, AU_Info_Source, everything())
+  # from crosswalk table
 
   # 3. Unmatched MonLoc by Type ####
   # Increment the progress bar, and update the detail text.
@@ -205,6 +206,7 @@ shiny::observeEvent(input$b_Calc, {
   incProgress(1/n_inc, detail = "GetATTAINS")
   Sys.sleep(0.25)
   
+  # TODO only need to get attains if there are unmatched (need an if else here)
   ### 4a. Get ATTAINS ####
   # https://usepa.github.io/EPATADA/articles/TADAModule2.html
   
@@ -213,39 +215,61 @@ shiny::observeEvent(input$b_Calc, {
   #                                           , return_sf = FALSE)
   
   site_ids <- unique(df_WQ_Spatial$MonitoringLocationIdentifier)
+  num_site_ids <- length(site_ids)
   chunk_size <- 10
   results_list <- list()
-  
-  for (i in seq(1, length(site_ids), by = chunk_size)) {
-    # Get the current chunk of SiteIDs
-    current_chunk <- site_ids[i:min(i + chunk_size - 1, length(site_ids))]
-    
-    # Filter df_WQ_Spatial for the current chunk
-    df_chunk <- df_WQ_Spatial %>% filter(MonitoringLocationIdentifier
-                                         %in% current_chunk)
+
+  # if number of unique site ids is <= chunk size
+  if (num_site_ids <= chunk_size) {
     
     # Retrieve data from the API for the current chunk
-    df_chunk_data <- EPATADA::TADA_GetATTAINS(.data = df_chunk
-                                              , return_sf = FALSE)
+    df_chunk_data <- df_WQ_Spatial %>% 
+      EPATADA::TADA_GetATTAINS(return_sf = FALSE)
     
     # Store the result in the list
     results_list[[length(results_list) + 1]] <- df_chunk_data
     
     # Print progress message
-    print(paste(min(i + chunk_size - 1, length(site_ids)), "of"
-                , length(site_ids), "complete"))
+    print(paste(num_site_ids, "of", num_site_ids, "unique site ids complete"))
     
     # Show notification
-    showNotification(paste(min(i + chunk_size - 1, length(site_ids))
-                           , "of", length(site_ids), "complete")
-                     , type = "message")
-    
+    showNotification(paste(num_site_ids, "of", num_site_ids, "unique site ids complete"),
+                     type = "message")
     
   }
   
+  # else number of unique ids is > chunk size
+  else {
+    for (i in seq(1, num_site_ids, by = chunk_size)) {
+      # Get the current chunk of SiteIDs
+      current_chunk <- site_ids[i:min(i + chunk_size - 1, num_site_ids)]
+      
+      # Filter df_WQ_Spatial for the current chunk
+      df_chunk <- df_WQ_Spatial %>%
+        filter(MonitoringLocationIdentifier %in% current_chunk)
+      
+      # Retrieve data from the API for the current chunk
+      df_chunk_data <- df_chunk %>% 
+        EPATADA::TADA_GetATTAINS(return_sf = FALSE)
+      
+      # Store the result in the list
+      results_list[[length(results_list) + 1]] <- df_chunk_data
+      
+      # Print progress message
+      print(paste(min(i + chunk_size - 1, num_site_ids), "of", num_site_ids, "unique site ids complete"))
+      
+      # Show notification
+      showNotification(paste(min(i + chunk_size - 1, num_site_ids), "of", num_site_ids, "unique site ids complete"),
+                       type = "message")
+    }
+  }
+
   # Combine all the results into a single dataframe
   df_WQ_ATTAINS <- bind_rows(results_list)
   
+  # check
+  # unique(df_WQ_ATTAINS$MonitoringLocationIdentifier)
+  # length(unique(df_WQ_ATTAINS$MonitoringLocationIdentifier))
   
   ### 4b. Pull joined AUs ####
   df_ATTAINS_AUs <- df_WQ_ATTAINS %>% 
@@ -255,12 +279,11 @@ shiny::observeEvent(input$b_Calc, {
            , ATTAINS.assessmentunitname, ATTAINS.waterTypeCode
            , LatitudeMeasure, LongitudeMeasure) %>% 
     distinct() %>% 
-    mutate(AU_ID_CrosswalkMatch = NA
-           , AU_NAME_CrosswalkMatch = NA
-           , AU_Info_Source = case_when((!is.na(ATTAINS.assessmentunitidentifier)) 
-                                        ~ "TADA ATTAINS Geospatial"
-                                        , TRUE ~ "No Match; Manual Match Needed")
-           , Need_Review = "Yes") %>% 
+    mutate(AU_ID_CrosswalkMatch = NA,
+           AU_NAME_CrosswalkMatch = NA,
+           AU_Info_Source = case_when((!is.na(ATTAINS.assessmentunitidentifier)) ~ "TADA ATTAINS Geospatial",
+                                      TRUE ~ "No Match; Manual Match Needed"),
+           Need_Review = "Yes") %>% 
     select(Need_Review, AU_Info_Source, everything())
   
   ### 4c. Merge AU dfs ####
@@ -269,7 +292,7 @@ shiny::observeEvent(input$b_Calc, {
   ### 4d. QC checks ####
   dup_check <- df_ML2AU_4Review %>% 
     count(MonitoringLocationIdentifier) %>% 
-    filter(n>1) %>% 
+    filter(n > 1) %>% 
     mutate(FLAG_Duplicate = "Duplicate from ATTAINS") %>% 
     select(-c(n))
   
