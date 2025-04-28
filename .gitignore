@@ -1,0 +1,22 @@
+# history files
+.Rhistory
+.Rapp.history
+
+# session data files
+.RData
+.RDataTmp
+
+# user-specific files
+.Ruserdata
+
+# r cache
+*_cache/
+
+# r project file
+.Rproj.user
+
+# ignore scratch folder
+scratch/
+
+# ignore results folder
+Results/
