@@ -14,6 +14,7 @@
 
 # r project file
 .Rproj.user
+.Rproj.user/
 
 # ignore scratch folder
 scratch/
