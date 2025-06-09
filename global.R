@@ -18,6 +18,7 @@ library(sf)
 library(leaflet)
 library(purrr)
 library(EPATADA) #https://github.com/USEPA/EPATADA
+library(tictoc)
 
 # Source ----
 path_results <- "Results"
